@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EHS 뉴스 레이더</title>
+<meta name="description" content="산업안전·보건·환경 관련 최신 뉴스를 한곳에서 모아보는 뉴스 레이더">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">⛑</span>
+      <div>
+        <h1>EHS 뉴스 레이더</h1>
+        <p class="sub">산업안전·보건 뉴스를 한곳에서</p>
+      </div>
+    </div>
+    <div class="top-r">
+      <span id="updated" class="updated"></span>
+      <button id="themeBtn" class="icon-btn" title="다크/라이트 전환" aria-label="테마 전환">◐</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="stats" id="stats" aria-label="요약"></section>
+
+  <section class="toolbar">
+    <input id="q" type="search" placeholder="기사 제목·매체 검색 (예: 추락, 중대재해, 화학물질)" aria-label="검색">
+    <select id="period" aria-label="기간">
+      <option value="1">오늘</option>
+      <option value="3">최근 3일</option>
+      <option value="7" selected>최근 7일</option>
+      <option value="14">최근 14일</option>
+      <option value="60">전체(60일)</option>
+    </select>
+    <select id="source" aria-label="매체"><option value="">전체 매체</option></select>
+    <button id="onlySaved" class="chip" aria-pressed="false">★ 저장한 기사</button>
+  </section>
+
+  <nav class="chips" id="chips" aria-label="카테고리"></nav>
+
+  <div class="layout">
+    <section>
+      <div class="list-head"><span id="resultCount"></span></div>
+      <ul id="list" class="list"></ul>
+      <button id="more" class="more" hidden>더 보기</button>
+      <p id="empty" class="empty" hidden>조건에 맞는 기사가 없습니다.</p>
+    </section>
+    <aside class="side">
+      <div class="card">
+        <h2>🔥 많이 다뤄진 키워드</h2>
+        <div id="kw" class="kw"></div>
+      </div>
+      <div class="card">
+        <h2>📰 매체별 기사 수</h2>
+        <ol id="srcRank" class="rank"></ol>
+      </div>
+    </aside>
+  </div>
+</main>
+
+<footer class="wrap foot">
+  기사 제목과 링크는 Google News RSS에서 수집한 것이며, 저작권은 각 언론사에 있습니다. 상세 내용은 원문 링크에서 확인하세요.
+</footer>
+
+<script src="data/news.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
