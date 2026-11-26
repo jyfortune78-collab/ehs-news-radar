@@ -1,7 +1,768 @@
 {
- "updated": "2026-11-26T13:15:53+09:00",
+ "updated": "2026-11-27T08:13:14+09:00",
  "count": 600,
  "items": [
+  {
+   "title": "[초점] 서울 등 5개 지방정부, 12월 8일부터 30인 미만 사업장 332곳 노동감독",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBReGV5bWJnb2Rkallra2lMcVVNcklUQnNBV2Z1WXhFR2hrWk1VS1daMjV1cEZSWDNneTZmQ0lEYVdPR0N3S3ZYVDdHelo5b2ZEdWwtRUlNSnAwdnpWbDd3T21EN0JMVjVIeXJ6WmowUHEyZw?oc=5",
+   "source": "아웃소싱타임스",
+   "published": "2026-11-27T06:38:20+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
+   "title": "[숫자로 본 중대재해 ②] 사망사고에서 기소까지 얼마나 걸렸을까",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aN0RnYWNGWGpqb1NYS3dnMUZOUks2RUluZXppUVlLQTl3QUZ0QW51cGx1V1hWbm1nYkp6MXVFUnBfWEM3UUFNeDNmNW1TdWNCd0E2MXQxTnZGZTItdUo4UnVmclNvNlBsUklVTHhOZG0?oc=5",
+   "source": "매일노동뉴스",
+   "published": "2026-11-27T06:30:03+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "5명 사망 세아베스틸 ‘면죄부’, 판결문엔 또 “유족과 합의”",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzYTBWbDdFUDlNSGk4eDBaX0NFelNMZ1VwUm03MnRxQmJjblc2MU9MemtHMDYyYXlnVEo5LVBwWHpiM0JyVXV6cE5FbUtYTjBpT3ZUOExUYWE5RmN0X0F2QjdxZ2t6aHNnRGRXUS1Rc0c?oc=5",
+   "source": "매일노동뉴스",
+   "published": "2026-11-27T06:30:03+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책"
+   ],
+   "queries": [
+    "산업재해",
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "태국 방콕 정유공장 폭발…7명 부상·주민 대피",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56TlhPc0JXZkhIbk9JY2tpd2YxUWN2MDFnbmFfcXpVVW5MS1Zrelh6NFc5MlAySUhBemRsdV9GZXpWTUdBajZ1U2l5X3JvUEJzb19nalJzVmdNcktLSkE3eTNxSnl2QQ?oc=5",
+   "source": "KBS 뉴스",
+   "published": "2026-11-27T06:23:00+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "문화체육관광부는 화재 예방 및 진압, 화재 및 폭발 예방, 구조 및 구호 활동을 강화하도록 지시한다.",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzMyZndDdmJ4ZXAzUnZlQnphOVU4N2IzQWE2ZlFKaXpsR2tKejNYRDJYMVdleFdCQnJpQlJKcllGYmtuUlIwd0haYndXeXdVdmROV2JYLXNDbVNBNDR4UHJaTjVrQlA5VnlnZE1WTWM1S1FBNUZsV3BNMXRwajlneEF0Sjc3cmJLVUNNZnFKcVJ4TXl5MHdZRzBXTkJNajAyb0tLTXlBZ3ltdXRGTGZZOURSWGVKUjJ3bG5B?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-27T06:14:20+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "예방·교육"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "산업안전보건위, 2027년 위험성평가 관련 사항 심의·의결",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lbXNNWEtUbUNwTV9sQjZqUFJvLTZTekRoR2N0MklDeVBnX21xekdnMG9SSXVYbWR4c3MwSGZSQ28yMktjcDNta0F4MHZsWEdxY2R3WFJLSzRGU3ZrRk1wMjZuYmszM3pw?oc=5",
+   "source": "고성미래신문",
+   "published": "2026-11-27T04:31:32+09:00",
+   "category": "산업보건",
+   "tags": [
+    "산업보건"
+   ],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
+   "title": "영종구, 밀폐공간 질식 사고 대비 긴급 구조 합동훈련 실시",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qajMxTVZtUlUtUWtzTS1NS01HMkpScHRxMDc1TWF2aVAzRVc0aGQ5ZWRnMHl0Q1ozamFtaEYwdDFrTU5BeGhpeUFvRlZ5SHBKVnZKT3VOZFN0dDFVN3ZwZ3hJNDRqdHM?oc=5",
+   "source": "경인신문",
+   "published": "2026-11-27T01:54:27+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "예방·교육"
+   ],
+   "queries": [
+    "질식 사고 밀폐공간"
+   ]
+  },
+  {
+   "title": "방콕 석유 시설 폭발 사고 발생: 9명 부상.",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMVZnNmZaQlhQZlEyd0I0bVBYQlVsdmhfNjFxQXA2WEk1UVByU1Y2SXZzbndZTW1LM3RuNnlwbTY1TndjZWQzanlvelVVWEI4Yk1hMTBNSEU3Q1cwQlR4X3RqWnI0V0tsam1rWUQ3WlNjTWZROWU2b0dicGQ2QQ?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-27T00:16:46+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "방콕에서 발생한 대규모 폭발로 많은 부상자가 발생했으며, 주민들은 긴급 대피했습니다.",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT1hPZ09feTVNOEpZZWU3TFlJeTVsZVVfTkNUQUhKN2FreklmOEFlczdrTnlhVmRqTS1mZ3REYU5DczIzS0NMT0pGUTZTSUZQbmhybTVlOC1LamhXeHEtZFp5WW9Cb25kSmpjVzJYcjRvUFhxSWp0ZnJXdjFOSUtHTGtmcURGaFVuQ0RvRWJabjhaWFI5MDZRSTlvWVB6Zw?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-26T23:56:57+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "한보총, 서미화 의원 초청 특강…\"노동자 생명·안전권이 인권경영 출발점\"",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SYXJKMG13aVMwdGl2LURUTmI0V01LYnJUMDllcjJRbXBYYnhvUWs3V3FZNThXTlR0MUpLZHJXcEZYdTBHT2VlWHhOWUlZblR3bDJ4YXhfd0NtblRoaUZPSjJtcWpPckxVbHFTM2FNT0JGcXMtVTNnNXpUWG8?oc=5",
+   "source": "비욘드포스트",
+   "published": "2026-11-26T23:22:58+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "충남교육청, 재난·중대(산업)재해 업무 담당자 역량 강화 연수",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80Ull3TTFhaU10MndIbEtaUzdacmRsekE5dkxXYUhwWWFVWDA0end4eE9hT2ZSNzRaVDU4MGMwdjlpbWVUb3Vtb2hsTW12TGxFeG92enhsb01JRmJaZmhtQjdvWHZhd1IydFVCNlF3?oc=5",
+   "source": "금산중앙신문방송",
+   "published": "2026-11-26T22:03:01+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "[오늘(26일)의 사건·사고] 인천 남동산단 공장 화재 1명 사망.. 김제 돈사 돼지 400마리 폐사",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tekN1X0w1ODZPcjFGWTNnODZxNHp4SG44U3ZiRDd4RUUzTkJyQklRYk1YM0pidHFEZVo1a0lVTzAtTkt4ZGsxYjVLX0h5LTVIdXo0OFdYSFdNeUFBcWc?oc=5",
+   "source": "한국재난안전뉴스",
+   "published": "2026-11-26T21:53:25+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "태국: 방콕의 정유 공장 화재로 7명 부상.",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjNvUFNhM3hRdmxzQlh4X3cwRERmRmd0Z0VCN0UwdWZyVTlmdnhOa1luV3VkTE93czVXRVQtejdEYmVnZjNqR1dkSUU5d25jR1R1b0taT0tfZnk0Q3Jxam9oYzdZRTBNSWNNcjF5dmVEaENDNXFfQjZDRFhONFBrWlU1aGZXTzhMWTQzR2dnbWViajBzMDVF?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-26T21:30:22+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "충남교육청, 중대재해 담당자 연수…관련 법령과 현장 대응 교육",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTMzZGbWZuUDlXdFIxMmYtSDlvazIwdFk1SlRWYW9EYW05dG5uTy1mcWVuZFNpd1N2ejRSTWJZNnF3OFhuRE9wZ2t3UFlSLXJHMXdjbmVUbWVBdkU0QXp4NWFGLUJZa290MFE?oc=5",
+   "source": "뉴스티앤티",
+   "published": "2026-11-26T21:10:39+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "＂커다란 불기둥＂ 순식간에…정유공장 폭발에 ＇아수라장＇ [글로벌 pick]",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Lel9MaFo5bl9Hd2dpc3VaSlVEVGo2NzcyWldpMElaUjlRT2lPRmluSUhJU2JibldPb2pVUklMUVZKdWFseGZDV0IwUjgyVENLU3NPTllfUlMtaFV6NTFPUjAwT1V1bmlFaDFCZUpIUjBUcHh4aDl3?oc=5",
+   "source": "한국경제TV",
+   "published": "2026-11-26T21:06:00+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "충남교육청 재난·산업재해 담당자 연수…법령 이해·실무 전문성 높인다",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tT1gwT1BYczFYWWFObGtCT290d3lWMkdjbDU1XzRGTkZXTF9IZS16TU5GMTlRM1M0eDJFMFpybUt0YmhOdnY0RTdRbzhaUHdVUmh2VE5oYjRhM3owVWFheVVRRjRReWVLQlZHZU93?oc=5",
+   "source": "국제뉴스",
+   "published": "2026-11-26T20:54:38+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "방콕의 한 정유 공장에서 대형 폭발이 발생했습니다.",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iNTYyQlNrUFp2eUpnODFrZFI0ZVhRcFlZTVdveFJKNXpnUzUtTjdXUFRxTG92dlRRazRqOFJJXzdySG1rRmZYSzF1bEhQLTkzMklMWGhQeHRZcmJsNnpyMV9KbFlQbUY2eTJQbDNqQQ?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-26T19:48:12+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "태국 방콕의 한 석유 저장소에서 대형 폭발이 발생했습니다.",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmQzVGTkpXMWNVZ1FyMWVFUi1SX0gxWl9heXByTVQ0WF9ENDR5bFF2OHM0cThUZUxJU1A0a3htb3pKbG1ZZjFVTkVPS0VXLUY3ZHptSVFjdHFKRnFZVHVldDEwWnNrUHNTNXh2Q2dLa18?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-26T19:48:09+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "김선아 연수구의원, 매년 발생하는 산업안전 비용까지 재난관리기금 사용…재정 운용 적정성 따져",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EenZIRTlPWks1NS1pbVN0NEtCcmxCZFcxQWJmU0FmMWUwVlBGR2xSZ0tiY2E2NEZnaENHVEVTYzUwT1BvdmFfMVRucHlST2YwaVNfRVJZVUp1ZlNUWktj?oc=5",
+   "source": "자치의정브리핑",
+   "published": "2026-11-26T19:47:02+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
+   "title": "태국 방콕 정유공장 폭발·화재‥7명 부상",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbEZuazhFSVF6eml5V3ZoUF9hN3AtNE1xNUlVTXJHNWI3d0dTMmJ3ZGN5OFVhSVlRcmFSMUJwYUZJU2E4SDVXNW9xUE5fZkREakxiYy1vWGc3N2NtaW9oYkdJMUl5OXIwcHVFdVBRZFRTOE840gF0QVVfeXFMTnFva0o1YS1iWV9oRUhibUZxMVJfMV9uVndJLXBuTHhNNHkxLTNmelFhU0NmNVZQR1ZVLVBVTDV0ZkRDd3FqZjlFSU0zOS1QTWpRVFhQN2lKTTk3c1pGYmdJSUpSaDdQUUFnVmhLNjRzQVlSazk?oc=5",
+   "source": "MBC 뉴스",
+   "published": "2026-11-26T19:43:18+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "태국 방콕서 정유공장 폭발·화재…7명 부상",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBUHNmWjRwQ05fdnZKUmtMb3hVYjFvZDkyWmlETUJBblpWeXRTQlFLanZBN0o4TjZ2SEVfT2J5NTdoWjRYWkpRTDk0LW82NHlEd3A3S3dTRnlIalI2VGN5ODFGSy1QQU0?oc=5",
+   "source": "연합뉴스TV",
+   "published": "2026-11-26T19:34:00+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "방콕 도심 정유공장서 폭발…생산시설 전면 중단 : 국제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mcG55cnZZd2NmM3puaXRxNnB0TndwUi1JLW1zamFiNDVPYnYzNFJCSllveDl2Z0RVUnBuQVZJRjl5RmlpSUFjVFUzUQ?oc=5",
+   "source": "재경일보",
+   "published": "2026-11-26T19:21:19+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "시흥시, 노동계·기업·대학과 손잡고 산업전환 대응",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZaHZCcU0xeFRVaWhBWHRic081WmlFdnprWElPUy0zcHRBckRrcUNqVWlTd0ZBUk1HNTVINFJKcE1JcjNCQ2R4RzVjYUFnWFVnZHZmbllxdF8wa1pJd1NwMjg1T2xxeHNxRFc40gFvQVVfeXFMT1NydGxWai1wdnNPeVZqS04xMkxadWNSeURRWHdKVlUwM1BUUEpnWnVEcjd5N0hvM1FqV0NBbGlja0tiRTFtZ3RWZU12ckFfalZwWFAxdmNUcUNjYmFpSGR6MGlhYTVGM25ia1BuV2E0?oc=5",
+   "source": "한스경제",
+   "published": "2026-11-26T19:16:28+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "태국 방콕 정유공장서 폭발 사고…7명 부상",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lMmpDeFEwMFg2TFBxajZuVFp3T1lUMDByR2dzeXJGTTl6ZXRtQVFsb1J0c2Nac1drcXVZY29nN0I5dHdxWmU1ekVSMklCR0NvOEgyUDdzY0hRQVNiaEE?oc=5",
+   "source": "뉴스1",
+   "published": "2026-11-26T18:48:20+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "연말 기간 동안 생산 및 사업장에서 발생하는 화재와 폭발을 예방합니다.",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGRIN2tmVThVMmktb0gyZHpPLTlicUtvZVdsblRXZkJSSzJXYlBfaGRybkdHMkhwWEJYOFUyVW1uN2hQdHJCTldYTk5KcWFjTG9kY2pOMU9uLTJQQWFSdnBmQk85bkZaU05QLUxuTWRGVWRPZ21yeWRGVi15dGt5X1FiNXhvdFVrZ1hVbVR1T3I2VHhNUXc?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-26T18:41:11+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "예방·교육"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "시흥시 노사민정, 산업재해 예방·노동자 권익 보호 공동 추진",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53c1RWbjRVUXM0SHdnRmNrc0paclZLTnFHQ3NjMTVjU0F4X1B6a2JoNUMzTXlKdm5KVlJXS1hMeHlIeVNPNjk0aG9VNmE5X2hHTnFDWVhWclV4OWlqTHNFNWxoMmJZMXh5VmpfNGpPd0k?oc=5",
+   "source": "안전신문",
+   "published": "2026-11-26T18:16:09+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "“친밀관계폭력 수사 절차서 위험성평가 제대로 안돼”",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRFZZVVNlLWpERXVKUjQ4Wm5QcFd3TUNObHgtSmE1dFZjZ3l3OTlVUk84a0t0UlBoREgybnNFZDBzT25qdHVDSXlISkUzY1BqN2VuQ1NoT2RRdnU4Ym4yY0I2VTZGdk85SFNSd0hoR0U?oc=5",
+   "source": "안전신문",
+   "published": "2026-11-26T18:15:06+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
+   "title": "기계 문 열어도 칼날은 작동…영국 공장서 손가락 절단 사고",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BemlyODU5clpVQWVlemNaaUF6b0tNdmxCSVBHQUVkYVR3TGg0NXlwVmpsTEdpRjNhbVo5XzExNFNzN0FyWHRNelIyTlpBOERlNTRrRWNhVWJRN25Kc3dkNGh4cDFGTmRMZlRjMjBTa1Y?oc=5",
+   "source": "안전신문",
+   "published": "2026-11-26T18:09:36+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "끼임 사고 공장"
+   ]
+  },
+  {
+   "title": "충남교육청, 담당자 80여 명 재난·중대재해 역량 강화 연수",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LZzN0dUJzbGdDMlVINGpGTzl1aWQwTUNSRFRtR0ZNZTN6R3pkdDBMd3c3S0RsOGwzb3d3eEVicVFtX3lsbkRrZldHWnQ5YS1aLXRKcmhEeS0zMWdJd0RKVmdOWFViNjRTNjFTaE9KeGrSAXRBVV95cUxNRktESGd4bmpLeElueXFPM1BOejYxbjAwVk9hZnBsSkd1LTczZkttT3NiMW5wNFNONFFVYkRsZjFKeXUya3cza2V4UlE3UlRtZUVDZDgzRHNGdndqamlqdnNmajgzZ01NLVlXZkstbW1GRkFhaA?oc=5",
+   "source": "뉴스워커",
+   "published": "2026-11-26T17:59:00+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "노동자 5명 숨진 세아베스틸…안전위험 보고받은 지주사는 뭘 했나",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KTGlSYW43Q0NmY0pZU1FWQmNhTEs4WGJzUGRLX0VobldYUzA3UXkwR0lfdWNyUmRHUEJjdlkwWVoydWlONWRKWjV2VGwtaVU3QUd5c1ZPWFBsZ29SNW9oMHp6QVJzaUhlRExuNmd5S09NNkXSAXdBVV95cUxOT2NIOWdDcTFaNjVCbFZZaXJiREQ5YWViZENEVi1GUlc1T2tXdTVPakhSRlBhbGVldVM2OERMUGI5M1FLSnlNdGRlczQ3MjJmM2lBWXc1SVFPaUlVZTg3QzdrZkVtSnE0NDBGRGl0VXBqTm45dGxKMA?oc=5",
+   "source": "스트레이트뉴스",
+   "published": "2026-11-26T17:57:51+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
+    "근로감독 산업안전",
+    "끼임 사고 공장"
+   ]
+  },
+  {
+   "title": "마포소방서, 겨울철 건설현장 화재·안전사고 예방 간담회 개최",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5SU5CMEdhUVIxclJxSnltcUZUQy1HckNqc2NyZGx2MkI1UXUxNU0yTzd6NkgyVDJscENrcnFVMHdhRWd3alNnRkl3NXVNT01NcHhPQzJ1NnYxU0VJM1dGUDA0bUZkOExDY0Zv?oc=5",
+   "source": "소방신문",
+   "published": "2026-11-26T17:33:39+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "예방·교육",
+    "건설안전"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "충남교육청, 재난·중대(산업)재해 업무 담당자 역량 강화 연수 실시",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CSU9scWFjSzEtaHEwZFNucm1RTmQ1RS1IVkVieV9qOThSVUJsRVBHSllsaVUtRmcxenJBVXB5S2c4Z3hac1kxb1gxbWQ3VXZ1Q0hGajcxeTVCRkk2ZEl0NnU4MXhRNjY0?oc=5",
+   "source": "OTN뉴스",
+   "published": "2026-11-26T17:31:25+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "원주시시설관리공단, 안전보건경영 국제인증 6년 연속 유지",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95X0k5YXVBWGpSQmxfeE1acWdlT3I5U1J6aG5rUjhVTF9tOGt4UUFqTm9Rc2NEQzFENk1JdEYyMXNBY1hIV1ZZY2dFY25LQTRZMXd4WWNzY1lDb1XSAWBBVV95cUxNZEJjeTRVNTdYR2p6VUFpRnhvdlp4a1VIT0xiMGI4aUtRdl9wdGtqWmZhQ0FGQVdqNXZGQm11Qjd1UUk5Y0ZGdW4yaWhvclpDOTVyRnU3bHlUSFdmX3Y4OEQ?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-11-26T17:28:36+09:00",
+   "category": "산업보건",
+   "tags": [
+    "산업보건"
+   ],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
+   "title": "영종구, 오수중계펌프장서 밀폐공간 질식사고 구조훈련",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1paDAzbEVqelZmbDl1b1dNSjBNM0RkTFl0ZVhHVndzSFpYX1JVcVpqbHpvZGp4eXdXN0tldjFlQ2VrS3I4M1Y4ZmN5RGpvcndIN3hCVjZfcEpiaHBiVjZDOGEwQy1PWm9OdXdfWWZ3?oc=5",
+   "source": "뉴스타운",
+   "published": "2026-11-26T17:19:24+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "예방·교육"
+   ],
+   "queries": [
+    "질식 사고 밀폐공간"
+   ]
+  },
+  {
+   "title": "다스코 아산 태양광 공사장서 60대 추락사…노동부 작업중지 명령",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZXNBeEktcEE3MVFuYkRHX1FrYldrX2kyeE9xQUZibGNtallhT1FjMC1oZkNpblg0ZTFCckJXSURaV0wwejBIRmlMNDZCNVd3NUJiOHlXMkxwangtUHp3d2EzMWh2azhwZzF1Mw?oc=5",
+   "source": "스페셜경제",
+   "published": "2026-11-26T17:11:25+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "산업안전보건법"
+   ]
+  },
+  {
+   "title": "유플리트-법무법인 지음, 중대재해 대응 상호협력 MOU 체결 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CYW96d0ROcEFIdExYTUhRRThhWldfdTBENWN1SnlqdXhfbm1kOU1KNmlPZmtYRG01d0RldVNrU251NHdJSHVqb2FhTmtWUWNtYk9rcm5Wal9LaEp1OFlRT1dxX0ZPNjZlQ2RoeNIBckFVX3lxTE5xVjdhbElEa0tWNEJPanlNSlRxVGRMdlJlM0wtenFaTlMtZDlrdWRoRUFqeUY2bjNOVmlqRjlUa1pDZHVocTlzTVYyZDgtbGp0bm5RSUVYanRqT3NkS0RjcWVwSVJGMndJX0lhSl96N21MQQ?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-26T16:44:20+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "충남도교육청, 재난·산업재해 예방 역량 높인다…담당자 80명 연수 - 보도자료 | 기사",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51WGprc1BaRTdmVThwcVRDaU5WZUxrQjdHT3JmNjBiVmVUSTJRRUtROGdmOHRPM2h1eERxd1hrT25GNUVCWFVqWUVjak95TFVSVHR6SXNXRFQ5QzAzODB3?oc=5",
+   "source": "더팩트",
+   "published": "2026-11-26T16:41:29+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "세종소방, SK바이오텍 세종공장 화재 예방 점검…방폭 설비·초기 대응 중점",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82aXpLOGxvZGNsenVjSWcweEEzT3Z4WmJQQlV1MGJGZXh0MnBtRDE0aTQ4Y0NGemlUVVJBbW5GUF9Oa1BRN0tCdGctM2ZMWXB1ZjNZ?oc=5",
+   "source": "대전인터넷신문",
+   "published": "2026-11-26T16:38:58+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "포항시 직영 388개 사업장 위험성평가…62개 부서 현장 방문",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nOXBBT3hGQko0dTkzVFNBemVoUUs0RENwaDd1TDN5Y3EzNGg5Q3ctR1QwSElXVGlIWXhIZVJxM2dRMnoxaG9Mb2ZyTG9abWc4RDZhTXVqU0YtNGh6dFVqeVM1VFp2WFJ3T29KeTdR?oc=5",
+   "source": "국제뉴스",
+   "published": "2026-11-26T16:33:08+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
+   "title": "[통상전쟁 2라운드] 산재부터 이중구조·노란봉투법까지…노동시장도 통상 압박 사정권",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aFF5OWFqZVZmWkdFelB5RmN2NXVKMmRXdm9pbmZhVkM4N2ItaU1sS0x1dFBJTkRWV3N2RldOcl81Q3ZSUHhRTU9VajdjRzViTTJaSG44M2pKUdIBWEFVX3lxTE5sdk9sTFRCOEJ0dVlvSU1ncUF4MkR3VkpmY2M3NWRmcjhMOTNuUWFsMWtJUU1EbzdRdUVhS0RuYW1CcW9QT0V5YmwxWEoxYWVtQkd5blBjLWs?oc=5",
+   "source": "아주경제",
+   "published": "2026-11-26T16:22:31+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "중부고용노동청장 강원지청 방문…산재 예방·수사체계 점검",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WVnNWdUgtYUplYzV3OFlzUnc5RFFXT05rUU90QzZnNGdUekljUHlxZUdUOG5YSWNhbDJRai1KMHluRmIybFFjNmlkS0JRMnA5SDczdFE3R1lHTFZZdmFrcTJLRjZUX1Jw?oc=5",
+   "source": "강원도민일보",
+   "published": "2026-11-26T16:20:59+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "인천 영종구, 밀폐공간 질식사고 대비훈련",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16aVhQZVBJVDBjVXV2Z2c5b2NHYUR4M2w1TTd6WnlpUXJVbl8zRzZoNTB4NmprMHVCaU5SOFh6SVdWQW42U1Znd3JsWFV4WGxmRUdlQmMzTmk0MjhFM2h6cU1aWkF6V2pDNVMyeTJn?oc=5",
+   "source": "현대일보",
+   "published": "2026-11-26T16:10:11+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "예방·교육"
+   ],
+   "queries": [
+    "질식 사고 밀폐공간"
+   ]
+  },
+  {
+   "title": "인천 영종구, 오수펌프장 밀폐공간 질식사고 대비…소방서와 합동 구조훈련",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0Nm1DZWxwMFcwQVVqLWJTb1VGb2Frb0h6aTc1UmxmSUx1aXk0UjBIbVVpRHpkRkFqbnREMTNqekZBN1k2aS01Vk4yV1JVN0k3RjZtR0Q2Yk1kN1BDVkttcVl3Z2djLXh0M3c?oc=5",
+   "source": "뉴스티앤티",
+   "published": "2026-11-26T16:02:30+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "예방·교육"
+   ],
+   "queries": [
+    "질식 사고 밀폐공간"
+   ]
+  },
+  {
+   "title": "SK하이닉스 용인 사업장서 노동자 추락 사망…반복되는 현장 안전 논란",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SeHJtMUl0aUdMcXR1Wm1DUy14STRlQmR3cWtpOFBsaXNTYzVnUy0yWjNlb2hkQkl3QWdYeHN2WEpDbmpPRGpLZkZsOW00Ums3X3BOZUJGR3g5cEVvMmc2eGxTWnV3MEgyb0tCTW1hTErSAXRBVV95cUxPUHVSbVowRjRCaVdXMEhnU3g0NndpcHRubXl5RnRZYzU1MllmM1dPZnpYdC02bU1ETmg2WjdtckdpVFlGeXpJZDRVeVpVVXRBeVY5VzJJUDdQZUdkZEEwbkV4LVV5ZG1yV2xLbHp5cndVazRaMw?oc=5",
+   "source": "디지털비즈온",
+   "published": "2026-11-26T15:51:25+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "엘니뇨 현상의 강력한 영향으로 주거 지역과 공장에서 화재 및 폭발 위험이 높아질 수 있다는 경고가 나오고 있습니다.",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGIxTno1RW1uVGJiUzBBWkNrMmlYc1ZtZjNULUhqU2hsMHBGTy1BV3lXdHZqOVRZZUZIdDBtZlp1VTZuekhkbUpyN09pS2prbklTVVhzaTRUYV91UWp5cXZyTnJVWW85TVl0eDhxWlp3b0FOMkRDdmt6cF8wN0dJU1BIVXBKTmR4UFk0cjltZER3ZUlmUTdVRA?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-26T15:49:56+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "중부고용노동청, 강원권역 기관장회의…벌목·겨울철 산업재해 예방 강화",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nS1NhYWlWQ3FHb3prbUQ0TjRJMjQ1V3hPejVqUzJuMDdQQ3NxaVg2ZG95U2dHT3VlWnhXZnJZRUFyTWhkWG1lRl9OQXhIVHpTSHlydw?oc=5",
+   "source": "뉴스1",
+   "published": "2026-11-26T15:38:54+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "산업재해 예방정책 변화에 따른 안전보건전문기관의 역할 및 기능 강화",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HQ21QXzJaeTEtT1BXY2ZNSnVoeVlsZXN0X2Y0TEVnMUZyY09sMEpxa3dqbzIwOHhENTRIQWt2ZDRqcUxMa2NBSVFMTUN2dGJrV2tzSmFVekRyU2hpMW9hTFBFbzQ2OUU?oc=5",
+   "source": "안전저널",
+   "published": "2026-11-26T15:27:32+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책",
+    "산업보건"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "인천 영종구, 영종소방서와 밀폐공간 질식사고 대비 합동 구조훈련 실시",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NazJQWC03b2hjTDhaejNGd1VsRWdKLVpBT2lPekppc2o4WkViSG5UOXlMamxNUnhGS19BbWFjNlVWTHhhMGE4eGZpSGFJMlhjNXA5NWMwSm42SjQtMHplOFlOXzFFUGpfTGw5WVg4OA?oc=5",
+   "source": "여성종합뉴스",
+   "published": "2026-11-26T15:14:11+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "예방·교육"
+   ],
+   "queries": [
+    "질식 사고 밀폐공간"
+   ]
+  },
+  {
+   "title": "금산군 \"산업현장 위험 요인 줄인다\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wX2w0UVlTTUJRclNBRzl3Q3JqMlZoUE0xcHB5aE1zZnZXdlFac3hTWVZvMnd5YlZTcWwtRzktYUhqSDdBZG1aS2praExVYVlVbmdlaXdnaEpROVM0U29qaVR5WXZ6eHlGck9WQ2tjeS0?oc=5",
+   "source": "충청일보",
+   "published": "2026-11-26T15:06:08+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "영양군, 중대재해 예방 위한 안전보건교육 강화",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Qa2V1a1VCZEl6M2xIUWpTeHd2NzJzWWpnbFZqZTY0eUk4d0x4RlZoZkp2bk5VVDRpdzZ5R3NXc0NLS2dxQURWN1g5eG5IT2VUdll0SUhmVE1qYVRnOHZVMVJfWDg4emJR?oc=5",
+   "source": "환경일보",
+   "published": "2026-11-26T14:57:42+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "산업보건"
+   ],
+   "queries": [
+    "중대재해",
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "정의당 서산태안위원회, 경비노동자 사망사고 재조사·책임자 처벌 촉구",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQnJOVGktMFRlZktMNUdLWjFHcmRPZDRFXzM1WEZsN0M5Z3hpMnRZR1dFTW14ZUowTEZQZTJtemxuaS1vNm85c0JTNUR1YkJScWlEcEZ5QkNrTmZFOUgtbWd0dE1IZUNjai1sSmc3cw?oc=5",
+   "source": "서산포스트",
+   "published": "2026-11-26T14:51:22+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
+   "title": "안전보건공단 광주본부, 외국인 안전리더 간담회 개최",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5manRSdGIxQUZ6T2JGdnM5WGlxQy1TZ0lVcnFrSUtkMVBOVlJONzUtajE1dDlSZXU2aVl1bUNpdS1zMEJCYVhlZ3JtR2lBTl9FRWRBY1d5TExZQkVDLU1nR1VUaUJrbWNucFN4VNIBcEFVX3lxTE53bmtEVl9GTkdabXBiRUlaSEdFXzVvVld5d2UzaDBZVGJvaHZSZ2FuLUFVNVpPR01mVFdvdGJPTUpOelVLdUFFSjRoRnFkWnVFUnJyWXBQWGI5UEI3MlZJXzdFd0tObHQ4S2h1dGZTcmc?oc=5",
+   "source": "남도일보",
+   "published": "2026-11-26T14:41:00+09:00",
+   "category": "산업보건",
+   "tags": [
+    "산업보건"
+   ],
+   "queries": [
+    "안전보건공단"
+   ]
+  },
+  {
+   "title": "신명순 경기도의원, 산업재해 예방예산 감액·성인지 분석 문제 지적",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVaVFiQ2NOT1E2MGlMUTRMR3BVR0puaVhiRmxNR3pCd2tJa2ZVckJuUDlLSVpHbG5ZRVhla0YyRkYzaXJhU2FRemswaHNsXzZRZ3J2VTUyYjA2MXg4MUczMVZHTFF4NEk3MURIYWl3?oc=5",
+   "source": "전국매일신문",
+   "published": "2026-11-26T14:31:44+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "금산 산재예방, 민관기업 힘 합친다",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4X0hoMTVIeDdxZE05R3QwOGtlSzkxSk1yWUczRkIta2VFYjIzUTBLWDNPbWJiZzBoeU1xaXpTRTJkYTJLTjF5WFVVbEtIRVdmTkFzOVU4RTNxV044ODF3TWZyZUM3aEE?oc=5",
+   "source": "충청헤럴드",
+   "published": "2026-11-26T14:14:33+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "노동감독 권한 지방정부 위임…소규모 건설현장 점검",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RWlFTcVN5NVZBTGtkQzV2ZzNsZkk5OVU0OTNtLXdhLTVWajh6N255ZnVid1hPOExPRmFFakFHclg5eF9kOVhCVzd2NkVfcDZTS2lBalJzeWZPWE1BUExsbmtJOVJlSTd5cUM0UA?oc=5",
+   "source": "기계설비신문",
+   "published": "2026-11-26T14:12:49+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
+   "title": "인천시 영종구·영종소방서, 밀폐공간 질식 사고 대비 합동 구조훈련",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VQzFNMDVhRFd5QmlIa3pzejRXNURUb3IyOUwyUVJYSHFKc055WGRVNWRsaUtWblk2c1puZ3JUUzhYaHVHMTZIR093YTM?oc=5",
+   "source": "시사 앤 뉴스",
+   "published": "2026-11-26T13:30:52+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "예방·교육"
+   ],
+   "queries": [
+    "질식 사고 밀폐공간"
+   ]
+  },
+  {
+   "title": "부산시 산업평화상 10명 선정…노사 상생·산재 예방 공로",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94Ni1WVm1kYzIzaXFjNHFMZnFHeUJldG5IYXBXa2RBdzZYc0E1OUYwTjZMaTYxSDZ3ME0zYjBLVDEzVmdMdHk2d0UyZUEyRmdSU3fSAVNBVV95cUxORHBuVUV0Y1RrZ2pWN2ttOV92N2lBLVVlQWE4anBEM3NzMVdiQ25QVjFOQVdudTI5YlBSWE5fWmJZMkFuNXB4Tk50WFJkOVVXRFk0OA?oc=5",
+   "source": "서울경제",
+   "published": "2026-11-26T13:27:10+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
   {
    "title": "부산외국인근로자지원센터, 외국인 산업재해 예방 성과 인정받아 ‘우수협력기관’ 수상",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUG1QX1NvcXE3UHNMc3N4T1RZMTA3VDB6NE1kcHAyNlJ5NExxRml2U0dQTXp1bTh6UXNFajdrRjZhZmVKV0lVQ0hCcVd6WTdLcWtNcHE1YkJEaENmVm9xQUV6b1VSYjhv?oc=5",
@@ -13,6 +774,19 @@
    ],
    "queries": [
     "산업재해"
+   ]
+  },
+  {
+   "title": "포항시, 388개 사업장 위험성평가로 중대재해 예방 강화",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXN2loWTRTbUZLRnRzRHFBQUV5amdoTWg3WVZBUjBna0JCVVhNUE15LUdRd0xaZHFMY3Q2YU1ZNXhLOVpmUWh2WHNFM0ZLTUFrOTF0bXBGdEppaXRtQk95b3RzeEVCY2FNeDNQdGN5SUNiUQ?oc=5",
+   "source": "웹이코노미",
+   "published": "2026-11-26T13:03:52+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "위험성평가"
    ]
   },
   {
@@ -29,6 +803,19 @@
    ]
   },
   {
+   "title": "노동부 여수지청, 동절기 벌목현장 중대재해 예방활동 강화",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MS1N5dGh6YW9GX0s5VFdWQ09KalZaSkswWXo1Rl9QLThLM0JvSE5tQ1dmbk1UOWhOaDJfM2QzbWhvNXZ1YTdUVnR6bmgwNjdCZWlVRU5xUG1FWHI0aTVEcUotOEN3YnNoSl9XUzZWLWc?oc=5",
+   "source": "안전신문",
+   "published": "2026-11-26T12:34:39+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
    "title": "삼부토건 철도 건설현장서 근로자 추락사…안전관리 부실 여부 조사해야",
    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPcFZxaWFxaDdFQkgwUWJKY290cGVMSlgtZHJQYWttSjZaYmJhQWlYYmNiWFJoLTBiXy1IcEViY0Z3Q3BD?oc=5",
    "source": "시사우리신문",
@@ -40,6 +827,48 @@
    ],
    "queries": [
     "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "영양군, 중대재해 예방 관리감독자 안전보건교육 실시",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jel9IX1hfanV3cUp3SWtuSE00UmctZUpkVGNWQzd2MlVwYjZzdldfQWk4dm1vZXlTX1dYQVZIUkl5OEkxcG5aV2pvYTc0SG8yVTRDcWsyMDQ?oc=5",
+   "source": "경북신문",
+   "published": "2026-11-26T12:21:22+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책",
+    "산업보건"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "엿새간 3명 추락사…건설현장 안전 비상",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjcWpqU0ozNlFJcjlZV0RocEh1UTc0Zlc1YTVaTW1GR2IxaEZWNVJUTWhYbDBTQTdqeHRZRGwwNkFDRTE2bFhFcW4zUTJZUTU1emVSajNXUnlMMjVLZFFrbjRwM3I5bm1EM29vSA?oc=5",
+   "source": "www.sideview.co.kr",
+   "published": "2026-11-26T12:20:03+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "포항시, ‘사업장 위험성평가 컨설팅’ 용역 최종 결과 설명회 개최",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOdFl3cnlvOXcxSlhSVE5Tb2luNEc2NktjNF9MY29aRVowQnNwcHJ5X0JDUlBNeGdGYVM4WTdnaXh6Ni1hLUxBT1ZWZ0I?oc=5",
+   "source": "이코노믹포스트",
+   "published": "2026-11-26T12:16:23+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "위험성평가"
    ]
   },
   {
@@ -122,6 +951,17 @@
     "예방·교육",
     "산업보건"
    ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "경기도의회 신명순 의원, 노동자 생명·안전 예산 대폭 삭감 비판",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBncmxaazFJdWdwck9fYzZ4LVAxaDhUS3A4RktRS2xPZlBYUzE0aFhXeTNnWXVrTDlKREhqVnVOTTdxZw?oc=5",
+   "source": "김포시민신문",
+   "published": "2026-11-26T11:20:51+09:00",
+   "category": "일반",
+   "tags": [],
    "queries": [
     "산업재해"
    ]
@@ -222,6 +1062,19 @@
    ]
   },
   {
+   "title": "포항시, 388개 사업장 위험요인 점검 결과 공유…현장 개선 논의",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrLWk5cEZMQjNrNzNoVFliTEJqMlRlUFVKOUNNNW9FZU8xdTRVWXlybTNqc1RpWGdXZFlSN0pnN0JkWExGWDNMVA?oc=5",
+   "source": "미디어이슈",
+   "published": "2026-11-26T10:59:00+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
    "title": "금산군, 제조업 16개사와 산재예방 지역안전보건협의체 출범",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FaTdReFdVS0dWTWpwVE1pR3MzSWRVTHQ4ZFkzUDFRa29fTmFRRmtLSUphdWpiZzFONHhnUThQbVh2S1lWS0FaM0xWTmgwSFhlT3lZcHZiNGxzUUZYVkZyMVBhenNoNjNrZnplcDVDZGw?oc=5",
    "source": "신아일보",
@@ -292,6 +1145,48 @@
    ]
   },
   {
+   "title": "전영현 삼성전자 부회장, 화성사업장 하청노동자 혈액암 사망…유족 산재 신청",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CNmN5bWdDN24zS3dBLXQyRmw4RG9oVVh1QzJQc0stM2dZdjZ0MDFJWmc4dEVlMHRoUmNxSl93aEhEOGJBaThLMWUydFhrbG1LZXJzcExRYndGOEcxcEpBZnlKa1dESXPSAWtBVV95cUxNTUFfc2pxUUFVS3paYjZaLXBGdTNsdDBiRHBxWGNfWVIzdG1NQ1hhMzVlWU1qNzdWSE1YSkpOVk1UVzd1ZzFrY0ZSS1B5dnhNLTl4M2N5dmpwVHhoT1FtM0JZcWJaZXNkRFRPYw?oc=5",
+   "source": "CEO저널",
+   "published": "2026-11-26T10:32:06+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "고양·파주 건물관리업 안전보건협의체 개최, 현장 애로사항 청취",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WRDUxNkhvZFc0bU5WWnBqWGNXc2xuLXVFc3lBNDNpcE9ZNHJvNElQbHRmVlcxX202YnIyb01wUjljMlNXSURnTzRfbnl3NFpBQnJReUs0dUJXYi1VTUhadzdnWkdSMTQ?oc=5",
+   "source": "파주에서신문",
+   "published": "2026-11-26T10:29:45+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "산업보건"
+   ],
+   "queries": [
+    "고용노동부 안전보건"
+   ]
+  },
+  {
+   "title": "KTX 임성리역 공사현장서 60대 근로자 추락사…중대재해법 조사 착수",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcUNuS0lCSTBkUkE0SEg4Wjl0RG5VenBTN2pUTHdpZS1sbDFoM3NRTGxIQ1ZoMUVuRUlsRC03Y3NZaW8yak1tQlBGSjRqRUZwSS1COTE4S0k3MVR2TkJHRVVMcXpSSVlFcEE?oc=5",
+   "source": "무안신안뉴스",
+   "published": "2026-11-26T10:28:54+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "중대재해처벌법"
+   ]
+  },
+  {
    "title": "포항시, 388개 사업장 대상 현장 위험성평가로 중대재해 예방 총력",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yQWFsZkV2WEhKVDZISERGTm9kWFFpX2UteG1GVFFhbEl3M0JzNmxLRWpIOGJXV1QxWTBSNFdHNDB4N0gxSHlOT1RodW83RE5MRnoyc2dscExZZERMWVh2dklVWDZnQQ?oc=5",
    "source": "데일리대구경북뉴스",
@@ -330,6 +1225,34 @@
    "queries": [
     "산업재해",
     "산재 사망사고"
+   ]
+  },
+  {
+   "title": "중대재해 막는다... 영양군 관리감독자 30명 집중 교육",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xNW43X2FqZ3VmeElZWW9uSS0xLWhKX3Nid0wtOXRRNVYwM1lOLTMtbnoxSVo2c2M0bDY4SGhuMnRPeFN6WWlPZjVheXgyS2pXRDhRcXI2RTlodF9DNHlvQzU5b1VSS2o1MTRFRm9RcFlXdw?oc=5",
+   "source": "http://www.reporternside.com/",
+   "published": "2026-11-26T10:07:49+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "산업안전보건법",
+    "산업재해"
+   ]
+  },
+  {
+   "title": "화학물질 누출엔 센서, 화재 감시엔 AI CCTV…산단별 맞춤 안전망 구축",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94NWlQMVVQb3IxNkkwQXhERnEtbU1nbFhpX212MXZIZENqSl9mdXlDMTE4TE1KYUJ6aWdmMHZhU0pheEFIbXNKdFV2TFFWT0U1eHVnOXdNdVhmYjFuSkpUXzBNSFIzd2J0ekZhVg?oc=5",
+   "source": "파이낸스투데이",
+   "published": "2026-11-26T10:00:31+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "화학물질 누출"
    ]
   },
   {
@@ -455,6 +1378,19 @@
    ]
   },
   {
+   "title": "[전문가 칼럼] 2026년 12월 지방노동감독 확대와 사업주 대응사항",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02b1F3ZVRueFpQWS1CLU9DXzEwZDVCU0dWQ1F6ZWtEOEhTQWlDczI5WExPRDlidk15blB0dkVwZDdFUkxPNTRLalNSWFhMdEE3a1dXcTUtMG8wMnVIaXZjbGFUTQ?oc=5",
+   "source": "조세금융신문",
+   "published": "2026-11-26T08:17:38+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
    "title": "아산시, 유해화학물질 누출 합동훈련…현장 대응력 강화",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11TU40LXJDbXlxeHV1OElzd25hcjZJWlFOSmxZazd4NG5wWDVPRFh6V1FmbmQxY3IzOEZJckxrNmk3SlBKeVE?oc=5",
    "source": "뉴스충청인",
@@ -469,6 +1405,17 @@
    ]
   },
   {
+   "title": "\"아들에게 '빨리 낫고 제주도 가자' 약속했는데\"…삼성 반도체 노동자 유족, 산재신청",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vbkp4aXRMQWVSQklseTFvQ3Bja2M1WmJ5NnJrRU5wWVlWbks2aDhPYkIwR2VwcUJPSXBkeFlNLVc4UUczNVVjVWJheWZMNlBLZzNfNThhX3lTcFdGakJ6Nm5WdTZUcjk0TEk0?oc=5",
+   "source": "프레시안",
+   "published": "2026-11-26T07:30:17+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
    "title": "[韓경제 아킬레스건](64) 중대재해처벌법 논란 : 안전권 확보인가, 기업 활동 위축인가",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52Tm5Bb2RkWnN2a1duQmozOTQ1QS0tdi1xbmNoUkIwdE5mWXJtdjZ3UFozZ1VHMFJTaDYwWFZVd3h1UHpacGx6OFowdGc5Z01vMUFqcVVOOFVQeDBVSUZoOUlJSEVHN3l0SXc?oc=5",
    "source": "금융소비자뉴스",
@@ -480,6 +1427,19 @@
    "queries": [
     "산업재해",
     "중대재해",
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "동일제강 중대재해 사망사고 항소심 결과는?",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VODNiZm80US04MGRoSE9JbXZRQTd3b1poQm1fTzZ4dUJhYWRnS0tncTk2VENUSm5feVNnaG5kZ01tcEJzNDZteWJqcms2Y1I5SHhPMmVndzBERXFJMDlGVVU4by00VmlXVTZv0gFvQVVfeXFMT25iSlZtazdZdkhMZmc5eC1PdDQzUEZETUxxMmp1VkN5OThsVFdoX1JyMzllR3llOGJrOHRmQkphMnhNdVgyVjBCUmlwQUdNNkprT2lUaTNHRThOLXM5SDR2THFWamR4bUl5UmYtUVV3?oc=5",
+   "source": "시사위크",
+   "published": "2026-11-26T05:27:27+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
     "중대재해처벌법"
    ]
   },
@@ -561,7 +1521,8 @@
     "예방·교육"
    ],
    "queries": [
-    "산재 사망사고"
+    "산재 사망사고",
+    "중대재해"
    ]
   },
   {
@@ -600,7 +1561,8 @@
    "category": "일반",
    "tags": [],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "안전보건공단"
    ]
   },
   {
@@ -654,6 +1616,7 @@
     "사고·재해"
    ],
    "queries": [
+    "중대재해",
     "추락 사고 건설현장"
    ]
   },
@@ -708,6 +1671,19 @@
    "tags": [],
    "queries": [
     "고용노동부 안전보건"
+   ]
+  },
+  {
+   "title": "세아베스틸, 중대재해 관련 1심 판결",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nb1Q4MzFGSS1FRHItUlZDbnp2V3lBQnZMOVNkYlg2b3RkMENYMjBhVUVNaVpicnp5Ny1oTEZYSDFEZThXTUhVODdjdFpmVU16TU1rMnNJa2VjYWJuX3F3ZGVnSWxWYzQwNmR4dm1sM2HSAXRBVV95cUxOdHJJOTVVa0lRcWwxN2xNblZvRlFkMU1DZUdrNERSVDctUWlEc1Vfal9FOUlPSmNEM05vYlJQbXdTeWdud19YWTBfNmV3Rnlib2V6U0N3RTRDaTNMcTQ0TlNvRGZ5QnZtUDV0Rmc0eHltX0poMw?oc=5",
+   "source": "스틸데일리",
+   "published": "2026-11-25T19:20:00+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해"
    ]
   },
   {
@@ -961,6 +1937,19 @@
    ]
   },
   {
+   "title": "4명 사상 낸 '에코프로비엠 오창공장 폭발 사고'…전 대표 등 집행유예",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaNHV1VnBTZnhaNThMdk5CU0ZqeHN1RzFVM1VERWFHV3g1V1haTTYwTjVIWjBZekhmcXhnY1NYN0JjcnN4OE81NE1LWi0zcmFfWHVvQVpJZnk3T19hbEhDT0dn?oc=5",
+   "source": "충북일보",
+   "published": "2026-11-25T17:00:08+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
    "title": "충청권 지류제조업, 중대재해 예방 위해 손 잡아",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBbjN4VEhOeTdMWHowWFN6eFFLTHFZNlZYWFM4QnRSMVIzbHVqQTRuLU04NHpPeVBFM1lpam5TX1RtNVUxWDRCQTJiV3JGaU9STVRMVWtkU2VIdXptUmRRMHF1cjBZR2JM?oc=5",
    "source": "충청타임즈",
@@ -997,6 +1986,7 @@
     "법령·정책"
    ],
    "queries": [
+    "중대재해",
     "중대재해처벌법"
    ]
   },
@@ -1098,6 +2088,19 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFhEaGxhS0dSR3dfcGR2SVFrRUtvanZhZmF3YWVkSXB4QlVTSzdoZkhiNGxXUDFweE5hVTQ5c3dyeHU0Y09OTEN2U1ItcC1fVm9pdHB3QWxEYnJWcERKRU04Q0E0VS0zOXF6a25UY0hZVjVrUnlPdl9mOUdNZEh2d3FhUdIBlwFBVV95cUxOM0gwUEltRDdtblVYMEpJTkhhYmFOMWhLWVF5MDJrd0hhN2dETFREdjUzUzFfLTlPem1lSFNqTmhwYUJmVm5OeThjWUQ1VVNfVHNkSVRfbjlmVkQyV1gyUU1VeEx2T1haQm10MEFsTkhRU0xBNXRhcjJUREt1YXVhNWxhcG5FZE9YTlQ3WV9RVVp4UWhmWnFR?oc=5",
    "source": "Chosunbiz",
    "published": "2026-11-25T16:03:00+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
+   "title": "에코프로비엠 폭발사고 전 대표 징역형 집행유예",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBodlQ3LVlZWVJRZVVHQ0hsUXZSYlBZRFE2aFJvT0M3THB3RlZUTnJUS2NUV1BhZm9XZ2RpLTNfMW5rQnJfbmV6bE52YnNOSnJaUW1uZmR3dTRtWUFjMzFmSjZ6OXRlX3Bua01TZVl0RlZDdmPSAXNBVV95cUxQaHZUNy1ZWVlSUWVVR0NIbFF2UmJQWURRNmhSb09DN0xwd0ZWVE5yVEtjVFdQYWZvV2dkaS0zXzFua0JyX25lemxOdmJzTkpyWlFtbmZkd3U0bVlBYzMxZko2ejl0ZV9wbmtNU2VZdEZWQ3Zj?oc=5",
+   "source": "대전일보",
+   "published": "2026-11-25T15:55:38+09:00",
    "category": "화재·폭발·화학",
    "tags": [
     "화재·폭발·화학"
@@ -1258,6 +2261,19 @@
    "queries": [
     "고용노동부 안전보건",
     "안전보건공단"
+   ]
+  },
+  {
+   "title": "[2026 스마트건설 안전·AI 엑스포] 연기 찾아가는 로봇·추락 막는 에어백…AI가 바꾸는 건설현장",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXamM3WUkwMlJKb0liVTlIc1VfQkNYc19ZbFNKQThSTmp6VXczVFNGaHhvRzY5SEtneXk1VUVXYjJDd3BGb1laSkxLQU9FN19vMjh5Ql9WanR0WWM?oc=5",
+   "source": "에너지경제신문",
+   "published": "2026-11-25T15:04:21+09:00",
+   "category": "건설안전",
+   "tags": [
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
    ]
   },
   {
@@ -1639,7 +2655,8 @@
     "예방·교육"
    ],
    "queries": [
-    "산업재해"
+    "산업재해",
+    "산재 사망사고"
    ]
   },
   {
@@ -1653,6 +2670,19 @@
    ],
    "queries": [
     "산업재해"
+   ]
+  },
+  {
+   "title": "밤샘노동에 무너지는 건강…서비스업 야간근무 손본다:동아경제신문 & daenews.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qQ3VHeGtxYmdzVi1ubXFpWkZVUDhSZGJvRHZ5RGNsamQ3M0ZCMTN4aVFSZlYzZTBZOFpvVEhIRXpiZjdaaVHSAWJBVV95cUxNS2dGbzBacWlqWXYyUm0wbjkwY2F0bXFmWGlucTBSOC1xSzE4ZHFTbTlSdUR0U05nd2ZJS0pINWtoX3RDelEwVWliUS1FM0N6aEF3MWtwc1ZBNmhOWk45WlVNZw?oc=5",
+   "source": "동아경제",
+   "published": "2026-11-25T09:12:00+09:00",
+   "category": "산업보건",
+   "tags": [
+    "산업보건"
+   ],
+   "queries": [
+    "근로감독 산업안전"
    ]
   },
   {
@@ -1711,6 +2741,19 @@
    ]
   },
   {
+   "title": "집게차 폐지 하역 중 끼임사망…반복된 위험 접근에 대표·운전자 모두 유죄",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RSUMyU0NaUjN0dmFvSzRvYmE5V3ZfVDNwS1hWcFlwam5LSDgtN19iaDdRS0FXYU4yRnUzWE5NbkV4aTBKTURaX1ZCX2RsdklrS3BOTjhBd2h3TWRQZExkY0N3ZzR0Q2J2Uzc2SERMaw?oc=5",
+   "source": "세이프티퍼스트닷뉴스",
+   "published": "2026-11-25T09:00:00+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
+    "끼임 사고 공장"
+   ]
+  },
+  {
    "title": "한국기술교육대 ‘산업안전정책 최고경영자과정’ 제5기 수료식 성황",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NNjhOam0yYlRQcEd3dVdfZnNsb0FpaVhDM0Uzd1FKSkJ6UmREbmg4RnZvQUMtRk1VTWNjM0xOWU9hT0VHUVktaVRKN21TdER0ZHg5VjZfUm4?oc=5",
    "source": "경충일보",
@@ -1735,7 +2778,8 @@
     "산업보건"
    ],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "안전보건공단"
    ]
   },
   {
@@ -1748,7 +2792,8 @@
    "queries": [
     "고용노동부 안전보건",
     "중대재해",
-    "중대재해처벌법"
+    "중대재해처벌법",
+    "추락 사고 건설현장"
    ]
   },
   {
@@ -1799,6 +2844,19 @@
    ]
   },
   {
+   "title": "중대재해 관련 법률 분쟁, 전문적인 대응 필요성 갈수록 커져",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoU2FiSkFPTldEWmpLWFZHSEtEVFBJMGt1UzA3T1hwc0hDNnlCd3RWRldlNHBPX1RIeG8xaVZEeE1vMWdlUkFoNkFVNDlidVM1YndyQWRIT3VOeDFOS1VSZFRNY21LYS1NYVNxb24zV3Z2d2xSdWhaa3ZRM20?oc=5",
+   "source": "글로벌에픽",
+   "published": "2026-11-25T08:00:03+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해처벌법"
+   ]
+  },
+  {
    "title": "박영사, '산재 프로파일링 노트' 출간",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PS1Qxc2ozSzRjUV83bkJjcXZ1endjSHhLbUh1ZEdVWFFXLWxtQWt0TGJ4QWJiN1gwLVd1eDlvZGw1MV9heENmRXpOOGcxeTVSaUg2dUttN2NyVnlNdkYybmlPWkNudHRi?oc=5",
    "source": "공감신문",
@@ -1835,7 +2893,8 @@
     "법령·정책"
    ],
    "queries": [
-    "근로감독 산업안전"
+    "근로감독 산업안전",
+    "산재 사망사고"
    ]
   },
   {
@@ -1935,6 +2994,20 @@
    ]
   },
   {
+   "title": "남부발전, 가스안전공사와 ‘냉동창고 화학물질 안전 개선’ 맞손",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jejFpT25EU0xyejJRV1g1MnY3U1otbEdvREZuYlpQcEgtNy16YnZ1VTYxRVd5dVBTOWthZGhGSVJFNlR5Z0xpNDZzQkdRVy1GZGhuTENwektzN3h6cTN2UkpUUWhXOFJGS3Fsdi1tZDhsaDBCOVJkNg?oc=5",
+   "source": "부산일보",
+   "published": "2026-11-24T23:10:32+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "건설안전"
+   ],
+   "queries": [
+    "화학물질 누출"
+   ]
+  },
+  {
    "title": "중처법 후 5명 사망…세아베스틸 전 대표 집행유예",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NR05sX0FtUE1wQ3Q4Skg5b2ZVZjc3alFnUFplNzBmQzMwN3NRS0tNcWx0MVEtbnRMU1FiUC0yLUhUVWFDTHpLRTdkWEtVdHQ4NkRsWUVpc0NiS09HR2s5TUxyY3ZqYjQ?oc=5",
    "source": "연합뉴스TV",
@@ -1986,6 +3059,17 @@
    ],
    "queries": [
     "산재 사망사고"
+   ]
+  },
+  {
+   "title": "세아베스틸 전 대표 1심 ‘징역형 집행유예’…반복된 중대재해에 책임 물었다",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14dTNuT25nbkRHZEg5bGhJOFc3OXVtQzQwZFVkUHpYaWdOenc2eXVGdlR4Q2hIMnkwQjE3WDJWUlVXb2l1YzBYOF8zWktBbmFfcjl5LWdrOVhmbE95YkJCVEtYTnVWaF9BSElSUg?oc=5",
+   "source": "공뉴스",
+   "published": "2026-11-24T21:07:00+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "끼임 사고 공장"
    ]
   },
   {
@@ -2276,6 +3360,19 @@
    ]
   },
   {
+   "title": "[포토] 충남교육청, 재난·중대 재해 업무 담당자 역량 강화 연수 실시",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cV9Ta2ZIaVZRZkhVUDhOWmxham02NnBDTUZFUVdaMXN0QTRlSVdDSkJEQ3JULUJTLUtXLVh1YzlvRTE3SHB2SmZBYmlxUzloMndIdzF1LVhCcWZTSGtLZ1pSQlJicXoyczFkRkY3am1wazQ?oc=5",
+   "source": "충남일보",
+   "published": "2026-11-24T17:00:00+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
    "title": "남부발전, 가스안전공사와 부산 노후 냉동창고 화학물질 안전진단",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VQkw2Yk4weG55dTlmVWZNRWM4ZUlwUVY3alJtaFdOY09VUlFranE5MVFKSWJoOUtsSEFFVTJZWGdpWXRhRFJzT0dmLVYyLWtvTlVsakVOa2xOSmhQQnBqZjdNWlVMUVgtZlFCUlpRbmQ1ZkwzaEdF0gF3QVVfeXFMT1VCTDZiTjB4bnl1OWZVZk1FYzhlSXBRVjdqUm1oV05jT1VSUWtqcTkxUUpJYmg5S2xIQUVVMllYZ2lZdGFEUnNPR2YtVjIta29OVWxqRU5rbE5KaFBCcGpmN01aVUxRWC1mUUJSWlFuZDVmTDNoR0U?oc=5",
    "source": "핀포인트뉴스",
@@ -2422,6 +3519,17 @@
    ]
   },
   {
+   "title": "유플리트, AI 안전관리 솔루션 '세이프유 웍스' 산업별 버전 출시 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5COWw3VzRYdm04ODFmYlpJTHVQd2lfZU9JeEx0dFRFLS1rR3dZRHB3NHJkWGdoaGtpa3ozM2h4WHFkQjdYY3FBR05tTldDYzV6b3NWUVk1RDVPUllQenpTaE9QbzV5TFB6eTJXckx5QnZNZ9IBckFVX3lxTE5COWw3VzRYdm04ODFmYlpJTHVQd2lfZU9JeEx0dFRFLS1rR3dZRHB3NHJkWGdoaGtpa3ozM2h4WHFkQjdYY3FBR05tTldDYzV6b3NWUVk1RDVPUllQenpTaE9QbzV5TFB6eTJXckx5QnZNZw?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-24T16:16:19+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
    "title": "미국 제과공장서 같은 설비로 3개월 새 두 차례 사고…안전조치 부실 드러나",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ObWlvbXhzM1RORzVMLXJJbGo0S1p0VHZlem4yU1pSY0g1MFhsMXdXNTBJRU5JcDhuTXlDX2l5akdOTDBGMXFNNW5xUmE3QTV6bkZUWDFBcWlqdXhCUEJkeEFHTkoyXzZUWWZaeGJhYTI?oc=5",
    "source": "안전신문",
@@ -2474,7 +3582,8 @@
     "산업보건"
    ],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "안전보건공단"
    ]
   },
   {
@@ -2527,6 +3636,19 @@
    ]
   },
   {
+   "title": "철도노조, 안전인력 충원·산업안전보건위 격상 촉구",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sVmpoRE9kZjhWY0w3SHE0UXBmUGRVcGFqTERmZnM2T25TaHNlb2FxaDZzNlJsemM5cXQwTmtzREZBcFBuZG5DWkNjZU55Q0hPdFBISmhTWVpZbnU3QVk1aA?oc=5",
+   "source": "뉴스1",
+   "published": "2026-11-24T15:39:07+09:00",
+   "category": "산업보건",
+   "tags": [
+    "산업보건"
+   ],
+   "queries": [
+    "산재 사망사고"
+   ]
+  },
+  {
    "title": "중처법 후 노동자 5명 사망…세아베스틸 전 대표 집행유예 3년",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NajNCU0NkazhLZmNRY3FJYW5fLVVXcUFYLWQ1WktrT1l3cTZ1TlJ1VUdyZ2pjdGF1TEZ4d1dQaTM5VkdkTXBIcmJZMTMxU0k3LTI3ekpDal8tWXJoNS1KOThQbjU2TVU?oc=5",
    "source": "연합뉴스TV",
@@ -2542,6 +3664,19 @@
    ]
   },
   {
+   "title": "'노동자 사망' 김철희 세아베스틸 전 대표, 징역 2년·집행유예 3년",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVelpQYW9CM21Hd3lkOWpJX3Z1S09FOUtVLU1xM1BlMUtsZmM3dkJXdUVQcjdkN3hyX0tJbWI3R2FmN29PQ3ZOaEJtRHdCbWZYckRqRUJwZy01SlJ0MnFCRldmLS1SWnhpbHh6Mw?oc=5",
+   "source": "뉴스락",
+   "published": "2026-11-24T15:28:05+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
+    "끼임 사고 공장"
+   ]
+  },
+  {
    "title": "건협 충남ㆍ세종시회, 불법하도급 및 중대재해처벌법 예방 실무교육",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KdHJKS3dVWUJ0UDFyMWZhbkhFRk50T1lfalhxQm5IbHE5WDU0ZTdkUUtoNGV4TGVTN3BrV0NnN29fMjl5b05lSFRhTUc5ajAxMXo4T2RYU19PdURvakktLTlaNHE2a1hYemNkSHZwSHh5ZjMt?oc=5",
    "source": "대한경제",
@@ -2554,6 +3689,19 @@
    "queries": [
     "중대재해",
     "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "북부지방산림청, 횡성 숲가꾸기 사업장서 합동 안전점검",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hTEhfNmQ4ZDdUVTNXZXNNaElPXzlIM0t3Q3l5TGJmc0FNR185SmNXdHFZWVhkSDBKaW5nUVgxS3JkZ25JY3c3N1NDU3ZvT2R6NV9GZkdjU3QzZkV0aWhtckJTM3NMTTNNUTN2WGNweHE?oc=5",
+   "source": "신아일보",
+   "published": "2026-11-24T15:25:37+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "고용노동부 안전보건"
    ]
   },
   {
@@ -2603,7 +3751,8 @@
     "사고·재해"
    ],
    "queries": [
-    "끼임 사고 공장"
+    "끼임 사고 공장",
+    "중대재해처벌법"
    ]
   },
   {
@@ -2659,6 +3808,17 @@
    ]
   },
   {
+   "title": "[동성케미컬 리스크] 부산공장 고용 갈등에 산업안전 위반 반복… 계열사 회계제재·의료기기 회수도",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BX2pOQTVDOWpEc3lNMXM3bnRTQ041SHlULW1uT293Z1ZWaEY5YWNzcHgzVWtOR2xEaG5mMVhuVlE3N0RTV09DZ1pfcmVKU0R2cy1JcjZxUXBod1VJdlE1d21zSEZQOUUwLUdab2tOUDNKdTd20gF0QVVfeXFMTkFfak5BNUM5akRzeU0xczdudFNDTjVIeVQtbW5Pb3dnVlZoRjlhY3NweDNVa05HbERobmYxWG5WUTc3RFNXT0NnWl9yZUpTRHZzLUlyNnFRcGh3VUl2UTV3bXNIRlA5RTAtR1pva05QM0p1N3Y?oc=5",
+   "source": "뉴스클레임",
+   "published": "2026-11-24T14:48:07+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
    "title": "임실군, 주요 건설사업장 위험요인 점검…현장 개선조치 강화",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2VGFQOVNFVE9DcUlXUGhMUUNlUjNJRjhiNEtNcWVNcG9YVS1VMzUtX094WDdNV3UwYVJUZjNfcVlISmgyOThUVmwwZ0FkWkdrdXpZUlZZSmladm15cGFQQ1AxOVM2N0JOaGhDRXJxbFl5Z3RoODhxMDNyZWg?oc=5",
    "source": "더파워",
@@ -2670,6 +3830,19 @@
    ],
    "queries": [
     "안전보건공단"
+   ]
+  },
+  {
+   "title": "여주시, 재난안전교육 실시, 현장 위험요인 사례로 위험성평가 역량 높인다",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GNDdSOHY0RXdCNWc1ekdfWkIxUDN2TG9sSG9fX1I1VFFWQWMxWTdZTWF1VS1VMDhZa0M0UGp1bElTUzU2dk01eWRSc0o4enhHUW1yekdRQmZXZkd6RUIxdWQ5V04?oc=5",
+   "source": "뉴스Q",
+   "published": "2026-11-24T14:45:51+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "위험성평가"
    ]
   },
   {
@@ -2739,6 +3912,20 @@
    ]
   },
   {
+   "title": "한전KDN, 배전설비 폭발사고 가정한 중대재해 대응 훈련",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFdm15NVhmejNCLThMY3Q1N1NjMlpFVjRrSUZnc3psbUpHX29US1JWLTBRaVdYMlZDb3I3aVNnaE5aQTN6MkhER0FmUF8tOHFZX2l0cXhuYmhzRWU2VHNZMFM0LXhvT3Z2?oc=5",
+   "source": "팍스경제TV",
+   "published": "2026-11-24T13:21:14+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
    "title": "세아베스틸 전 대표, 중대재해처벌법 위반 징역 2년·집행유예 3년",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSTJBWTBSTGNlZldFVm5XZFktR1ZweDFzZ0p1SGJQQ3VHeGhnWlRqU1hpQ01tWlVZRTQ3dnJUb1VtM2JSd2JWbHB0d1dHZ0RVWVBoNHk5LW5qejR0R3o1TzRkeEVfdFU?oc=5",
    "source": "안전저널",
@@ -2791,6 +3978,19 @@
    ],
    "queries": [
     "중대재해",
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "노동자 4명 숨진 세아베스틸···전 대표 징역 2년·집유 3년",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiU0hETDl0QlNZeEpQb1BLODdReWNfTmplVlByeVBLTkxTczdsZU9qLTZ5TzFQajVNdGVYRlVZNmEtV2Jvbjl3VHBjZ2JDN29lWnVRcHpNeGtrZWt0UXNr0gFfQVVfeXFMUGJTSERMOXRCU1l4SlBvUEs4N1F5Y19OamVWUHJ5UEtOTFNzN2xlT2otNnlPMVBqNU10ZVhGVVk2YS1XYm9uOXdUcGNnYkM3b2VadVFwek14a2tla3RRc2s?oc=5",
+   "source": "경향신문",
+   "published": "2026-11-24T12:28:00+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
     "중대재해처벌법"
    ]
   },
@@ -2987,6 +4187,20 @@
    ],
    "queries": [
     "고용노동부 안전보건"
+   ]
+  },
+  {
+   "title": "손주환 안전공업 대표 등 기소…3월 대전 공장 화재 중대재해처벌법 위반 혐의",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IOEo4VHJwa0xyQnB0cG9OaE5LYkpZVG5LZkZvQXFmRFl6bFNzNkl5dFY3eFhMM0dfUW1yVjg4NzctVjV1cW9mRU9YTVdfMl9OQ0k5Yl9SQXZxZ0ZqYVA3NHJydVZjQ2vSAWtBVV95cUxQbUpfRy1tdFB2N25TX0M0cW9HS3VIanBseEtSVmxGbTBqZmJ0WWQwQ3RDaUxuVVBydXJlVE9ZWUNGOWJsZTZJLThsRHl1NVBxR3Z6Mk5SY2I2S1VQc0JmR0tMaHE1Z2dJX28xQQ?oc=5",
+   "source": "CEO저널",
+   "published": "2026-11-24T09:58:36+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해처벌법"
    ]
   },
   {
@@ -3246,6 +4460,33 @@
    ]
   },
   {
+   "title": "경남도, 12월 8일부터 노동감독 시작 … 30인 미만 사업장·30억 미만 건설 현장",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VLWJEZHhvR2hDWW5vc1g5aElfV1dIWnR1OHRpc25ETmJ0U1dOdE1DekJwb0xDbFlYNG9pSUZPTkpwN2dXSEIwWnZ4VHg1bExkZjFSYXl3WS05VEFHWUoxVQ?oc=5",
+   "source": "아시아경제",
+   "published": "2026-11-23T21:54:06+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
+   "title": "[FOCUS]이스라엘 인텔공장 NF3 트레일러 폭발…가스공급 안전관리 비상",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZkZxOVdPN2FpR2F0elUzOHlGS3VDUnVJd1BNQWllajNzRF9oWXdMeUl4V2JvX0tURmQ3VzVrWFZSV2Mtcm1CU2tsbTR6ZGN2STZSUjJ2dXJzU0E0Qk5hN0tSSzdUdWha?oc=5",
+   "source": "온라인가스저널",
+   "published": "2026-11-23T20:52:56+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
    "title": "고용노동부, 작은 사업장 건강지킴이 '근로자건강센터', 김포·포항에 새로 문 연다.",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tLUkwRkJxU1JiT21oUXhZeU1Meksya3NncmJVajNoeS1VWDlfM0htelpqaE9IZDNxWlVuaWZ0X1luaUp2UWhENHRxYk02U2hiRVBjRld6NktYV1d0bVFvOW50Q09SX0lnOVgzNUJB?oc=5",
    "source": "시민행정신문",
@@ -3300,6 +4541,20 @@
    ]
   },
   {
+   "title": "중대재해 ZERO…의정부도시공사, AI 스마트 안전관리로 지방자치 혁신대상 '최우수'",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHOGtrbGY1N1RNWldzQlFOemh3TWtGTDdGRHlMcUZQTVo3ZXpDWEZsQmJhUjRrb2pHNzV3ZVA0Tjg4cHNuQTBySFBISzEtZ1EyMktqaGtiRjhlZVBXUlZHcFMybExMMEc2?oc=5",
+   "source": "경기도정신문",
+   "published": "2026-11-23T18:17:00+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "건설안전"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
    "title": "작업 절차 준수 등 기본 조치 이행하지 않아 자주 발생 [산재, 악순환 고리 끊자]",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNME41UFZjQ2g1WmZQTzBDd2g3b01uT3dUczVSUjltSm1Dbk52eUJwd0Q5bU5vaXo0QklPSmRjbW44TTN1cWNkaThrZjlOWlVEZFdfc2x2T0Qybk01aTVVblRibHV4Y1R3ZS1GQVZjcTNtTWtFVkoyeQ?oc=5",
    "source": "부산일보",
@@ -3307,6 +4562,7 @@
    "category": "일반",
    "tags": [],
    "queries": [
+    "산업재해",
     "산재 사망사고"
    ]
   },
@@ -3347,6 +4603,21 @@
    ],
    "queries": [
     "중대재해"
+   ]
+  },
+  {
+   "title": "14명 사망 화재 안전공업 대표이사 기소...중대재해처벌법위반죄 등 적용",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qeWkxMDkxbUNJNTVKVnNJbFp6emo4UXJBbXhKN0F3b2VtMU0xcUNaVmp6cDVPVjd5TTlHdzZjMy1qcGdXLW9kYnA1eHYzU2ZGRm1JMU43bnU0RE51bGcxRk9hWUE?oc=5",
+   "source": "중도일보",
+   "published": "2026-11-23T17:27:54+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "화재·폭발·화학",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해처벌법"
    ]
   },
   {
@@ -3621,6 +4892,20 @@
    ]
   },
   {
+   "title": "이종배 의원, 근로자안전강화 「산업안전보건법 개정안」 대표발의!!",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jVzljLVRhel9Gc0lMQ2Zxdzlob3B5VkxBcWtDZEtUWUd2VVZLYllpeDVvejdYRTUzNFF2ZUhtTG5UQmRmWDhWR2I5LW1HeWJaYkYzUG43NmFzdWl3YWF0aVRabE4xUkVQd1ZYX1NR0gFyQVVfeXFMTkdoeUY2Ykg4d3haSl9zNkZXQXBZc2lNalFSREMwRlFUZ0VhN0hnLW4tWEs0Q251NDJfRDAwOF8yUDdkX2lFdWFmcDB4c3QzdndxdS1LeklwNlVacXpRVXZ1N3QySzlDMi1jdWl3NUZWUElB?oc=5",
+   "source": "중원신문",
+   "published": "2026-11-23T16:18:49+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책",
+    "산업보건"
+   ],
+   "queries": [
+    "산업안전보건법"
+   ]
+  },
+  {
    "title": "제주 지게차 무면허 사망…고용노동부, 물류업체 특별점검",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11a3lzcVNhUS0tT1hPWTRDTjV5TXlaMXhFaFhJOTBkNDd3dU9iNzFILXpzYllaeU5pYm5yWU9xR1dtbW5DTGk0bXlKN1ItQ3Y0a0E?oc=5",
    "source": "노컷뉴스",
@@ -3646,6 +4931,20 @@
    ],
    "queries": [
     "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "법무법인 지평·부산상공회의소, 중대재해 예방 세미나…경영진 책임과 감독·수사 대응",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wNE5waUNkQW12b0IyY0dBWlZuSnYtdTJfNVZkVm9pazF0TFZtMlpsQ2ZMWE9iWnl0Z0VqNUxUdndYWjYtd3NsVTMzMU9yRkZaZlJVRnl3?oc=5",
+   "source": "중앙일보",
+   "published": "2026-11-23T16:08:59+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해"
    ]
   },
   {
@@ -3697,7 +4996,8 @@
     "산업보건"
    ],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "직업병 산업보건"
    ]
   },
   {
@@ -3767,6 +5067,7 @@
     "건설안전"
    ],
    "queries": [
+    "중대재해",
     "중대재해처벌법"
    ]
   },
@@ -3899,6 +5200,20 @@
    ],
    "queries": [
     "산업안전보건법"
+   ]
+  },
+  {
+   "title": "하노이의 화재 안전 상황에 대한 점검 및 철저한 평가를 강화해야 합니다.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclBoMVpyS1FPN2ktakRHUHBfOGRTQkZ5bGZ4R211T2pRbmFqSFFmNTItajlYNnVkSVJaMjl2bGtEVU92VFdpVHhwSFNzYnRBSVBKc0ZyZ2RnNnhrNko3NGVndlBEa1FQWnRrT0FXMEtONjRiN01qUGVvRDQ1VDhxVUJkS251SU9mTU14VDluUTFGdWxMUC1vZDBDOF83eWZRWU1yVmlZM3NrV0xrblFJM3d3?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-23T14:57:30+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학",
+    "법령·정책"
+   ],
+   "queries": [
+    "폭발 화재 공장"
    ]
   },
   {
@@ -4153,6 +5468,21 @@
    ]
   },
   {
+   "title": "기업 산업재해·예방투자 내년부터 공개…안전보건 공시제 시행",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DeExyaWYtYVA1aWQ3Y2c3cXltQW1OTlFQWHlueGszbHhBeld5TURSVGpkSXljQ1lvbC1aTTBaX3ZMR3g1VG05TXRSMUQ3a0VzMFpHVzJjTDZWQ2E1ZzdkdEh0VXFvc2c3dURpLQ?oc=5",
+   "source": "서울뉴스통신",
+   "published": "2026-11-23T14:00:00+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "산업보건"
+   ],
+   "queries": [
+    "고용노동부 안전보건",
+    "산업재해"
+   ]
+  },
+  {
    "title": "전남광주, ‘기후위기·산업재해’ 안전도시 전략 모색",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oNEszT1ZBOXBwRUJZZlgwdm9ZV0NSVFVDX21sSkFqMS1fN3ZId2VjWTk2dkdiMzZGdnY1Mml0OVhuMExsblNLSTF4NFZFMTN0cmdyanVrSkptTUN6YWk0?oc=5",
    "source": "MTN 머니투데이방송",
@@ -4161,6 +5491,19 @@
    "tags": [],
    "queries": [
     "산업재해"
+   ]
+  },
+  {
+   "title": "경상남도, 12월 8일부터 지방노동감독 본격 시행…소규모 사업장 집중 점검",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SVVhpWWkwQnZZeThGa194MzdESUt5VzZFTmFpcDJtSVVwYkVqZUtfdUdkNGtfVjN1V0IzV0JGTFRFdGk4b3hjdXlTUGRUVkhLY1RhT3dXRVo0UEpSYmtkeFVnOWE4andqZ2RsN01hLVRLelE?oc=5",
+   "source": "코리아이글뉴스",
+   "published": "2026-11-23T13:55:00+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
    ]
   },
   {
@@ -4476,6 +5819,33 @@
    ]
   },
   {
+   "title": "기고/ 외국선사가 맡긴 수중작업과 중대재해처벌법상 도급인 책임의 경계",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Yjdsb1c0LU92ejM5dTBHYUlqU19wV3YydU5nZlNoWWh3ZzkyY2VkNkZZT2lLZG10bzRsS3Rsd3RQX3RkRmxiVW5GcHoxdERjNmJJRXlIRUNWYjBxcFNPNFBKbHhIQms?oc=5",
+   "source": "코리아쉬핑가제트",
+   "published": "2026-11-23T09:29:00+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "'재무통' 김우석 대표의 한화 건설 또 근로자 추락사..영업이익 81% 급감",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9obW5id1BmLXlCWXVPa0FzNDJNRWluakNpV1RfeWdqaEEtbVdPQW4yY2FOSXM0N245SXVvaU1MQjF4czNvX0RQNU01bWRpRUNEZ3BHUURMdVFWUEVJNy1YZDZBd0hrRjJMSjJWTVdQWkNxMGRFQ3FkUkZROWVncFnSAXNBVV95cUxON2FRSV80bTNVdzU4RjUxNlhEellaRmdDODljbV9pakdPR3RMVTBIZE9wQW5fUHU1cHVUXzB3SDU2aExIblVXd1cyU2N5M2VXdUR6UjF5ZWpYRzAyN1NRbHNYckNwaVVoYlhBeUFlUGRWVy1r?oc=5",
+   "source": "땅집고",
+   "published": "2026-11-23T09:23:29+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
    "title": "김해시, 위험성평가 제도 개편 대응 산업재해 예방 강화",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xTmlmRlVZQWQ4UmVETWlGNUQwUC1VRXRtS21tR2pQMXlMNHNxZ1Z6bW9QR2JWN0dERFh3NlFzRWkwaDdEZy1JS3lXRjlpMWRBSjRJQmJ0NktTVUdXdjg5T3lrOA?oc=5",
    "source": "경남도민뉴스",
@@ -4539,6 +5909,33 @@
    ],
    "queries": [
     "끼임 사고 공장"
+   ]
+  },
+  {
+   "title": "“올해만 17명 일터서 숨졌다” 강원 산업현장 중대재해 여전",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByQmRETkEzUG85NzdFOEpkMkZIZVZMMFZHUzVqaGhBci1mU3UzQ1dLYnlNalJSV0lVNlJhcmZ3OTFEbjhyYkdmWWdDWXc1YmF6OWJmQ2E3STdTQXc?oc=5",
+   "source": "강원일보",
+   "published": "2026-11-23T00:03:00+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "산업재해",
+    "중대재해"
+   ]
+  },
+  {
+   "title": "건설현장 정상화 위해 중대재해법 손보나:동아경제신문 & daenews.co.kr",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80bnB3Z3FzeGVscGR5cE9JbF9DMjFLd05vTlk4OXpDQlFlR0FQNkwzcU1xQlVqYjdhZE9mNTRJMnpWTlpSZHfSAWJBVV95cUxPMlZnSlpoV3VpdmhVWVNyM2NRSVg3dWpOT2J0cnFHSUkta256eVlOdl9jMUctRVhnbmRIUDNEck1wNmRyOE5EbTRQb05zcFVEOWpHSEVCaTdzSWpFZGVVQjVuUQ?oc=5",
+   "source": "동아경제",
+   "published": "2026-11-22T22:23:00+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "중대재해",
+    "중대재해처벌법"
    ]
   },
   {
@@ -4649,6 +6046,47 @@
    ]
   },
   {
+   "title": "서천, 관리감독 직원 대상 산업안전 체험교육 실시",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4dkZXTFNxc0FVNVV2Ykl3bHB6SVBQdGhnTW4tam1kSkNnQy1GYUxDbjNYMDl2WjNHeUhQeVdUdnV5ZFRZN1hhSG94WThJY1hXR2xyVmhHNVpDOFlSV08xaW5KSzk?oc=5",
+   "source": "중도일보",
+   "published": "2026-11-22T09:18:47+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
+   "title": "경주 아파트서 조명 교체하던 50대 추락사…중처법 위반 조사",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aVzBIRl9nbjdlV01pRWJIZ0FxaUNtZUZxT1JCQ1haZ09FTU5VbVo0UGtzVXQ3TzVnZHdPd3AtcFByUjhpUnZPYkJUVnFDbU5YX1Q3ZVFpcEY?oc=5",
+   "source": "경북신문",
+   "published": "2026-11-22T06:42:57+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "‘어떻게 떨어졌길래’…천장 조명 교체하다 3.3m 아래 추락한 55세 노동자 결국 사망",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UVTl6OGc4RUlXVV9odGxwTG5YZkhZN3dsMEotcHNpZ2h0RlJZOXB6M3VySEdtLThNOXpoQ2xvTEVIY1hNQUN3Z2IxdlVFM3Fx?oc=5",
+   "source": "문화일보",
+   "published": "2026-11-22T05:18:42+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
+    "중대재해처벌법"
+   ]
+  },
+  {
    "title": "산업재해예방 위한 군포시 노동정책 토론회 개최",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWxSM3ZnX1VIam1JNi1ha3JFdEZiZGFab3hra2FBN19mSmVIMFBPZXB4WS12T2xsMlUwUTVMT2wtODUtdjUxTGU5YS02aWNXRjhheWhEcmFqR3ZMMVVGX21PSzdEd0Z4S2JQRVRXQjdRRTd2dF81Q0ZhMUg5c3h0dXhsaw?oc=5",
    "source": "경기도뉴스포털",
@@ -4660,6 +6098,17 @@
    ],
    "queries": [
     "산업재해"
+   ]
+  },
+  {
+   "title": "GS칼텍스, 첨단 궤도로봇 시연 등 스마트 소방 안전역량 결집",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtTk5UVHJNak14NXpYRGJkVTBhaFV4LVBJRlJoWDBRelpiMXpBS0tGVGVmWTZzeEdOMENlNVVLUmNHNGFWdzNLOTZLVHNmUWp5ZjBnQTIwenlaZE9IVHhYdG5JZw?oc=5",
+   "source": "쿠키뉴스",
+   "published": "2026-11-21T20:37:39+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "폭발 화재 공장"
    ]
   },
   {
@@ -4700,7 +6149,21 @@
     "법령·정책"
    ],
    "queries": [
-    "중대재해"
+    "중대재해",
+    "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "서산 동문동 상가서 가스폭발 추정 화재…상인 2명 화상",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBldjUwcFdSV1ZuTzctNjVjSzFxRFdsMUlOelgzdzZKbEhURXZvcWR1cC1SeGJkaVJTVkNwN1YycURjSXVNYXdXWnE2ZWR6dnRpRUxEWG1tSl9kdWo0SXJFbQ?oc=5",
+   "source": "뉴스1",
+   "published": "2026-11-21T13:43:33+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
    ]
   },
   {
@@ -4729,6 +6192,31 @@
    ],
    "queries": [
     "산업재해"
+   ]
+  },
+  {
+   "title": "\"다쳤다더니 배달 중?\"···산재급여 챙기고, 동생 이름으로 일한 형 [거짓을 청구하다]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zaHFlRTE1NHlGRzRDTTZTRm1aa3g5clh2bUZTMmk3aFlseE1rbmUyaEZIaER2RnYxVHBkNEdmM0d0VjBVQmZWeU9aeUd3YjFiRU5aTEpJclY5QQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-21T05:00:00+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "산업재해"
+   ]
+  },
+  {
+   "title": "새만금수목원 공사장서 60대 추락사…5m 아래로 떨어져 숨져",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JSU05ejJBMTM1MzV3YnFTRWpqa0FLdU5udzRXWnV4UVk5dHdJMS1zNkhfOXdmaXNNWWZobG9Xb2dXaUNEUDFud19hMURKXzR2WV9JcXM2S3ZvSVY1cGJGdmFSM0tGcTh5eVE?oc=5",
+   "source": "OBC 뉴스",
+   "published": "2026-11-21T01:40:34+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
    ]
   },
   {
@@ -4773,6 +6261,20 @@
    ]
   },
   {
+   "title": "한화 건설현장서 또 추락사…반복되는 노동자 사망, 안전관리 책임 도마",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNWJHRDRndEF1T1dSbnMtd0NGNlpXamhKbFZmQXJTY1otTERuX1B4bDAxX3B6WVp3QzZ1OFlDWndYUEpuT3UwUW55WUE1SWlUYngyeGFlZFV6YXM?oc=5",
+   "source": "위메이크뉴스",
+   "published": "2026-11-20T22:00:47+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
    "title": "직업건강협회, 2026 연합학술대회 개최…AI·기후위기 등 직업건강 현안 논의",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BVERaUk13VXJpSTk2UGJJR3NyQkJIN3VucWc3RllxRDNSRGxBdm5nSDAxdDBIbHlhYWt4bFQzUGNNNGNRM3U4Y0JqbGRTeE8yaVlOSTVST2xaa2RqeUVtRGlBanh5UkJUNllZeDh3ODlWdE5GQVpubnd4ZTg?oc=5",
    "source": "비욘드포스트",
@@ -4801,6 +6303,21 @@
    ]
   },
   {
+   "title": "김제 수목원 공사장서 60대 추락사…중대재해법 조사",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XUnZYUTVtSXZFVUlqbFBOYjlSeXZyR19vanBMYnJGSDcyNDVxdEtVRE1PbzFaT0FPdnd1Q0wtVWM2QmFNRUVCUDFXclM0U3paZjJBTnNxS1dGVG9xZFljVdIBeEFVX3lxTFBiT2MwaXFvbVNxX0pDTmpPcC1nY1A2eERRUHB2M3hpaXdLTjhfZVVnME92bmFKT20xVlV4SEdDOXNYT0xxMTZKcGlqdFhJZFBQSi1yQUZMYm53Tld5U3dkc1h4emRTVmRIaEJyRkxMM01SOE5OSXFLMg?oc=5",
+   "source": "뉴시스",
+   "published": "2026-11-20T20:13:29+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
    "title": "산림조합중앙회, 중대재해 예방 대책 회의 개최",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMVkwVHR2QlJzNzRBTElIc24xUzd1UWJXbmg2MEFKMXVOYWQxMlpaYmhRQjhDTk5xblhLaE5pTUJrNlVwNC01TW5QOEdpRGxwdE05LWlGMi0yQQ?oc=5",
    "source": "농민신문",
@@ -4823,7 +6340,8 @@
     "법령·정책"
    ],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "안전보건공단"
    ]
   },
   {
@@ -4842,6 +6360,20 @@
    ]
   },
   {
+   "title": "경기도, 지방노동감독관 도입에 앞서 영세사업장에 무료 노무컨설팅",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KbUwxWjczTkN4dHpRaWtrczF5RjROT0F3ZlBtdFZ2bFROb1FaX01JZUphSDYwT2gtWVc5eU5rVGhULW5FQmJKdi0yS3NJMFNWTHZPMWlybXkxVXRBQlYwZEVXbDk?oc=5",
+   "source": "매일일보",
+   "published": "2026-11-20T17:00:00+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
    "title": "한화오션, 이주노동자 별도 취업규칙 미신고로 과태료…노동단체 “전면 수사해야”",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRWpOdWhPUTBGRGY3REpJcHJGSGhwOV9OS09zZWo4WUlfTEdyRmdWeU5FN2Z4NzQ2d2dfUFhBSGtkUTVXNnlfRFV3UXZ2MGFPZ1piWm1Yb1VZeXVHeUxELThHZDE5VWVSMjFxbnBR?oc=5",
    "source": "거제뉴스광장",
@@ -4855,6 +6387,20 @@
    ]
   },
   {
+   "title": "안전보건공단 인천광역본부, 삼성바이오로직스 등 3곳 '건강증진 우수사업장' 선정",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSQU91QmdQQ0I2ZE1vRWVzRTVobjhRVUE5NkkzSnFDb2JhbWxsZkxPcjZGT0o2THFib08wbTRJS2hhbzlxRVhOR1Q1c3hIbEFvdzM1Q0s3YVBhVlFQOHY3N0hMRmRwNXZiSDQ5dldRSWQzbmxBVFJZalBGNVI?oc=5",
+   "source": "비욘드포스트",
+   "published": "2026-11-20T15:44:56+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "산업보건"
+   ],
+   "queries": [
+    "안전보건공단"
+   ]
+  },
+  {
    "title": "한국장학재단, 산재 발생하고도 위험성평가 부실 운영… 감사서 적발",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ScWVwZHBsd3c1VmJMZFE4ZUhhNDMxSjBqTUZDQUR5cy1mdTc4dXh1cDFhNjNVSHltZC02c2kwMlNTeHp0eTlnb1VBbWJvcXlqdzg3amlqa29tdGNCV0Fuemw5aHBYQ01RcnhaWXM2R0s?oc=5",
    "source": "안전신문",
@@ -4863,6 +6409,34 @@
    "tags": [],
    "queries": [
     "위험성평가"
+   ]
+  },
+  {
+   "title": "삼성바이오로직스 등 3곳, 근로자 건강증진 우수사업장 선정",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRmJQM1cyd1ZjMGNtcmM3ZmdVSG93UU5tNjZWSGlUWWl2aWhMZmVxZEVFMUlfNkNBTjBPRmp5NWJVa0JuaDlRRklocHdCeVJJUlhEdkVBOXg3ZTZ6ekpIMjRJY3haeko5RGROVVFLMng?oc=5",
+   "source": "안전신문",
+   "published": "2026-11-20T15:04:17+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "산업보건"
+   ],
+   "queries": [
+    "안전보건공단"
+   ]
+  },
+  {
+   "title": "오산시, 도급·용역 담당 공무원 대상 중대재해 예방 교육…지자체 사례로 법적 의무 익혀",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtWDAzSV83NkluVDBWd3lBQzg0QVpKSGpwSXExTjcwa29MTG5CZWxDUWJHWE8zM2xPczAwSEFXbjliWGRSM25FTFFKTWZ0aE9heEhTQ2RsZjdQLUFMSVI3UA?oc=5",
+   "source": "경기경제신문",
+   "published": "2026-11-20T14:54:28+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해처벌법"
    ]
   },
   {
@@ -4955,6 +6529,20 @@
    ]
   },
   {
+   "title": "김영훈 노동장관 '한파·추락' 취약 건설현장 패트롤 집중 단속...\"끝까지 확인한다\"",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1peWR3UE4tZGlsTl8yRGw4RVRnMEV0bDVzYzQxbjJfMTkwdHRuSDBvWC1NLVBSNVpOWjhZaU1TZ0dIWVJjWWNIbTIyOHlmOEtzU3UxQzlWVGFXM3ZPVDM3X056SjBDNUR4dTVv?oc=5",
+   "source": "BBS 불교방송",
+   "published": "2026-11-20T13:29:39+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
    "title": "울산항만공사, AI 안전관리 기술 확대…이동식 카메라·위험성평가 도입",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mQXllbVRYWkFtOVZELWlFQkFGeGZQUHBkS1FxNkRHcHg2N2JTRDhwUDFaal85ekRIemdmdENZaUNSd3puSDVKcWNydDFiVkN1UlBFSXdUZlM0Z0E0bUJtZEJpTkt5LUdQcDJ5TWtn?oc=5",
    "source": "국제뉴스",
@@ -4977,7 +6565,22 @@
     "사고·재해"
    ],
    "queries": [
-    "근로감독 산업안전"
+    "근로감독 산업안전",
+    "산업안전보건법"
+   ]
+  },
+  {
+   "title": "겨울철 건설현장 한파·추락 위험 잡는다…노동부, 패트롤 점검 확대",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tQUVERUZkWGFMSGM3TnQxSDc1R1FUY0R4SDMyS2k4blFnVXRtdjd5a2IzVnBrMmVhVDBCa1JPb29DeGlWRnZvcFlOdnlCSk1PY3J1M1ZkWjZnT2VIN0tKOFFvWDNVdU53b05CV9IBcEFVX3lxTE5YRjM2SVk3VGxtY0sxaVZTLXdWRFdyNkF3NWNlcHhyLUpwbHMzdEcyYTJ2d1FBT0pDUk1zOG9NNmhzTU9vRS1Ncm5ZT19FdHloMVJlLTFJQ3NCZWVwQ0JVM3E1bk13RjdDQXRaYV9KaEY?oc=5",
+   "source": "전기신문",
+   "published": "2026-11-20T12:32:23+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
    ]
   },
   {
@@ -5096,6 +6699,19 @@
    ]
   },
   {
+   "title": "제지공장 잇단 사망사고…대전노동청 ‘재발 방지 총력’",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SZ1VsYWJFN3FkY0cwRTUtWVAyc3dtLTRmMGptR29HckRFSFYyZnMyV3VpdGU0Y25hakJvbk9YWEZQSXJ4bUN3bTM5NUFTWWs0UHYydmlRVHNTdGVxNzZocEo3MXg5TzY2TEtqUVBR0gFyQVVfeXFMT1FwZFFvUVhvdTlOOTNvTEp1N3BrbXM4YVp2Sy12QzdJYTlmTEYtVkdDRjY0SlpnQVZzUU9TcmVicUI5RWVOTWpQbENSRkdDRGh1bGxIRXZGMjBiclFRbnA5QmNhaExDOFZUZ2ZhU3lPMktR?oc=5",
+   "source": "충청리뷰",
+   "published": "2026-11-20T09:49:04+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해"
+   ],
+   "queries": [
+    "끼임 사고 공장"
+   ]
+  },
+  {
    "title": "금속노조, '중대재해 부정' HD현대삼호·고용노동부 고발",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vcmJKU2U2dy01QXNvVDh6WmVEZklCWmdla0VqMHVCczNMclNBSlFEMzJYNWQzeXkxaTQtblBwNkNtcVdDR21YWEJqdmF6VzRGcHg3M005QTcxVlVxNWo1UQ?oc=5",
    "source": "KBC광주방송",
@@ -5163,6 +6779,32 @@
    ]
   },
   {
+   "title": "순천시, 중대재해 예방교육으로 안전관리 역량 강화",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWkdiOVkwNi1vWmJIN1c3OXhUeUdONWRvY1NqbnNLSXgzWHg5WEwxVDd6RFlrNlFKOHRQU0lLbm9DZVFIU2ZLX1NUcGZ6ellGa1dmbmRod21hWTd6N3NwMDJCOVp1VlVCLVk4?oc=5",
+   "source": "내외통신",
+   "published": "2026-11-19T18:44:55+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "영주시, 중대재해예방 위해 공무원 역량 강화 나선다",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03X2JmZF96UUhpS3JYem14d20xN3NtRVlJTEpOR3VjSWFiemJCUXBra3RaNk4xX3pQeXVfLTRDNTltRDdNYTJxaGo2MHRZTl9RNHJtRGJhWnlvS3pMeTBLRDdEeXRXdw?oc=5",
+   "source": "이로운넷",
+   "published": "2026-11-19T17:56:01+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
    "title": "국토부, 사망사고 낸 대형건설사 12곳 정조준…안전관리 고삐 죈다",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ncEVfdHE4bUZ6YkE1VnlSZm4tbkRILTl5NUhwaE1BOFpNU1VuNTY5R1BkOUQ4TXZtQ1o5QmxTQXNOZ3M2UWJvUVVMa2huTW1EM1dweG9zVEFvaHBPcHI3dnZKQTRSUQ?oc=5",
    "source": "건설이코노미뉴스",
@@ -5177,10 +6819,36 @@
    ]
   },
   {
+   "title": "울주군, ‘노란봉투법·포괄임금’ 실무 해법 제시… 권역별 노동법 아카데미 대장정 마무리",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9USi13OW5MOWRlLVlnQy1iaWVManl2SFVSVFA4SHItOWJyRjlTc09LYlRWS2VHYjFROU9ZZVVKZVF0a3Q5LTlsQ2lPb1VvNHFOTEFZZHNB?oc=5",
+   "source": "뉴스21 통신",
+   "published": "2026-11-19T17:26:50+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
    "title": "서왕진, ‘쿠팡 김범석 방지법’ 발의…산재 증거 은폐 처벌 추진",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US09PWFZaMGJWa2NDcUlfdm5ETnlXckYtSTRPejBmOEFERGJkWjlCTGY1RU5HQWhZY1gzN25wWVo2YUZPMDZ0M0Q4SFZRTGZfT1JianVXQ3RveXRkd1RsX29ja0tmczBiYnpueHh3?oc=5",
    "source": "월간중앙",
    "published": "2026-11-19T17:00:00+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
+   ]
+  },
+  {
+   "title": "울주군, 제3회 찾아가는 노사상생 노동법 아카데미 개최",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fOTZaMkNsWU5teTU0NjlIUFhYTE1LQ1o2Y3BVaW1yVDNRS1hlSkNQQzlUZk9kVlY1bG1EaWEtRlJLU3g1bWQ4QXRwaGpzcjhva29kaElBT2x5SWk4RVdlbUR5eXU0TWRp?oc=5",
+   "source": "양산타임스",
+   "published": "2026-11-19T16:59:17+09:00",
    "category": "법령·정책",
    "tags": [
     "법령·정책"
@@ -5199,7 +6867,21 @@
     "사고·재해"
    ],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "영주시, 중대재해예방을 위한 공무원 역량강화 교육 실시",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Y1FOTTZUMkIyb09fTUFBR3UtQWxDT1hmbGNScjRPekJnRkFtZVN6Q1otZk1mYjJjc0I4SF9vZ2RtNXFINFNwa0w4ckxpTDhSY2F6bHowdTlPUGVtRWZ1bGN5UFhLUkJoZ0E?oc=5",
+   "source": "대한투데이",
+   "published": "2026-11-19T16:54:25+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해처벌법"
    ]
   },
   {
@@ -5228,6 +6910,35 @@
    ]
   },
   {
+   "title": "에스앤아이코퍼레이션, 율촌과 중대재해 예방·법률 대응 업무협약",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nYjRQcmpyRFJxcFdYSjhxN2RhTnlQN2d2R290cHhXWFFLTFFtWXpFSjlhaFlzcUs2a29jS3AzMk54cjVLVlhyc0poZXA1V2gyd0xxRHRQSkVFd19fSVBIVllma1lsQ2VxcEJQUg?oc=5",
+   "source": "퍼블릭뉴스",
+   "published": "2026-11-19T16:33:08+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "안전보건공단 제주지역본부, 이동·건설 노동자 한랭질환 예방 합동 캠페인",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zTWtXODh1TFVESjQxSVJNZ0pxT0tvNzJSS1JKR2VzR3JtM0ZJNHVFYjZoMXg2aThHdjVUaTZFY3dvN0hJWk5xUlZfUERtUnViUWNwZFdqTDcwZnRybHdoWjh3WVBWWkE0NVpGN2Y5TGM4dXkwbzI4MmZ0WUQ?oc=5",
+   "source": "비욘드포스트",
+   "published": "2026-11-19T16:17:36+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "산업보건",
+    "건설안전"
+   ],
+   "queries": [
+    "안전보건공단"
+   ]
+  },
+  {
    "title": "⑨ 1987년, 한국산업안전공단이 창립되다",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pZmZzR2tzdTlneUJYTnVZa0JIUHNnZnZFNXRHNW04Y2Fhei1FV3ZHU1RMN3EzRnIwWGxYZ1BSQ3ZNUmt2a0ZKWGM5Zjhnc1J6cU82dU5ZVk4yUnlkNXE1c3VJMVkwNFk?oc=5",
    "source": "안전저널",
@@ -5246,7 +6957,21 @@
    "category": "일반",
    "tags": [],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "안전보건공단"
+   ]
+  },
+  {
+   "title": "시, 중대재해 예방 위해 공무원 실무역량 강화",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ycy1pdldjQ214WGlrbU5rS3U4bGVUN2M2UHRqMnhjcTRPS0FDc1NmbjRpQ0NYX2Nwd1N2c0haRFJVU3pPY2szYjNLR1ZrcVpsM2lVM21rcmNGLVZBQmpMY2RjeS1oTmRO?oc=5",
+   "source": "영주시민신문",
+   "published": "2026-11-19T15:50:42+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
    ]
   },
   {
@@ -5257,7 +6982,8 @@
    "category": "일반",
    "tags": [],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "중대재해"
    ]
   },
   {
@@ -5281,7 +7007,8 @@
    "category": "일반",
    "tags": [],
    "queries": [
-    "중대재해"
+    "중대재해",
+    "중대재해처벌법"
    ]
   },
   {
@@ -5296,6 +7023,33 @@
    ],
    "queries": [
     "질식 사고 밀폐공간"
+   ]
+  },
+  {
+   "title": "에스앤아이, 법무법인 율촌과 '건물관리 중대재해 예방·대응 고도화' 맞손",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdm1pajVmeWdvN2pOR0VoMlF2QVY3NDlERndxUVEwak5PNWZ3dXVVdG1WSEtWVktqaVQ0Qm43VmlfTUN3a2J5S2FuNENHcVlWdU9FM0syMzdIdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-19T14:43:13+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "시흥시, 산업재해 예방 실천 다짐 행사 개최… 안전문화 확산 앞장",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsRmtfN0ltSnVwNUktcUlYMUZrc2pVa1V6ZlRCRmhjM0tXc0t3RnA1VXRjTVNaRmFYMUFWcHNXUVZMbnl0Q09MOG9aQ2ktU1BuTFBVeGE1WGhxdWctZ1E?oc=5",
+   "source": "시흥타임즈",
+   "published": "2026-11-19T14:24:28+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "산업재해"
    ]
   },
   {
@@ -5325,6 +7079,19 @@
    ],
    "queries": [
     "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "휴게시간 8시간 적어 둬도 근로시간, 경비원 1명 미지급 임금 6,199만 원 판결과 휴게시간 설계법",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLVTk4UklTbGRMa0FVZ0MxQlBVYm5MaU9rZ2RpMk5sYWprOEtaQ1JOSTNJM214dXBBakNjODFHcUZYUHNEZ2RXN0pDVGJ6azl4enVoR1R1YzRzcTJLYkI1OXdTX05LbU03OTVN0gFvQVVfeXFMTTlVaVhoWW55R0pGYzFLcjc3VFBwTDRIWWVkaVc2UER6WlJnYlByR0ZsN29IOTV4QnRPbkVfSXlDcTlrdGVqZDg5V2hiS2dWWkE3ajhVVkp1YzMydnctWHdHc0VjZ0M3Wlh6OG85SlhB?oc=5",
+   "source": "사례뉴스",
+   "published": "2026-11-19T13:37:57+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "근로감독 산업안전"
    ]
   },
   {
@@ -5421,6 +7188,31 @@
    ]
   },
   {
+   "title": "소규모 건설현장 안전취약 지대 … 사망자 72% 집중",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tMkJtbC1wZlQxZDZSUVYyWXBvNkROWG9CMDlzRXpDbVFHZzZxQW0yaThiQWxnT2NsQUkzdE12RFJ1TEpZa2hZc2JKZ3BrT1lfUWR0UDczekFGdHdRal9rWlFpR1g4UjY0VUY0cDkwSdIBc0FVX3lxTE9TbjVHTi12eE12MEdtMzVVT2NqWTdkczlkZWc4ZV9KR3NCSC1PeVotZTBxRUcyNjVSVHpWaVp2cHhkZk5GaUt3UEltWVNBY2xoemFvblNMbm1yenRXckp0WTBVak44Mlp0TnAxQWwyNnZ5Y00?oc=5",
+   "source": "세이프타임즈",
+   "published": "2026-11-19T13:03:06+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "임실군, 폐기물처리시설 위험성 평가 후 현장 개선 완료",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xYmFXUkl5ZW00a0dUMU5vN2NySVo0NlFrNlIyQ204Mi1FQzNTS0VsOXl6UGxIM0RxRzVWekU1d2N3YmNUWHkxMk9paHlPZ3dTTUlfeV9RQnNpMWg2a092aGZGam1vRm5SQUdvUDBxU3FFdw?oc=5",
+   "source": "웹이코노미",
+   "published": "2026-11-19T12:41:53+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "위험성평가"
+   ]
+  },
+  {
    "title": "[특별기고-정인태]중대재해처벌법 최근 판결동향 및 시사점(11)",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xYVdSanktN25HcVNtV09qQXpucGd6cHNKOW9FSFNOMFhOdGwxbFp0YXlxUUJVN2JabFhMaEJVRHEyVUtnQ084ZzFBdU0yVWRoMFRpdEp2Qzl5bGVJWkZ4RzZRSl9CSUxxalBVR0x5YlM?oc=5",
    "source": "안전신문",
@@ -5430,7 +7222,21 @@
     "법령·정책"
    ],
    "queries": [
+    "중대재해",
     "중대재해처벌법"
+   ]
+  },
+  {
+   "title": "익산고용노동청, 고소작업대 '위법 개조' A제조업체 적발...안전 '경고등'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52TFNPMmF0dWJOMzhaZGJCbFVDeElmeEtqdjR5YXZxMEozbEpwWkF3TkpkVnBDSjdiWmlwVVlmUG9LaUZXYUUtZTROS1F0NUMtWlNNZWI0VHRLa01YelE?oc=5",
+   "source": "충청뉴스큐",
+   "published": "2026-11-19T12:25:36+09:00",
+   "category": "법령·정책",
+   "tags": [
+    "법령·정책"
+   ],
+   "queries": [
+    "산업안전보건법"
    ]
   },
   {
@@ -5503,6 +7309,20 @@
    ]
   },
   {
+   "title": "에스앤아이, 율촌과 중대재해 예방·대응 업무협약 체결",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sNnNPUVJ1ekZKTmw3dWowQ1JkM0YyT1ZQcEw4UDluQk9BSVc1UDg5aDF1Zy1qZVVaOXA2VktHeHU3eDZsbzdkRlhXeW5IZk9zbXY3NHdpalZGUTlGMVEzYTZZUm1OLUo0TnRHeWpuZXE0WDRHMlNyazljMEg?oc=5",
+   "source": "비욘드포스트",
+   "published": "2026-11-19T10:53:49+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해",
+    "중대재해처벌법"
+   ]
+  },
+  {
    "title": "[초점] 국토부 '추락사고 예방' 외쳤는데…한화 건설현장서 30대 노동자 35m 추락사",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpdmw4VjN6LVdJcW9taXNLekJ1WVg5SmppSUgwa3F4V3IwTUlsdy1jUTRuM0NLM3pVR3dZVk9HWWpwQThYa3poRXA4V0YtYUR6elM1Y1hEMGtWaUtkdWJUQVc5NDQyQm1walNLcQ?oc=5",
    "source": "뉴시안",
@@ -5533,6 +7353,47 @@
    ]
   },
   {
+   "title": "\"중대재해 예방 강화\" 기아, 노동부·협력사 110곳과 '안전 공동선언'",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rLTZKanJDanN2OVlzcHM3RG9KVXJZbXpqN09JajJOQ25BcWEtTTFtYVFXaTN5X25pV3VzcG9ZMVdhUTV4QUh2R2hTakRBclU4NG5SVkRWWXZ2X2E0QXpodFcwanl4aUk?oc=5",
+   "source": "안전저널",
+   "published": "2026-11-19T10:16:32+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "국토부, 건설사 12곳 안전관리 점검…추락 예방에 초점",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tUnRRekFEbElEOUZnQTEwN2JQajZHWnhBaE5JWjR4YnpfM2FLWmx2ZzYtZE5rTERQdXp4T3BPa1ltUk1jM1ZlWDJQckRYOTRJYnNKcVJoSGc5Q2xLT1g3RHVJMnpVSW8?oc=5",
+   "source": "안전저널",
+   "published": "2026-11-19T10:11:56+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "안산 의약품 제조공장 공기정화설비 폭발…설비·건물 유리창 파손",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uX0hlNGs0MXhvVHJ4VjRYbG5KelNtUGJ6OHNNN1EtSDlpVmhrak1NLVhzd2RLVkE5VFJsV2VqTnBRV0xLaFh5SGhrRzZ1QUpRVUo1WG9yTHjSAWhBVV95cUxNdjY1ZU5LQmVSZUpFc0UzOExsZkNhbk9kVUJRaDZQS3VMYTIwOEwtMVVfaVlCU0liRTV2QjNrcGxHYXRzU2h3V1J3bURyckd2ZlkyUHJPSm04QTdfbVBkSzh5Q3Mxc3lsSg?oc=5",
+   "source": "매일안전신문",
+   "published": "2026-11-19T10:10:40+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
+   ]
+  },
+  {
    "title": "국토부, 사망사고 발생 대형건설사 12곳 안전관리 점검",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RGlkd1BDVXl2TVZaRk5sNng4MDJnNTZSOXpJUjFfQXN4dHRBcHl4bUx4b09xZlFNY0pJMV9Ud3RzVnNER243Z0g4QktBdUtBLUk1dzJLemdEcXBYNzdnaENiOHU3ZkR1UzhEOdIBcEFVX3lxTE9TZ3AyZTZWUjZsMnQyMGFNaXkwMm5CeWQ2TlB6bDNsR2w0a09NWGdQZWg2U3FtU3dnYnJGZDBEYVdQMGI0TEFWbDZGU2lMSVF2dnJTVWphc3pNZENUREJmV0NRVzE5X0VLYnpFQTdmeTc?oc=5",
    "source": "전기신문",
@@ -5560,6 +7421,44 @@
    ],
    "queries": [
     "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "에스앤아이, 율촌과 안전관리 협력...\"중대재해 초기 대응체계 구축\"",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zREdkNUVra3RuUnJ0T3FLMUxicFMwcUIyekdiRFJET05DdHZsdE9iWVhTS3JCUWVvRGpzbzFpNXdIam55U3p6RTk3UUpFWXdWdE9SbjhVdkNTbkd3dmlIZlVORXNOb0xU?oc=5",
+   "source": "팍스경제TV",
+   "published": "2026-11-19T09:12:34+09:00",
+   "category": "일반",
+   "tags": [],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "김우석 한화 건설부문 대표, 마포 공덕1구역 재건축 현장서 30대 하청노동자 추락사",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uN3VJMW0wN0xsYzBEZVo1bzEyLVlYS0g5b2VSTGNCWEVScENFUjJ5MVZsZVk5RDh6V2VQbUdoajBHWEl4ZFNDYng2NVFKN3V1ZkQydlQxSUxfN01QRUFsNDd6QXVGcGPSAWtBVV95cUxQc0hSeXl3OE80TV9WQ2xRTmpMb0g3cUVGTkxYOWVIc3NHSHNQTVRyVTJjRGJINHRsMy1ibWNxTFZZV1RmRFRRMkotMnN1cXdjQ3NxdEUtcEo3MVN3WXFyWUhQUnlZQnZpUHBFUQ?oc=5",
+   "source": "CEO저널",
+   "published": "2026-11-19T09:07:10+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "안산 의약품 제조공장 공기정화설비 폭발...인명피해 없어",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhX01obmdKeU05U0tZN2oyN1R2aHllNktDWnRTb1lMZXg2bENpVG54UmlGdmNxbXdWS2xfTTMwcDJicjBSdElGMnMwMUJNTkdjYnlJVmdJRHFKeHR5a3AtMkVlQkZlV1d6QUYzdVlzZw?oc=5",
+   "source": "기호일보",
+   "published": "2026-11-19T08:57:29+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "폭발 화재 공장"
    ]
   },
   {
@@ -5651,6 +7550,36 @@
    ]
   },
   {
+   "title": "정부, 올 사망사고 낸 12개 대형 건설사 불러 실태 점검",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzLXlFd3V4SVVjTTRUckRXQ2Nkc0djWEJzSG5Na0Y0Z04wMmUyRDlhVUt6NExEX0M1U291enhWbDREV3YyeTRHYWZueXdxQ0FNQU1GQ29oWFg0QdIBX0FVX3lxTFA1RWp4QzRmX0dfWlpWMUpDT0N0elp2SmxsQXp5bDd5VWdqYTZaSE1fMmROVGp5QmptYlF2V2RaZDJ0bEltaGN4cW5CV3Q5V1JaLWRWMEozbGs5Q2tXOTFV?oc=5",
+   "source": "경향신문",
+   "published": "2026-11-18T20:34:00+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "올해 사망사고 난 대형 건설사 12곳 안전점검",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43bXN5ekl3eEJFc00zbV9OdnpaRU04Y2dfS2pmcXJwSE04Vk1SWUp1TGh3TEZKOFQwLUtHbzBrQXBQdkVzQTJYbmFoNVZTeTVJR3c2TERfZEt3ZEhFa2pYSW9YdDAxMTM0SW0tc0RB?oc=5",
+   "source": "https://www.newfilenews.com/",
+   "published": "2026-11-18T19:28:15+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
    "title": "추미애 지사, 경기소방학교 찾아 중대산업재해 예방 점검",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSHNuVm1OWHRrUTlEOFd5NGlwOTBQd2hFZ2prQ1MxVElDVU9kYkdQakk1VEtKZHY0U2NtdXJORVlWY2pvQ1ZhUlNnXzFRcDVBbVNnNWZLNklIM0NyNzlZcTQ0ZTV1YXgxTlHSAW5BVV95cUxNRmNmRkRpZWNCbnhGTHc4bUJoQms3MEFtYjRpYW15d2U2VWNidi1uNVlGc1NRSkM3MTdwZGZxMkstdFpDcTNnOUxCQ2V1Q3BqQ2FIZ3ZGVDJHbTdxNzN3ekFLbmhJMmp2X3l0ZFhMQQ?oc=5",
    "source": "세이프투데이",
@@ -5661,7 +7590,8 @@
     "법령·정책"
    ],
    "queries": [
-    "산업재해"
+    "산업재해",
+    "중대재해처벌법"
    ]
   },
   {
@@ -5677,6 +7607,19 @@
    ],
    "queries": [
     "고용노동부 안전보건"
+   ]
+  },
+  {
+   "title": "중재재해없는세상만들기 부산운동본부, 반얀트리 화재참사 선고 앞두고 탄원서 제출",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FeHdTa2VSZ08xQlA0NWhyQnBFUDN2bnBUQ1hTRjY0STd5Q2JGblQta3BwRmg4bzFJQl9uYS1XZzRldUR1V002TUxhUTI2WVVXalJZOVhuSV9JZHFhRkEtMDktRXhJUjhScEcyUWV3NzVqdkdqLWZBM2hR?oc=5",
+   "source": "로이슈",
+   "published": "2026-11-18T18:04:32+09:00",
+   "category": "화재·폭발·화학",
+   "tags": [
+    "화재·폭발·화학"
+   ],
+   "queries": [
+    "근로감독 산업안전"
    ]
   },
   {
@@ -5705,7 +7648,8 @@
     "사고·재해"
    ],
    "queries": [
-    "고용노동부 안전보건"
+    "고용노동부 안전보건",
+    "근로감독 산업안전"
    ]
   },
   {
@@ -5724,6 +7668,19 @@
    ]
   },
   {
+   "title": "외국인 근로자 ‘동료가 안전 멘토’…광주권역 현장 산재예방 강화",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNNGh5eVlwLTVrRVZjSlhtNXVfZ2ZUOGhuVWZzNUdhNzJ1NWkwYTFNclYtOG1LQXRhUk1VVGlHbEhWTXcwejRVeFh3dXlWSkRDcFAtTmJCbmtuVTJjeXRaUDI2RU9obHpKLVB4YmE5V29DUQ?oc=5",
+   "source": "에너지데일리",
+   "published": "2026-11-18T17:02:35+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "안전보건공단"
+   ]
+  },
+  {
    "title": "대전서부소방서, 유해화학물질 사고 합동 대응훈련",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE83MFZPMXVHWUh1bndacGdLZjJBbmQ3bmdSVWRVR2t4VENBTTQ2VkgyY3VCcTQ3OGlKSVJZLXNsd0xOeFFva3c?oc=5",
    "source": "FPN-소방방재신문",
@@ -5735,6 +7692,34 @@
    ],
    "queries": [
     "화학물질 누출"
+   ]
+  },
+  {
+   "title": "올해 건설현장 사망자 106명…국토부, 재발방지 대책 점검",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14ZmdaM3N0TkE0UlM2cEp1MkVkYVlMMDA2c0FENVBGUzBla0JHYUNQdm5sWWgxYUN4X29XdWZ4NXNNUHV1OHBfYXhqWQ?oc=5",
+   "source": "아이뉴스24",
+   "published": "2026-11-18T17:00:00+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "강원랜드, 공공기관과 안전감사 협력…예방 중심 감사체계 강화",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hVUNJcTZDREhrLVdiektkT0JIZVgzZ1JYQ29ienpiMnpmejB5Z3BQLU1KcENrenU0M19JWXFaU0pCUmQ5VzJ0Q3JkclRvbHlNTUZ0Wm9jZEphVVFpLUZUUlhoTmR4RnA5R2JkVzlWV0g?oc=5",
+   "source": "신아일보",
+   "published": "2026-11-18T17:00:00+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "안전보건공단"
    ]
   },
   {
@@ -5765,6 +7750,20 @@
    ]
   },
   {
+   "title": "국토부, 건설현장 사망사고 재발 막는다… 안전관리 강화 총력",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wQVA3UWFiNTU4aW1XaU5GMEgzSmtkNHZtcnJ1dHgwcG1hbEVoV2JKYXYyYk0xTjg3UU9UMXlXYmlSbGVQUzBrS0NrcGdKd0FrLVE?oc=5",
+   "source": "4차산업행정뉴스",
+   "published": "2026-11-18T16:33:00+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
    "title": "노동계 이장섭 청주시장 중대재해처벌법 위반 고발",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tYU9TX0ZyR3F3bTJ6UjROYTVrUFk0c3hhNXNuaVB3dk41dHhLRWFXeFJ6bk9GNEdkMWxnYkxXMmtsdFVzYnk3UEQ2c182aklacTh5aDZ5MkNSTTFvV2k2YnhCb1hyR0phYkR6RdIBcEFVX3lxTE9lYWRGZUs1WmdlODF2NEV3R1hBVVVqZDdqdkxvZ3pCNHRIOWtZZFVaNVJpYS1sWUxhcENrU3otOHpBLXFCX29oaG1Eb2YyQWh5ZEJ3bHRqbnR2OFk1UURnbldFN3hoM0R0RUFkOF9fOHY?oc=5",
    "source": "충북인뉴스",
@@ -5774,6 +7773,7 @@
     "법령·정책"
    ],
    "queries": [
+    "중대재해",
     "중대재해처벌법"
    ]
   },
@@ -5832,6 +7832,36 @@
    ]
   },
   {
+   "title": "국토부, 전국 2,900여 개 건설현장 동절기 안전점검 실시",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tOXFUMFU1NjJxUEJ2Z3dUalFhazdCR2hHWmNUNW5wQ1pGZHc0Q3Jhbzd5cnZpY3RYdmVyeFVhd2UtX1lleVVyVUJGeUp4MTE0YmFaZHRQLS1HQ2p4M1h4QURVaWRCZVMw?oc=5",
+   "source": "안전정보",
+   "published": "2026-11-18T16:14:42+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
+   "title": "국토부, 사망사고 발생 대형건설사 12곳 안전관리 점검회의 개최",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZeVcwTlREdzdQX2hId3lwUVY0Q3NnR2h5RTZHdzJXM2w1S1JEWTgxUS11YTU0WDQ4OEg0aFBEZU11U1M5a1Fza3VjQTdmZ2RleHgxLUpwNGRCNW5mSEJjTUpJbjVQYllI?oc=5",
+   "source": "안전정보",
+   "published": "2026-11-18T16:08:02+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
    "title": "국토교통부, 건설현장 사망사고 재발 막는다… 안전관리 강화 총력",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zTmNSbkVCNWxRZUFrTnJXcFNmMUVBQmVBQURuX0lvLTRJR2JtXzJ4c3VDa1cyNFc4bFJxejQwdUtPb1lrRmt0d19IcUo?oc=5",
    "source": "시사일보",
@@ -5874,6 +7904,20 @@
    ]
   },
   {
+   "title": "건설현장 사망사고 잇따라…한화·태영건설 현장서 노동자 2명 숨져",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vOEFwSnJIZjdjY1RNSzJjZTNKbms3RnFJdjROSXB2dmdqNFRROGZyWENGOWF2Z09tYUptSjcybFdnakVGUWFvOW1fc3FudzZWc1FlMGMycTFEQ1NsMzZGS09pVGRKcUlwdkZkMTlB?oc=5",
+   "source": "일요경제",
+   "published": "2026-11-18T15:57:08+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
+   ]
+  },
+  {
    "title": "평창군, 전 사업장 위험성평가…고위험 요인 즉시 조치",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81YzlzNTIzVEQ4dTdsQkNqc2dKM2ZNNTIzR0NfVUlpcVpRak1BLWs4T0lOS3hoa055ZV9LQXZmVDk5cnlkMXBILXZtbDNJa2hYaXlDYmlsLTFmNnN5bGhvSnRPMVF2emlrMHJwMVBXcWl2dExvVkc0S9IBeEFVX3lxTE81YzlzNTIzVEQ4dTdsQkNqc2dKM2ZNNTIzR0NfVUlpcVpRak1BLWs4T0lOS3hoa055ZV9LQXZmVDk5cnlkMXBILXZtbDNJa2hYaXlDYmlsLTFmNnN5bGhvSnRPMVF2emlrMHJwMVBXcWl2dExvVkc0Sw?oc=5",
    "source": "뉴시스",
@@ -5885,6 +7929,19 @@
    ]
   },
   {
+   "title": "기아·고용부·협력사 110곳, 중대재해 예방 공동 선언 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRTVXWVdCX21mRmdidFo5QldTYWxJSnVuU0dHVFNyTlBjWjBzcTZEcVZpdWZIa2hXcF9sZzZMbnB6Skljd3RyNGFVNUUyTGtFUFlTdTRFbVFDc3ppazlCQ3d2c1FfZld1eVlGQdIBckFVX3lxTFBlWGJHS0J5U3dUdDJMQTVuZVVpc2pPNTlObTJFWDlhMmVYLWZ4MnFSSE5GNFRQY2NvaElFZU1oNlNZdnlESlZtREh6cTBZejlDN3BHWDY2S0VCSkxfWFYzYUhXd3ZxVVlfc3M5djFOZVBHdw?oc=5",
+   "source": "머니투데이",
+   "published": "2026-11-18T15:48:37+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
    "title": "국토부, 새만금공항 계획 항소심도 패소…조류 충돌 위험성 평가 미흡",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBleVF6dmVILXhYQ1QwZUtvcExMSmxVRGNmSGNxaFU3Z3VIZkcxU0ZXdjVIVC1HZlU4c1ctalBzVWRiQnJ0YjFYRDF6cUdiSnhreERYWURzMFk5Z9IBWEFVX3lxTE5VNVVpTDI4Si1uWjNsdGVQOV9yeE9LMlFGM0NJS2VtSTlSVEVPbWVHMlI3cHhvN3kyeGsxbGM4VkFyTkwxTVYzYWxtRHRkLTc3NFZXNEZnNGw?oc=5",
    "source": "아주경제",
@@ -5893,6 +7950,20 @@
    "tags": [],
    "queries": [
     "위험성평가"
+   ]
+  },
+  {
+   "title": "한화 시공 마포구 재건축 현장서 30대 노동자 추락사",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FaWRsZUhtTlhmS2tVM0pIcGJfTzFSbTBxdGlhLU1qUUI4N0NacFV2MDMxWnpscm9zcjZlLUlPU0x0ZXA0dlhCZWo1QUZTMkJmX2Z6aFFZN1pwX2ZZVnAwUl9ZRFUxWTBPc3c?oc=5",
+   "source": "서울파이낸스",
+   "published": "2026-11-18T15:33:38+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
    ]
   },
   {
@@ -5919,6 +7990,21 @@
    "tags": [],
    "queries": [
     "산업안전보건법"
+   ]
+  },
+  {
+   "title": "건설현장 사망자 절반이 ‘추락사’···국토부, 사망사고 발생 대형 건설사 집중 점검",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uZTJEdUhwaFpadWN2RFE4aEZPZkl3dXBkSzdEclBIVkdtMWc0aTdlSDdsQW5LM3FUVEtBajc0aEVqYXdDNFYwZzh0dExhS0N2ZzFNbQ?oc=5",
+   "source": "더경남뉴스",
+   "published": "2026-11-18T15:05:44+09:00",
+   "category": "사고·재해",
+   "tags": [
+    "사고·재해",
+    "법령·정책",
+    "건설안전"
+   ],
+   "queries": [
+    "추락 사고 건설현장"
    ]
   },
   {
@@ -5964,6 +8050,32 @@
    ]
   },
   {
+   "title": "건설사 중대재해 ‘최다’ 불명예…국토부, 재발방지 위한 ‘안전관리 강화’ 총력",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBISXQ0NU0tT1U0SDJ0TERxQnpPajQxVjBCOGMyRWpYRERaQWlyLUVGQ3BmazNGZmlPNDZRVnNwMlotejNMSEEwbTlscUp6QVQ3WEdhZjdpTmE5c0pQclc4eElUYw?oc=5",
+   "source": "쿠키뉴스",
+   "published": "2026-11-18T14:30:16+09:00",
+   "category": "건설안전",
+   "tags": [
+    "건설안전"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
+   "title": "기아, 오토랜드 화성 협력사 110곳과 '중대재해 예방' 공동 선언",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdDFzdm9idEtLaE1NMXFkeG9MRmdLOXk2SzJrZUFWUnVReDRBeGtXV1pKcDFCUjIwbUxTZlJSc3JaVHFBXzdvZE9JX0FJS3FJaTAxN0t2STRGd0FDZ1RKdUNtdUZNaXZac3FBYQ?oc=5",
+   "source": "페로타임즈",
+   "published": "2026-11-18T14:30:00+09:00",
+   "category": "예방·교육",
+   "tags": [
+    "예방·교육"
+   ],
+   "queries": [
+    "중대재해"
+   ]
+  },
+  {
    "title": "기아, 협력사와 안전 선언…중대재해 예방 다짐",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oV3Q4SjFBek5qYU5KZHBaVHR2Yi05NlJSaXcxckFxWjJSeHhnT0RHSTRvaWhxYk91OTh1RnZyWHZ0VnAzcm1nNEZid1NiUHRrUE9zYkNkcGdiRjDSAWBBVV95cUxOQzdnWXc0ay11RGJjWFprV1RhdndtTV9FYTkzUWhHcjJuMHE1LXNIUkZ4cG1rVDZTckRZeVZUZVQtVFB6UC13dTBLR1NmWHplNWhSb2RtSmhXS0x1Znh5blQ?oc=5",
    "source": "연합뉴스",
@@ -5974,2138 +8086,6 @@
    ],
    "queries": [
     "중대재해"
-   ]
-  },
-  {
-   "title": "“직장 내 정신건강 위험도 산업재해 예방 대상에 포함해야”",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTYTlXT0h5TGppSVNyTjI1VzNGY05SOW9JeV9USVU2UDVhR2NWMHZGZzRXVHJUUFA4RlNMcFdzaG8wR1F6MUFZQTdiQ05URkViNkJCZE54OU96YjJQNUpLa0tmODZZRnVtLVpIWWhYYWc?oc=5",
-   "source": "안전신문",
-   "published": "2026-11-18T14:22:14+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "산업재해"
-   ]
-  },
-  {
-   "title": "건설현장 사망사고 절반은 추락···국토부, 대형 건설사 안전점검",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MGZGYUtCTG1lTWowcUFBV1FxaHA0RkJyLWR1ZXBTTUdzdXdMMkp4bmdja1ItUFpOdTNGcWNfMGVCdmJsXzZwRzFYUTdyNEpFYngyRjU2WXlzakRUX2tjU3huZXRoY0lMaWc?oc=5",
-   "source": "서울파이낸스",
-   "published": "2026-11-18T14:14:20+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "“소규모 사업장, 최소한의 안전보건 인력확보와 민간전문기관 협력체계 강화돼야”",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9faGE1YV84SWZ0OVlYMUd1UDRaN0dxREoyVXdqTUNmZm9HSk0yaXNuSm1uanpuSkE0aW5OelZOSVphY01rNEFZMg?oc=5",
-   "source": "한국노총",
-   "published": "2026-11-18T14:02:20+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "‘나 혼자 산다’ 번지점프장 조사 착수…익스트림스포츠 전반 점검",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FLXgzWl9xaHlzSlNESnZQUlREUFE3eXUtN01JU284bEwyM3hCcm9ETmdPdlJrcF9pUk1xQmw4VGxLT2J3VEw4UDV4bDJEMUhXdWw4bE9kVmxCX1o5dlQ0TWNKNjg0SUti?oc=5",
-   "source": "강원도민일보",
-   "published": "2026-11-18T13:59:52+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "산업안전보건법"
-   ]
-  },
-  {
-   "title": "국토부,건설현장 사망 10명 중 5명꼴 추락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8walJYZjl4Q3B5U1hIX19HRmZkLWdwOTJQbHB4dkpTRDV4YXV1RnJ5UGpuYWJWMV85cEZpVUhXMklyN2NsQWdtaVNfVWxteGUwcFljUndiZ2lEMk9McHhCYQ?oc=5",
-   "source": "메트로경제",
-   "published": "2026-11-18T13:58:39+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "건설현장 사망자 절반이 '추락사'…국토부, 사망사고 낸 대형건설사 12곳 긴급 점검",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aY1RoM0ttbTRtMmMyMGV6a1dDOExVZUh5eWlSc2NwbkRuVVl0VVNBRUlZTWsyLWZadlp6Wi00dUxydXhoQ0JQeC1RczVybGFDTkFrVWlNY0pyTWRSdU01MUlyT1BpMHdOODNERTB5dXg?oc=5",
-   "source": "비즈중앙",
-   "published": "2026-11-18T13:58:21+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "건설현장 사망자 올해 106명…국토부, 안전관리 강화",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUklET0JPdTJ1Y1NrVHhHM1lqcU1pbzNTQWVZNTcyZXBzNm8wLU9QdlhuQzlwU19ESl9rVE84OUdKNFlaZWJPbFo0NzhJTW9yX3FVRW41ZmZkdnRlaFlGM3B3?oc=5",
-   "source": "디지털데일리",
-   "published": "2026-11-18T13:46:35+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "계룡소방서, 탱크로리 화학물질 누출 가정해 특별구조훈련",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUHg4dndUUDVYdE5KbnhHZEpoSVBfRXFMSGRCSGo3Vk5CdEJKQU55b1NPNkwzbktfMDVaSUlTMmFJTzZmTE1HMUxTeTRVRGZkUEpuSXktNUtjREJqQVBPYlJGblpKaUNJcHhsRUJqeV9udFU?oc=5",
-   "source": "충남일보",
-   "published": "2026-11-18T13:07:16+09:00",
-   "category": "화재·폭발·화학",
-   "tags": [
-    "화재·폭발·화학",
-    "예방·교육"
-   ],
-   "queries": [
-    "화학물질 누출"
-   ]
-  },
-  {
-   "title": "건설현장 사망사고 잇따르자…국토부, 건설사 12곳 소집",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3NHNiM25yV3lfeGQtQXV2LXk1dVBxZWZQRmZLWWlVMHJrQWVkTjlmZ3V4VWdORHRWa1ctMlR4UXdrOG5aaElkLUc4bTd0SERlMlZXQmNUQ21pa0RTTkZkNzM5bnE3QldwYjdvNkV5MNIBc0FVX3lxTE42UUJmMTI2OENxZ2RpR0hpOTk0WU9LOUxNWThKTEt4NmhkNkFUaFM0dy1ETm9jYmVKbVd5cFZqX20wekw5MWozWENDRmd6VWVjTFdPbXVYYTJ6eXFTaVFZcnRiSF8ydFRSc0wwZHY1ZTktOGM?oc=5",
-   "source": "대전일보",
-   "published": "2026-11-18T13:02:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "건설현장 사망사고 감소세에도 추락 위험 여전…국토부, 대형 건설사 안전관리 강화",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wSzgzQVRNMlM2RzdOTjJPbVlsWXM0V0RvVmZWSjhmMmFYbjV1QU01V1YyYnJaSndjUWN4WXlsRXNjRlR3V3dFSGhGLXVFdzZOdVhJUjczU3HSAWhBVV95cUxQY0FrR05URXUyQW50MFhuMWw2dWtkTWk3YUpUQk5pRTdWZzUwNGkydGc0UmJuQVdaNndvQU5SUEJDY0lXXzNjN2Q4NVZvTnI3LU1yTFM3MUw0cEV3TFBrcjlqZEsySnlYRQ?oc=5",
-   "source": "매일안전신문",
-   "published": "2026-11-18T11:57:47+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "건설현장 사망사고 절반은 추락…국토부, 건설사 안전점검 강화",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQZGZES3drdVRqNjUtSmRWVjNyZy1SZm9lY3Q1NDI4RGdzZDUwV1g1clZNNU0xTjhrbTVtR05Gek5zUjNsUDZYTVFCcDZfSVkzYmRGNDlvOTkyOF96TmRvS2tLek00OW1IM19oOXBB0gFyQVVfeXFMUFZBQVlpdGI4STR2WGRsaHZhWFNzMlM5VHJtTi1sWTdIQmRFMWN4OUg0a3NyZkZPUGpMWFpZMmxZT1dGVXl5Nk1zNERPemI1NTJIQVVFZDFkeVNvWktKT0RyazhnVXlWUFRBSXFJdnV2VjBn?oc=5",
-   "source": "딜라이트닷넷",
-   "published": "2026-11-18T11:31:20+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "올 들어 건설 현장서 106명 숨져…절반 가량이 ‘추락’ 사망",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaGdUZkg2aUplcHpIYjdHRDNDNWduQVNhMW1vVWowMXRVSE5YdjFXb1hBcmpVNEI1dWh5LXRLTkVqdGtfbkhJUFVTVk5NZmVORUM4MVBWdkloNW8?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-11-18T11:27:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "서정대 등 7개 대학 참여 유학생 산업안전교육 클러스터 출범",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12dnRkU3R0NTR2NDNKRXZZLVg5WDl1TkFjZmVDWC1ZRWkxSXNNZXBJcEl0Zkh5MzZVcE5WNVVvSUZJb2M5OE92S291T0IzVG9wMTRELXl3OHlXdGc?oc=5",
-   "source": "경기일보",
-   "published": "2026-11-18T11:16:56+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "올해 건설 현장 사망 106명···국토부, 사고 난 대형건설사 12곳 점검",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTmxSNDJNMWJqV1ZkUTA2Z0R6Y3p2LUZuR3J0YWdyeEU1Vktsa3Y2ZHpzRXZwY3RxMUZzeDdMUm0xaC01TzAyMEVLdE5KZ1J1OFJTaVlVRmw1QdIBX0FVX3lxTFBpVnZ1TE1XZFhjUWNmZllna01sT1ljMmZiaV8wMnp2YWhLYjVkWndXNHItbWxpNE9aT1BvdXlid0pXZk41V0trX1BEQUNzTy1ndWNobjUyNWppZ2Q5MUJR?oc=5",
-   "source": "경향신문",
-   "published": "2026-11-18T11:16:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "건설현장 사망자 절반이 '추락'…국토부, 사고 낸 대형 건설사 12곳 소집",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iV19PUWZPMWJkanN4cUMzbkgyMUItd3QxX1VscVZMZjF5aDB2TmExZWMxV0xCODRJMjBZaHF6S21vaE5wZFBhTE1MYmdYbjRncExhNk5nMXJjcFY4MXhtd0ZNZEVsdkFJdVNSME5Eaw?oc=5",
-   "source": "진일보 | 전남일보",
-   "published": "2026-11-18T11:14:14+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "제아무리 사고예방을 강조한들",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94S2RTeWV2bkJUUXlLa1A1c1JQSm5mM0h0aHYwNXlXVExjV0FwMkpaamFXeVZOcUFKLV9DNDFMbW5vRnk2VXBrUnJ0MzRWODZnOW1zQjdJU2xISlI0RmpLc2dwTlpDUkNq?oc=5",
-   "source": "대한건설기계신문",
-   "published": "2026-11-18T11:13:24+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "중대재해 예방·하도급자 보호 관련법 잇따라 발의",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yWnNHeHFkWWFBRmQxZEJBZXlwOFhwUWEyRTdpQmpyWlptTlE2UnpMMjVvcjZIWVJJSjZxRzA4eEphN1VtVUNmZm15X2RyM0xTWDhSZHlwandOQkpDM1kwNmJrakVIXzZZ?oc=5",
-   "source": "대한건설기계신문",
-   "published": "2026-11-18T11:12:36+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해"
-   ]
-  },
-  {
-   "title": "올해 사망사고 낸 대형건설사 12곳 소집…국토부, 재발방지책 점검",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54SjFySWVKa1JpN1dqemhXbTNDRGVRS3J1emlPaEdodVVPYkJmT2JLZ1did2hTZUdnbmg2T2FoeVlxeEhMTG9fSW5saC0xNzhza1Q1cmJhRGZlbjFRbVZkM2NPUGFNUU5wMkpCUlEyVjhFeVE?oc=5",
-   "source": "마켓인",
-   "published": "2026-11-18T11:00:06+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "\"건설현장 사망사고 예방\" 국토부-12개 건설사 안전관리 점검",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pMDJDMTBMdG1rMTVqc0FqMzJOSVVMMVc2NFBJMEVrc2NoWm90aE1Ndk5hcGNBZFhIejZQcDRzMEZYQXFzRlVpbXRtcGdpT0RBYk9jbnBRVEJkM0JG?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-11-18T11:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "국토부, 사망사고 발생 대형 건설사 12곳 소집…추락사고 예방책 점검",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOc3UtTVhST21QcnRLRC0zSTRjSHc3S215SmllUjBEbktQZk9DUWh6UTllQks5Q0ZFRDRBQmNEUW1HZ3NHTThza21xb0h4TDF1Uk9jdQ?oc=5",
-   "source": "이투데이",
-   "published": "2026-11-18T11:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "건설현장 사망자 45%가 추락…건설기계 끼임·토사 깔림도 빈번",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53RVJPUmtNWFNCQUpGbkt4YXZRZ1VkcTVoYUt1WGlEUmxaU3V5bzkwM0pfQWw1Zng3LUJQc1l6YUdDV1FhNDlJdmZtcDBIOTAtajd4bnNJd2JqcTVZ?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-11-18T11:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "국토부, 올해 사망사고 낸 대형건설사 12곳 소집…추락사고 집중 점검",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56MF96Ml9FSXpCZlMxNUh6dmZhV3Zud3FkVjlVWEpycGQ2Z1hBV1VBQjN0ZnZMR3c2OUlBSGFVanltMHdOa2pBcmM5R1RVSzF3Mnc?oc=5",
-   "source": "노컷뉴스",
-   "published": "2026-11-18T11:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "국토부, 올해 사망사고 난 대형건설사 12곳 불러 안전점검",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3T0p0TGZ0RFUxanZ5azBKTjcyd21Rb2FnR1R2ZmtyRjQ2bS04ZFlTZXNBY0JRRFp1aXUtTFp2X0JzYndFLWZuWEtaTVFiSEM0UVpXSVBsSHRieHJ1TVZvZExzLVpBcVlBc3FhOFRQZWNWSUxaOHF5cdIBeEFVX3lxTFB3T0p0TGZ0RFUxanZ5azBKTjcyd21Rb2FnR1R2ZmtyRjQ2bS04ZFlTZXNBY0JRRFp1aXUtTFp2X0JzYndFLWZuWEtaTVFiSEM0UVpXSVBsSHRieHJ1TVZvZExzLVpBcVlBc3FhOFRQZWNWSUxaOHF5cQ?oc=5",
-   "source": "뉴시스",
-   "published": "2026-11-18T11:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "평창군, 연말까지 전 사업장 위험성평가…산업재해 예방",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QWlpYbDlJbGhjNzNvQ2FidkVIXzR5MmVJVDgwQVphX0NkaUQxUWMtbWhWc1ZqVUZJemhOd28wOWQtdzY2NFlJWjktWnU0cDkxbzZvOGcxWnZfWXB4X0c2bGRpZWpISG1lakRIc05abFnSAXRBVV95cUxPVWQ5WVJmdXFBWlRHdk1mWWp2UUk0V0ZuSV8ta2VlSzVjNGhWTV9BbDdqdm11OG1XbGlVdWlkZWtYaTQ4THIxYmtsc0I1TlZWQkFQT215NFl4aFR5Szd0UXlXTURrODVCZm52MTc2TW90WERyTg?oc=5",
-   "source": "이뉴스투데이",
-   "published": "2026-11-18T10:54:11+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육"
-   ],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "김재을 HD현대삼호 사장, 하청 용접공 사망 보름째 원인 공방",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RQzNDc3ExTTNFbkZicVBqUHlaMWpwN3JMczVuVVhTZ1JPVy1TR2NJU0pGbXJWMzI3Y04yWGdCTW42NjFXak55UTdKS3h0enVUMFJrZ3hhYkVWSVhHaHhUUEJXTmtiVk3SAWtBVV95cUxPckl5VXBTZXVqRzRnRGhiejN5TnRGOFdEeHlESWVRTmUtblNGZ21RNlBfdndianBBbXFXU3hTaWpCQmdlNFRrak5qaUNUOU5jb0ZGVXNzZ2RHX2NLdndnaEQ3RlMySFIwV0lQTQ?oc=5",
-   "source": "CEO저널",
-   "published": "2026-11-18T10:52:14+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "질식 사고 밀폐공간"
-   ]
-  },
-  {
-   "title": "울산지방법원 A회사 다이캐스팅 기계 협착사고 220714",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wdjhodUJ0cVFhUWhtY2dDa3pqQ1pxQU5nLWV2RmxaNHZra0J2QmczZXRYOXVrZ3YxWWM5TUc0dW8ta1lxak9sdE5lNnF1Yk45eHZwLXVJY2U2Slc5YjBIaUtFaTRFazZBYUZJWVhDWmo?oc=5",
-   "source": "매일노동뉴스",
-   "published": "2026-11-18T10:50:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해"
-   ]
-  },
-  {
-   "title": "LH·LH E&S, 밀폐공간 질식재해 긴급 구조훈련 실시",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NSWZSWE12ZjIwbEJTZTlDMW5zYmE2MkhfM1ZmQlR1aEs3R0ZZV0xwM1ZwSnNKdnJhRnpTdzF1OVp4YWhYQUZWMkZBU3o1QlpVejhJWmRZUkZ4TnZVUS1yYTFZMlpfVXVDWkVyUm9B?oc=5",
-   "source": "거제뉴스광장",
-   "published": "2026-11-18T10:17:18+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육"
-   ],
-   "queries": [
-    "질식 사고 밀폐공간"
-   ]
-  },
-  {
-   "title": "평창군, 연말까지 전 사업장 위험성평가…위험요인 선제 개선",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aWDdmUjNoZUsyekQ2Y2ZTQ0pmNWVLbjVUZWtjV2lYUmhpUU9NMFRHekl5d2VMaFpBYXdTNUVoVXIxU2lPZ29JRVo3eTdJT0h5WVNLczVRQTNxVnfSAWBBVV95cUxPWk5BR25UYkFheDQ4X3dxakZkN0RhY3U5M0FGdnJwcTdzbzBSS0hRODAyQUlNUkFTUW8zOXU3aUR5Y2owSUxNOGVVXzR1ZEEyUE0tVFV5UnlNUDdkRHZtLUU?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-18T09:49:45+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "안호영 의원 “도급인이 산재 예방 적격 수급인 미선정 시 과징금 부과”",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94T0tHOEUyaUQ2Q3VlU2pRWGNJSThpYUFwVXVnNV9XRXRPalJPVGg1LUJ5V0Y3T2RmX1o1SWZSOVJKRl9KNGRiVk5PTjNCVmhrR0U3LTY4aXltdkg1amNZUzdLTXhJREXSAWtBVV95cUxQZFFuU002ZHJhc1E2em1UUHZ3Rm9YVUo2NV9vTlVfeUcyS05yUUF2V25sWjdCV1BZTU5MMng0Tm1RZTdtLXRIaG00VkdMSFU3M01RN0RldEk3UjNEV25SdG5MSDg0VE1TUTg5VQ?oc=5",
-   "source": "아파트관리신문",
-   "published": "2026-11-18T09:43:46+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "법령·정책"
-   ],
-   "queries": [
-    "산업안전보건법"
-   ]
-  },
-  {
-   "title": "고용부, 산업안전보건법 위반 행위 신고 시 포상금 지급",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6VGp0am5WTHhidTZJNFNDV0pvY19wdTA2UUY4bE00N0ZfZGtoZFk5TVFoVzFTcWZaQzFKZGxvWS0zWHR5dDkyY0p1WndXSS1VQUpuNUFnUGp3MFlPZ09nTmJpalM2Y1HSAWtBVV95cUxNNUwwTklYZDB1WkprTGlXX0hjY2VRalhtS0xMbmQxQ1NQczJ5UnJIbVFWMkhINy1nY1ZMX25rX0Jvc2xmZFBMbjB1UEl0ZGVQX2cwNTRRM2tsbFFwaVNSRWdVRnJZd0MtVlk4VQ?oc=5",
-   "source": "아파트관리신문",
-   "published": "2026-11-18T09:37:53+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책",
-    "산업보건"
-   ],
-   "queries": [
-    "산업안전보건법"
-   ]
-  },
-  {
-   "title": "여수산단 산재 100건·15명 사망…여수시 더는 뒷짐 안 된다",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LeWZGQVg5ZTRINjV1WkxmeXp6dEVvYUJIZWlDVTdCcFItV3BtdzZTb215X2FLQjNWaVZvWjREcV81VEZVVUt3UGpDMVJHNER6S0ZZYm0wQ285a2llcDNFSDYzckV3UQ?oc=5",
-   "source": "뉴스탑전남",
-   "published": "2026-11-18T09:26:05+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "안전보건공단, 강원랜드·광해광업공단과 감사협력…산업안전·재난예방 합동점검",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iWE5EdVFka1B0THlybU5tNmVwWWp5cVdLbmNmVjJUR3gzc29MRTZxYnN1VThGOW44N0JmZnd3bDNkMFA0aDNtN0tPMDNsTFQ5STZ0THo1aUhNUkZmVTN0aXJDVjJ6X0VLRGhBWXoxUW1tZ29vVWl2dTdUMA?oc=5",
-   "source": "비욘드포스트",
-   "published": "2026-11-17T22:27:10+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "법령·정책",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "강원랜드, 광해광업공단·안전보건공단과 손잡고 사고 예방 강화",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01S0llY25PQXhlWUYtRGR5b0ZXdXNCdjVEeVhsRnozWG13TnlmMFA0YXpTZkxpY3hHWGM3dXRYNjFlZzZDbzhpdjVEdHBlTVgxcnJCYXJnUFdSRUxLWlVyWmxWei1JX2ZJV01TN0s2bXrSAXRBVV95cUxObzVxLTVaTVVOVmtfTXNUbEVOdlp3T0Yxai1lbHFUeXgyZDFHNjRVZDFqS1dNY3d3cWEzanNBMW9Qa2I3UmlXOS1zM0owNFlDTUh6dE1lY1FlanhjSW5sbGd5dXI2N2RtbUtXTVItUUttNU8zeg?oc=5",
-   "source": "이뉴스투데이",
-   "published": "2026-11-17T20:55:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "의왕도시공사, 안전·보건 우수사업장 '2관왕'",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pNk9LVWxRcXY4Rjdsald4QTdMTDJGSWMtdS00UmdMdHJkb2wxWWtETDZRN3BTM29yU3RuTl9iQlVabGV2aXlOeko5RmdBTzJ6WTdfTWxYN1FzQUJhRzBhMG0yT1pmelZ5dVNBWDk2QzlIN08tb3d5NtIBeEFVX3lxTE9pNk9LVWxRcXY4Rjdsald4QTdMTDJGSWMtdS00UmdMdHJkb2wxWWtETDZRN3BTM29yU3RuTl9iQlVabGV2aXlOeko5RmdBTzJ6WTdfTWxYN1FzQUJhRzBhMG0yT1pmelZ5dVNBWDk2QzlIN08tb3d5Ng?oc=5",
-   "source": "뉴시스",
-   "published": "2026-11-17T18:25:13+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건",
-    "건설안전"
-   ],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "안전보건공단·강원랜드·광해광업공단, ‘AI 감사동맹’ 구축",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MT1lteF9xLWFoUmxfSGNPRHAtbWR2T1l3bXlFRmNVU0pnMk0xSDlIdmNRM2VqZTI4U2tQYzdEQVZvdVJSY2VqQ0VwcHdXMkF0b2hLeGNLRVdhd1VaZFU0aHUzTktYTmdPa0JRc05UcTRPZw?oc=5",
-   "source": "인더스트리뉴스",
-   "published": "2026-11-17T18:12:27+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "강원랜드·한국광해광업공단·한국산업안전보건공단, 안전사고 예방 힘 모아",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jOWJsVXRGTWZjd2lVQ01OTU5mdkY1d0tTdDk0TnBGZlJLenNxZ2FUaHVZcThhWHJyd2J0S2FHQmlmNVFORzVhaUM0bDNvZHg5UUNKTjA3VC00Y05kU2locl8zMWFwcnNPNHNjdQ?oc=5",
-   "source": "ER 이코노믹리뷰",
-   "published": "2026-11-17T17:58:35+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "광해광업공단·강원랜드·산업안전보건공단, 안전분야 감사업무 협력",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSHhHZEVKZGJnRDNVLUpBWVlIYlBkcS1XSFUxa0kyZkNnc05yME9fRlFEZXRlVkV0dDFjVFhhS1VVNUFkQ3FhWXhDaktyMkdOYUZwanlPMlBZYk1BWGxqNVpFMTZiWXQ3VTJN?oc=5",
-   "source": "BBS 불교방송",
-   "published": "2026-11-17T17:49:06+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "경기도, 지방노동감독관 9명 투입…임금체불·산업안전 직접 점검",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pWk5fZFphbFotOEtrdXotUEFvZHZUbHZrRkV3ZFpzUTIxeG9BblBKLWlfRDlqTlEyeFBpVkQ5eDFTTGVpbXpxMjlTZGlwSnNOM3lBMDhNVkRPLWVBcW1wc2pzR0VKLVY4dmNXZjhvMTE?oc=5",
-   "source": "안전신문",
-   "published": "2026-11-17T17:24:09+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "근로감독 산업안전"
-   ]
-  },
-  {
-   "title": "[핫이슈] LG하이케어솔루션 노동자들 \"작업중 산업재해 위험에 노출\"",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTaldWQk4xTWw3SVhHSnRrVy1fUlA0ZFFEblYzTU52RlY1LVZGT1Q0QnpkRnF1U0l5ZWhSUVJKV0xpeTZYY1JwdkVFcnFKek0xVmU3T2FkWk9CblBNQ3dUaDNSNk5BamFJRHc?oc=5",
-   "source": "뉴스워치",
-   "published": "2026-11-17T17:11:18+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "산업재해"
-   ]
-  },
-  {
-   "title": "오송참사 이어 환경미화원 사망…청주시장 또 중대재해 책임론",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43N0hKckdKQ0FfRUNaYy1GTjU1XzYzWU44azhQcy1UOFpubVVwbE1JcTQwY0FiNmFKZU1GMzQyUkdSeENjbTM2TUZLbjlhU0JtU2lUQTVUODh1QTJ5VUI4?oc=5",
-   "source": "뉴스1",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "중대재해",
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "질병사망 절반이 50명 미만서, 더딘 직업병 예방 제도 개선",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQjJ0ODVhekdHclpwVGxKdGl3YnpCbXRydFN6cThKRWYwMnVtX3NheU5neXg4VktFUDE3RlZPM05Ra2NGdzE4cDRsS1k5SzI2UElvODdWR0c5THR4dEhWbmlFUWVBeFEza29TSU1NU18?oc=5",
-   "source": "매일노동뉴스",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육",
-    "법령·정책",
-    "산업보건"
-   ],
-   "queries": [
-    "직업병 산업보건"
-   ]
-  },
-  {
-   "title": "김해 인제대 산업보건센터, 작업환경측정기관 평가 5회 연속 S등급",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wRkZiRHQ5Z1RBa080WDA3UFlCUy1CRFN4dEFsOHJvcWVVZnYxcmpNOFk2LXlucnJBYXUtUklqTS15aThPdkxHOWlMYmFmVDlxZXdDZG5JZlFBa1E0U3ZjM1hNY1lMX09GNkNydld3?oc=5",
-   "source": "국제뉴스",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "직업병 산업보건"
-   ]
-  },
-  {
-   "title": "광업공단, 강원랜드·안전보건공단과 감사업무 협약",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMDdoT3NCYmdsT3FZNm16MmJfYXhoNkZpVDVvUThJNGZOZXQ3XzVKcTRoNUpUbU1RQVA3QVhSaXBuZHhPYzBpY2MtRkhLMXMyV0hORnVha3FOWjZpQmI3cTg3Ui12Uy13aGc?oc=5",
-   "source": "철강금속신문",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "강원랜드, 광해광업공단·안전보건공단과 예방감사 강화",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Sc3Q5UnZNR1VSRUxNOW0zTWVOTlNFd2R1VTVUb1BNZFJiNUxwQzRyakNQY1o0NTFOaG9LNlFuU0ZKRDAtS2tRZFFXdk0zTnUxYktVTzRiLUlza3RGXy1fbtIBeEFVX3lxTE55anVQczdzQlNaY3RlRmw0b3k2dXJjNjRIT0JVMU5MS0EzTU81bGVMaVdKYlRUS3pPRVJoV3ctd20yeWZFc3lrNG13cDc0eFlMbDljLU9Gb216NUJ3a1o4ZUc4NGd6TGVrTTRNeG9HLVRQdjBlN05lNA?oc=5",
-   "source": "뉴시스",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "안전보건공단 안전보건연구원 ‘연구혁신 대상’ 수상",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLTEVSNURSY2xDT2tMMGR2bklxNFFIOWw3N1dISGZGN3FqdUZaMDNGcE4zNHJXMFAtNUk2OTczelBmU0tXLXphdkVnbWFENkFNcHlGZQ?oc=5",
-   "source": "매일경제",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "한국산업안전보건공단-강원랜드-한국광해광업공단, 자체감사 업무협약 체결",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jLVRHVUNyaWVSX3BmWFE5c1libl80Rm5LMG5fWVBtMmFJczFYM0xFR19mX3NlZWJEQmNFTXpvV1RJWWxMT3k3dzV6a3BKVmhndHNteS1WQkttOTF2UVc0MHV2anBsN3VR?oc=5",
-   "source": "안전정보",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "[포토] 강원랜드·광해광업공단·안전보건공단, 안전 감사 협력 강화",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fLXRZaDdzeDRQUm9STHFtZjlsQ1NxVmlZVmRqV1JqNXVPTnNnV0VjM1A1cnZ3SGFvbnZlOTg0LTBma3FrS1pHM3Z5c1ZvcTFwREJJMEJxMEo5M3pWWFdSQk14OHl0SE84S1JzRQ?oc=5",
-   "source": "파이낸스투데이",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "위험성평가 ‘과태료’ 내년 1월 시행…“개선 이행 기록까지 남겨야”",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEFPY0pkTUllaHlwOVZTODRFQ0JTd1dGenFIQkE0dWlydk1ZSXBnVGNxVzZGM1VYbjdjQXVrZEUxZmZWb01JV1VobmdGVGtxdVozejNUemY5NnRYQ0U1dXA5ckxBaVp5aVpseUNzU3dSTmlXNGkzaVNkdFZha0hVUHpVMGlxM0YyX09FZkpR?oc=5",
-   "source": "월간노동법률",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "경기도, 내달 8일부터 사업장 125곳 감독",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wVE00bU1vUXJMNjh0cGR5YTBIR1BocG5JUGhvT1BGZGZtaVBLU2NKZEdNbmU4Zm9WNVNubjdNbDYta24xcmpmY3BieVliLXpGbGZLdEtlYlpKTlHSAWBBVV95cUxOT2tGM3JRZ1pZWXZaYXdfMGZXNm1wOFZPNFByOXNvZVVmdXhQMkdCaV94a2dYUkJ2MlNSSVlrNWpYUGtOamRQTlRwc0RLWUZzdGQyRV9NX1gzdkE2a0ZBWFc?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-17T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "근로감독 산업안전"
-   ]
-  },
-  {
-   "title": "경기도, 12월 8일부터 지방노동감독 첫 시행... 125곳 대상",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51ZFdFcGlGQkNJWmJnLWpYb1RSRkw0TDJfdVQ4bjc2R3NQU3VSVG11dkxENG0zXzBDZVVlTllWUElUMEdldzRrakwtSGFVMUExWnRKa1hTZkZYd05VTHV4b1hsaHRGbFQ3VmRaUW84YWVCM1VZUUNV?oc=5",
-   "source": "OhmyNews",
-   "published": "2026-11-17T16:45:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "근로감독 산업안전"
-   ]
-  },
-  {
-   "title": "허영인 SPC 회장, 3년 새 계열사 3명 '끼임' 사망…같은 유형 사고 되풀이",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPMU9PeE1uTEpOVmZkZ1BfTVpRckw5YXJ2cUdaa3RYcldDVGNaRW5ySUNBb0ZPZjA5QTMtNEtYYVBFQmJzd3pJRzNyMHdKYl9oeDI0QS1CUnVjZzV4X1hKWW5sTzk3QU3SAWtBVV95cUxNR1hLaldlWUZGZU1pMHFkS1NKbVFiYXJnS0NSR2ZOd21INDlNbnEzbUNBY2ZLUXU1WTVIcWp5MGdENlJ1MW1VcWhmVV85M0FjVmlGcERWVzBDeUpoUmt1TXJPMTczUUJJaXBzQQ?oc=5",
-   "source": "CEO저널",
-   "published": "2026-11-17T16:40:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "강원랜드·광해광업공단·안전보건공단, 안전감사 협약…예방감사 강화",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45amlZRFVlNjZ0TEJVbGw4ZjdDOW5US1VqVFBMeEd4eFAzN19YdksyQ09tZ3RiQ29qU25KU2hIdXJsbHlWSF82LW5iR0t3Z2FFY2l1QTcxeUhlU180Y1Raejh2dnotMWlQQ2tjd1RR?oc=5",
-   "source": "국제뉴스",
-   "published": "2026-11-17T16:38:08+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "경기도, 12월 8일부터 영세사업장 직접 노동감독…125곳 첫 대상",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OdlYtMnQyakRIc09ocmFmNFc4dDMwVnZkUzdjcE50enFhZHluQ3drSG5rZFF2V2FMYW00M3k2Z2ZhM0FuN3dNOWNRZkJBenRoZDZxZFJtcG5wRkU?oc=5",
-   "source": "에너지경제신문",
-   "published": "2026-11-17T16:31:37+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "근로감독 산업안전"
-   ]
-  },
-  {
-   "title": "'사망 사고' 아워홈, 위험 차단 TF 가동",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HTXlHM1M3Z3BLYldSQU00SEROUjFqTlJKeVFMRlpoamVKWjZKdlhzYXVDUHFuZkMxR1BiOVh5bUowNDFUTkZWVTJoS2V0Qmc5OGxIU0Q3N2VWTmsxbjZ6QWZHYUxkNFY4WkFB?oc=5",
-   "source": "뉴스저널리즘",
-   "published": "2026-11-17T16:14:20+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "산업안전보건연구원, 한국경영컨설팅학회 ‘연구혁신 대상’",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGOXExdTJOamNqd1BIa2hkanJHM0c2WllvQVlwUnRVaEY1OWZkYkNiOFZ4YjYyWEtzbnNOUVZJenRQRGt4Y0J3azFBbHg3VDRCV200blhNa1liYXM?oc=5",
-   "source": "에너지경제신문",
-   "published": "2026-11-17T16:00:39+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "서부지방산림청, 벌목작업 중대재해 예방 특별 안전교육 실시",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKRm9qY1hMMDNLc2FNb2RCNEJvaWo2Rzd2WVA1cWRETmJGek03RXVoMmhTQzdIS2dFazFYUmNPQkNqb1BJS0o0VTlqaGwzTkFGanNjMXdJQ3llR2tDZkVr?oc=5",
-   "source": "세계환경신문",
-   "published": "2026-11-17T15:59:12+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "강원랜드, 광해광업공단·안전보건공단과 안전분야 감사 협력",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10bmtSVTRJUnZwRHczamkxTHh4aXVTN2pfZ191ZzJZY0hMWVRKZ0RySzJXMDFFX1hzOUM1NUs3WVdmUVpBOGlDT3pMdDI4OERPWFJhSFhTTzVOYjJnbjNjOVUxZE9uTUVQenc4?oc=5",
-   "source": "BBS불교방송",
-   "published": "2026-11-17T15:35:00+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "동대문구시설관리공단, AI 기반 위험성평가 시스템 자체 개발..\"외주비 7000만원 절감\"",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yb19rdG05THBLaUJvUExnTE15OHNtVUtuV0pHcWhVU1lXNmc0TFZoNjdsXzR3SzFuR3pGRDZMeVhleXRLcUdIUVV5ZHJ6eVJIVWktbFFnejVhMUFFZy02c0E4b0tkdWpDSnBz?oc=5",
-   "source": "시정일보",
-   "published": "2026-11-17T14:51:48+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "동대문구시설관리공단 'AI 기반 위험성평가 통합관리 시스템' 자체 개발·구축",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aW9wbW8tSGpfX2gxeDljSXVHNWdMbWMzUHBzeUVqMWRJSHBBeHVzMk9heVZDbVZGN0d2aU5XdHpUS3ZIcjltMk44RFNsVFlVbURHaEV4bXBVLTRsb29iSlZwU1RISW1iS2tNd01PeGg?oc=5",
-   "source": "산경일보",
-   "published": "2026-11-17T14:48:22+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "안전보건공단, AI·빅데이터 기반 디지털 감사기법 공유",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RczlhUzZFSkRNMmtHazd2UUJ3ZEFwbDNWNnBqZldfYXRJU0wtYVBPb1d3ZGRValFyREhEdlBVdlVzMzRjRVVoLWVHSW52OTVqSVRGTVMySG1UNjZVSVljcms1NWFxMi1wMWRyRi1iT2hMdw?oc=5",
-   "source": "에너지신문",
-   "published": "2026-11-17T14:29:14+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "강원랜드, 안전보건공단·광해광업공단과 ‘예방 중심’ 안전 감사 업무 협약",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jc0RnZ1g1eEVBY2l6S2tkcDZzR3BfVjlCR0lEUWNjcnB4cm51TmNyczl4aUR6QVpxR3F6bzJCZ0ExOGJnUUNxX3JZSmhNVkx3TFVxbA?oc=5",
-   "source": "이투데이",
-   "published": "2026-11-17T14:16:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "울산시, 2026년 하반기 지역안전보건협의체 개최",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Z1lISGVwYy14dlcxeXo4RG1Ya2stOU1La0Y5QUc1cVBGNzRkRFhBZ1FOVi0ycFNDNHdpRC1fbUJPSU9qaTRIQnNGNWNQOTZKUV9IcVhDbEhVdVVvaGJpeUx0MTdLZGl3RF9zSEdB?oc=5",
-   "source": "울산종합일보",
-   "published": "2026-11-17T13:56:23+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "안전보건공단-강원랜드-한국광해광업공단 자체감사 업무협약 체결",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWXF1MmtLdExST21WSVpnZ184ZHJENWl1RkNEWGZOS2l5a1JRdXZ5RkxfbDRZUUxtdzJVUnZnMnRHY29kYzJESzMzQ004YnNOTFVLNHphc25Qa01heGdENTU1akNxTDFOLXVXSw?oc=5",
-   "source": "기계설비신문",
-   "published": "2026-11-17T13:30:32+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "안전보건공단·강원랜드·광해광업공단, 산업안전·재난예방 합동점검 추진",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BZXdLa1NncG1iVmFuRWlfOUlUTjZLVGJKR29jYXZ0MjJKNDVXX3dJMjZUc2pORmtfaGE2VTI0djVKRy1GNERJXzVwZ2ZNbXhINHBnRjdR?oc=5",
-   "source": "헤럴드경제",
-   "published": "2026-11-17T12:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "법령·정책",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "안전보건공단, 강원랜드·한국광해광업공단과 자체 감사 '맞손'",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kRUM0M1ktdU5jbFUzbHZqVHNvQkktbnFoS2c1SWlyZ3M3YU5hY3J4YkFmX25tVEdDcTFGN3RoSXdBMnVyb3haSFNZWEp4dUpVZDRJVHFiZzFFNURD?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-11-17T12:00:00+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "한국산업안전보건공단-강원랜드-한국광해광업공단, 업무협약",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZE1XMUtlam8zVlJWNDF4MWpZZDJ4MUpEdHp2RXBJS29FdlVOVmd1Y2RlbFluOGFDdmdzSGN4WVZsUUN5cFdrNUJPdnptTW9DeWtyajhZTFMyc3RBTDR0bVl6YmxVUQ?oc=5",
-   "source": "seou1.com",
-   "published": "2026-11-17T12:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "李대통령 ‘산재 근절’ 엄명에도 또 사망…HD현대삼호 5년간 노동자 8명 숨져",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91Q1hhWXU4T2wtODlDek45ZUhXZDRsaXhwYkJJeTNrdEtpY01vZGZBVl9iVVU4V2o0ZHZSTE9TRzRlYzluZ3dGYnNfWEIxbXlHazhGQUNYRHU1TlRvN0pGNWozTnU4ajZWUjBJeG8zRS14UQ?oc=5",
-   "source": "중앙이코노미뉴스",
-   "published": "2026-11-17T11:59:47+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "산림청, 가을철 벌목사업장 안전관리 특별점검",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIV2tUMk1pdTRnYVVvbFp2U1o4aGRpRkRlUWQ5RDhMTjQyOUJYR3k1RHRjemFDZXlaV2dVb1lMTVRXdnIwSlJmbHFvbnFRNUpWV2lQMldVRF81WkZiTmRPWEl6bnZyemxZWW5UUk5HT2tKZw?oc=5",
-   "source": "프라임경제",
-   "published": "2026-11-17T11:33:02+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "산림청, 가을철 벌목현장 안전관리 특별점검···근로자 안전 확보 '총력'",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BelNIZ3FNQVZiNmRvZWNaVko1OVE2UkYxY2tybEI2UnZJd0d3OEV1ZjNTMThaUW5yc2hqVUUxVldxaDhjdFV1cTc5SFJpWjBRTmFadW9QWE8wNXNuVjNjazE0aGwzNzVT?oc=5",
-   "source": "팍스경제TV",
-   "published": "2026-11-17T11:16:12+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "의왕도시공사, 근로자 건강증진활동·위험성평가 우수사업장 동시 선정",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDNFhsckh4VWpvcEFjb1BNU0FMVFQtdXhuSjk2aXRRRFJWZWRIa0NKMTM3eW96X2VyLTBXRkJHQ1pHNEl5SDdHa1FmWkYzeTJBRlBmUmItcThRN3ZvOUlZN2kwWmx2QlM0R2JGNA?oc=5",
-   "source": "경기포커스",
-   "published": "2026-11-17T11:07:14+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건",
-    "건설안전"
-   ],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "울산시, 15개 유관기관과 산재 예방 맞손…하반기 지역안전보건협의체 개최",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NWRwbE9DcGNGWWJJRmpZMWFJU3hlNDRKVnV0bG8wODVsSVY0MV85bkxWMjVWM3pfNHZrdXFOa25OVWVaZzB2ZTVQTGtBaWJxTzNGb2ZyZ2Z0NlNteXkwUDV6OTFKdmZmLTRRRg?oc=5",
-   "source": "한국사회복지저널",
-   "published": "2026-11-17T11:06:47+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "충주시, 정수장 염소가스 누출 대응훈련 실시",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2clpXTy1lZ25SYzBaUWpEeTZtVGlPVjVzOWEyZldjODFwTEtPYWs2ZTZFYW1Za3BFdE5EVmJwazRhOHI5Nl9kVzVFUnZvNHA1a09FTzNmSHJiTDh5MF9IOE9n?oc=5",
-   "source": "충북일보",
-   "published": "2026-11-17T10:41:23+09:00",
-   "category": "화재·폭발·화학",
-   "tags": [
-    "화재·폭발·화학",
-    "예방·교육"
-   ],
-   "queries": [
-    "화학물질 누출"
-   ]
-  },
-  {
-   "title": "안전보건공단, 과학적 실증 분석 통해 '안전보건교육 산업재해 예방 효과' 입증",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1UThidEFuYlFEUjMtUTlUYnhmaXpxNk9WVmpvN3dHaFFISF95aExFaW9VVWFUQ0FPTmZ6clZjQ29iZUxHUVE4Tlp2NXJFZmd6UmxDMzdrbDczSWR1Zm0zeDRNa2NkYkM5TGVHdVln?oc=5",
-   "source": "투데이에너지",
-   "published": "2026-11-17T09:35:47+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "산업재해",
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "울산시, 15개 기관과 '안전보건협의체' 개최...산업재해 예방 역량 결집",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kaWNScXlaclBXbEFkSE1iSWtUWUxhZlN3ejUtdGFxVGJ2NHFDTlZJekdVQXc4dVJTNkJrRjJfeVVRYWRDRmV3WlVwTW95MUtjMmFvZ0hSU091S1Ut?oc=5",
-   "source": "피디언뉴스",
-   "published": "2026-11-17T08:17:53+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "안전보건공단 대전세종광역본부, 외국인 안전리더 간담회 개최",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13U3hTZUJlaTdOVWpWaFQ2ejUwb2p6a1BUazE2VnFuZDUwZ3VQSjlMbWRHRmVsWGFjb0dpbE02ajc0V2diVlQ5RERjbU5KaFI5TDdpS0VrN2xLNmRKYUFQdFhPOVdzQU1zM3Zj0gFuQVVfeXFMTi1YTkNmMElvTmljc1U4dWd6MFJXei1xOGVGS2o0blNqYjNGSEhTLV9Sb3o4RGZtTURaYXMzdlFQenZnQWtuZU1SWkFGbGZJSHQ5QUhqdkVzdWpSRzBlaER6Zkd3c01LZ2p3c3c4NHc?oc=5",
-   "source": "계룡일보",
-   "published": "2026-11-17T07:17:45+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "동절기 건설현장 2,900곳 안전점검…추락·붕괴 위험 집중 관리",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OMU9MSHR3ZDI1S05JZFBENGRrX3pXQ2d3YVotVGk5RS1LMzZ4ZWd3Z0I2QmdnUEdWSnFHUk45a2JkQ0F2ZVgyeGxfemt6TW9UYjN6a0VSZHdOcFlHUy0tQkZTMDNjRVh4RUHSAW5BVV95cUxNbDFESjdaMUhtbE85U2FVOUlsc0xTbUJRcFR3S0NSVHpMREhONlV3N2RUYUZhMzh1cWx4NDRzNG1TTEF6Q0hZcFdZdUpLRE9BdFV4YWhnUGZaT1Ywdk5JVUlfM09rbGhHTjEycEozQQ?oc=5",
-   "source": "보건환경신문",
-   "published": "2026-11-17T05:27:06+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "국토부, 전국 건설현장 2946곳 특별점검…사망사고 건설사 집중 관리",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHR2paek5lc2VyUm5zU0p6dEtTYU9LVFdxdEtoc0RBNG9RYm1oeXdpOXZjY2pLcFB4al9wMzR3LVYyaUFtYWV6ZGZyYU9hQkNoclI0Q2tQclAxRG4tcXF6QWJiSlhuclU?oc=5",
-   "source": "지이코노미",
-   "published": "2026-11-17T05:19:23+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "영월 시멘트공장 사망사고 반복… 노동부 안전관리체계 긴급 점검",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05TDAzUE42enNDUGZuUEFJOENSalJwSUVoaFhyM216Mm9CSDRLZldGZV8zUk9zT2dMWS0tWnJ0Y250ejFZR1FsRHpKc2RtQ0g5WW5SdEllT3ppYkVocHI1M2RSQ2YzWkU?oc=5",
-   "source": "강원도민일보",
-   "published": "2026-11-17T00:02:02+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "산업안전보건공단, 안전교육 산재 예방 효과 분석 결과 발표",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aYUo4d2lwNHU2TGpoSUM2bGhCWlpJOHRlVV9VM3YtQl9mX1FGUWhBZWMtUER3dms3dExOcVpFV0tCd3VTVXMtTUYzTk0wTllGYmMzcUZEZVFqRnM5VkNQdWM0akRuTTE3Q01EYWp2V3dhdnV4WktHUXRB?oc=5",
-   "source": "로이슈",
-   "published": "2026-11-16T22:44:53+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "국토부, 겨울철 건설현장 안전점검…위반행위 엄중 조치",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IMkdMT2NsQlZmUnFVUER1QUprZ2xYR01zaVlhbE5XdEtNdFUxb283MGZ4YThVT0F4ekRZMDVkUlZGQkNvWi1US0JWUjRjSWE4VHBtN1pHejhRSjlveXc?oc=5",
-   "source": "한국방송뉴스",
-   "published": "2026-11-16T18:45:21+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "‘산업재해 사망자 증가율’ 부울경, 전국 평균치 곱절 [산재, 악순환 고리 끊자]",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yWlJtYUJBRWF1Qnlqb2EtNWxqUVlhd3R1RWhtRFhoSUYzNGgwaGE2WEdIV01lUE03NFUxX2tUeFo5T0Jrd1hzbVl5T2NUQkFsQmR4ZlpPdkdNdVN6VHFWUkhnRHJlQVE3TXZWR3FWUm9hYV83?oc=5",
-   "source": "부산일보",
-   "published": "2026-11-16T18:15:28+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "산업재해",
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "안전보건교육 효과 입증…산재 발생률 15.9% 낮췄다",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORHBjeEdtOG9mX0ZfaTdnQlVWWUYzSVQwaHFpY0Vyc1cyQjkwVVJaeHEtSmVlT05XVEctN213ZDVxRUNkVEpOY3ZXOGIxWlhnSmxqMDZ0cGFjVGxIR2IyMDBhaGk2SGtzbTRPRTNnaGk5UQ?oc=5",
-   "source": "인더스트리뉴스",
-   "published": "2026-11-16T18:09:17+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "안전보건공단, 한국경영컨설팅학회서 산재예방교육 성과지표·AI 교육 효과 발표",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLblI1d0xVQVdSV1Y0aVEwMzVsWmxYVTFqaERXelVFSTQ2OWplS3BlLWJaWmc3MXFveDhtaVhRY21zMjQ3YlZwaVpEaWljc2dWNjNLdlEya2U0Mm5tSWxQS2tIUklSTkVjYloxbkVDYw?oc=5",
-   "source": "세이프티퍼스트닷뉴스",
-   "published": "2026-11-16T17:59:16+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "[정상민의 ‘프롭테크 썰’] 중대재해 예방, 처벌보다 현장 변화를 살피자",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSGItY3ZrOXk0N0JpczRzLUloMzZQc09LOVA1NmdKWjRFY3pXY2U1bEx4cV9UT0NUR1ByNDY4MFFkOGI0MHItMDFZUXNzWUo2ZXdHY1FvVnZDU2Y1REtDTUpQRHlhZk9kMTJZc3hfX2pueGxlc0htQ3NzdjNZd1BSZEhHSQ?oc=5",
-   "source": "글로벌이코노믹",
-   "published": "2026-11-16T17:49:41+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해",
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "고용노동부 강원지청, 영월군 중대재해 반복 발생 시멘트 제조 사업장 긴급 안점 점검 실시",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZ0hCN01UbEwyMmNaNUtwSEdTZXNIZl9IelBOU1lqTnFIaENzaWJUVnBZOU5Bc2lZdnVHMWlQYlhjdlRRcFlEdm5aQU9rYXBaSzRoWjl0Tm1DVTQ?oc=5",
-   "source": "강원일보",
-   "published": "2026-11-16T17:48:23+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "법령·정책"
-   ],
-   "queries": [
-    "고용노동부 안전보건",
-    "중대재해"
-   ]
-  },
-  {
-   "title": "청주시장 중대재해법 고발…청주시 청소차 안전·인력 대책은",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tS3Q4UjBjVkJEZ0xLTnF6Nk8xdnVOUEFzNGJLdXMtN1UxLTlHeDVuMXdKTE05MEFHbHdWS3d3el9WTHljb0JtR3lwX0ZweGZuSTY5b0x1MzQ5Znc?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해",
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "부영그룹, 전 임직원 KOSHA-MS 안전교육 실시…\"중대재해 제로 목표\"",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83NVBzUkdqZEkwbHZwRFd3c2lIVm9CLTBCNHFOcTdsQ09aTTN3aERxcUJMUzE3OE53VjItUWhPZ0o4a09BTXpjSV9BdG1oSkJpMlo4c0h5a2tZbXFB?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육"
-   ],
-   "queries": [
-    "중대재해"
-   ]
-  },
-  {
-   "title": "[경기시론] 중대시민재해의 사각지대, 시내버스는 왜 제외됐나",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hYjhNOHZuZk9QNVZiRVNQcHhNdmM0VmEyaGtJc0I0V1NoaUpuZEFnNjNMVnUwVlFoNTNsYlZiOURqTWxrTVVhZ285VDgyVjRPcTZzMHhtTk13UzA?oc=5",
-   "source": "경기일보",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "중대재해"
-   ]
-  },
-  {
-   "title": "[산업재해 뉴스] 70대 식당 조리원 사망에 법원 “업무상 재해”인정",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXYThrd2lRa3dqUGlpMTdtYnlHVUlCUFBsX0xkcHQ4UDZuWHQzXzZuNGhHUlNqRVZwVUxfdlVOdTlzdkhRSzNlV3dId2t1YVB2aElLMW5ESURUNXd4Z1ZYQUE4TzhCaGg3ZXpidmhFY1dwZw?oc=5",
-   "source": "아웃소싱타임스",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "산업재해",
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "청주 폐기물 수거 노동자 사망, 청주시장 중대재해처벌법 위반 고발",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAydnNxNjAwbS1iSlI2UGc4ZGtobjlsNEVoa3hOM3hFM3ZNN19hYlBXSkZuYXZJaUFzUkxEUGN2cmtUR0lRY3Blc2FWQlBMQ296azlmeExjS3RVOGlFc3dWTC1xOUhTYnNLZUpRcUNR0gFyQVVfeXFMUFlMLWZQRi1SdWhHUWJyMklVckIwN2N3MnMyQWFHZ0k2cnNvdXVUMDdWaDZLUU5yYmtGTDctdWI2N2dDSjRhWHNLR3E2Rm1tQjV0MEt1UWdHbkJhY0F2WHZlN2tVSm5McHdKN1BhSUFiYWpR?oc=5",
-   "source": "노동과세계",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "이장섭 청주시장 중대재해처벌법 위반혐의 고발됐다",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3VEFGWkdWYmpNbVRqUmwwZmd3TDlhb0ZVTXJhYmtYTTA2blNsMzlQd0c0M0ZvZTBEMU55S2xRaW5pMlM1WDZLWktSUWhLckU4alprSUFyWUFReWFBREtjX2s5WGtOUXVHeDhGYw?oc=5",
-   "source": "'태희' - TAEHEE",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "이장섭 청주시장, 중대재해처벌법 위반 혐의로 고발",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Xc2kzYUdRbV9UcXB2NFVHUFpvbGtpeVZRaTMtTXduODRjcTE4UlQzRGp5VEp3RFNJeU5DbW9ZVVFCdzVENUNlLU9yT1F1RnBNeFpqLVhWaExnUFFLSHdiQzc5Y1pJdW8yTmJLMWlYcURzdTliU2dN?oc=5",
-   "source": "OhmyNews",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "잇따르는 '청소차 발판' 사망‥\"근절하려면 처벌해야\"",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZDFkeDdYTF9nT3h6S0lPOHBkU21ZOTl0cFhQQjVSc0N0UDBKVDA3bTBHLTJMMURpc2RQQnNWdnJ3TmtDMVE1eFpJdDc5d3phTHB3eGE2V0ZRaC1yNTNvNVBFZHdoaFNoaFI3RExaUUFSdWp5bS1sSNIBeEFVX3lxTE9oU2pqcVhxT2VCaHdWQ0lYQjRkQ1VUX3ZSX2ZYc0VYX3BwUGdmTHVSQTVXMTQyS2xTVTZwTTgtQ2tjcC1nalRYVmJGVllxbWZzSkRyLU1LX0Z3cHU4SkpMekpNOWUyWENXazF0X0V4aHBfVTRxcDdXMg?oc=5",
-   "source": "MBC 뉴스",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "겨울철 추락·붕괴 막는다…국토부, 건설현장 2900곳 점검",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLU1aNWtnUkJhbF9laGtLaFFvNjFGZmNxcU5QbjJtVE1PbUt6cVR0OE9pTW83Q3U1TWptclpqTGR3OXZsSTVYSWlPWXNEWVJwM29Fa0ZuVGt6TFZNVnZ6M1N2R0lUTi1QaDlBcVNCYVRZRk1IbEpLOENMb1I1RHlnZFBaNGxRNWxLRTFFMjJ3dlBCUTVjd1VtS9IBrAFBVV95cUxPSXB3OFdaX2xzYllTMXY2Rm9sbmdkeC1nTHozTmhTeG9yTXhYOHlzVEFIMVhQWFh2ZkpGdlZGLXZEM3hrZkJ3ZmRhN2hhMHFmWHZTQjZZa0tqSGZUaE5udzVDa2haa0FheE5DMlV1aDhVRWhsaDdJbGQ3SXdNVmNnOWsyZzZJTDZfd2NpcDRlLVoxaXZoMm5EaVBhLW9vTk1QWE0xcGFnWEhXaEl4?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "“사망사고 낸 건설사, 다른 현장도 턴다”…국토부, 전국 2946곳 안전점검",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93TjkySXlMSkxyZWNxRzYybHpjaG02cjgxcENpWEtHOThTQ1FvcU9KdDJXMGlvbHo2T2wtcGg2QjNlQTRjZ0FXZ3ozV0t4ZHhpajBJc2xxT2o5NWx0LWVqa09JU0N4UlF3XzRSaA?oc=5",
-   "source": "뉴시안",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "추락·동결 위험 막는다…전국 건설현장 2,946곳 겨울 점검",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XcHFXRTUyUFBES1RtT3Y1bEthVzF2U2ZfZGdtYU5GYldOQmlkX0ptUmM5YlFUVktYblBLaEtDUkNjZ0xoLTB6cDdzcWU3SUxzVzdBNFpFVU5JMnYxNV9DSENZX2NQOVM2Y2c?oc=5",
-   "source": "티제이비",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "국토부, 전국 건설현장 2900곳 동절기 점검…추락·붕괴 사고 예방",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54N1pCakplN09YRC1xekEtZzgtQnRsbldpajdOaHpBNWE1QUpabVpybnJ0UlBmVXpfZGhoZkZSZnFfa0tCUGQxYUJEbG5yRDh5RzYtcXJsSlpHdHM?oc=5",
-   "source": "뉴스1",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육",
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "추락 사고 건설현장"
-   ]
-  },
-  {
-   "title": "영월 시멘트공장 3년 연속 사망사고…고용노동부 긴급점검 실시",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hR0JjdHBaVHFQU0VhYXlBaGYxdkdYX1UzNEgtajRGUk9mUHQ4emVicHBMZmZVdlJvME9hNmpqbGFGVzdObWltWE5kRl9GU3ZzY1paYTFBeUcxaUFIMXBZM0dGSHQwdm8?oc=5",
-   "source": "강원도민일보",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "끊이지 않는 한솔제지 중대재해…협력사 직원 사망에 장항공장 '가동중단' 사태",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLVFEzNXRWSmNucEpPTEdYb2d1NU91bENsaWdmNHh5cVhZZmExRXByXzFaSnR0MEdzWjktN2l5aFpJMHlQM2xWOXhBbDBOanpVVWJDRU84bkF3dWNWNE8zenBqSnYzZnZVUjZF?oc=5",
-   "source": "데일리시사닷컴",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "안전조치 위반 ‘신고 포상금’ 제도 내년 시행…최대 500만원",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kY3RoT3VDc0drRWdIS25Ec25YbEp5MW9TMVNJSmdpOEF3bjRsNFcyODRRbXYxNVJBbnZpYms2cnQ5Qlk0T2ZGZmlHSUpCWk9KWUdEZ1NzQ1hSSlhmcVhvOHpnTlI?oc=5",
-   "source": "한겨레",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "안전보건공단 서울광역본부, 겨울철 배달노동자 안전운행 지원",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wX1FqMVNvYlZtTzdfZTVzcFI5WWM5elR1TWxDWkljUGRRcEFQdkxwNkQtWTJYQnpnWWFqNjhCdVF1LVNReWxac3h1OEdpVGtsdmFZSnFQTF9ZVWJkM21kRndueW9tYXF4OTlXbDNIQ20?oc=5",
-   "source": "안전신문",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "(31) 사업장 위험성평가 지침 개정",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNjlPTE1TNlpHTnhGT1h1LWR6YzFhX2NrR014aE90QmZ2YkZKUnRWV1E2Y0FQSkJoTjNqVDBzNnNLcVJHQWw5cHdWOTAtbkJnRUhEUTlLNnN4RUVCNDlBMmx3ekNQUFpLcVhHTA?oc=5",
-   "source": "기계설비신문",
-   "published": "2026-11-16T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "168건 공개된 중대재해 재해조사 보고서, 진짜 필요한 건",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00aWJteVN6SmJXLTlmM0tBY1pEMEZGWUZPalFKS2QtaDlxRWVQWjROYThPQjBUZHh5RGZEZG9xZ3RIdHlFVEcwVWxiUm1YRXg2dDRwamNfc1ZyVzVlcjN0eWVGa3Z2Y3Z2Y2hVODY4M1I0d1BJcEk0?oc=5",
-   "source": "OhmyNews",
-   "published": "2026-11-16T16:17:00+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "고용노동부 안전보건",
-    "중대재해"
-   ]
-  },
-  {
-   "title": "안전보건공단, 새 가치체계 수립… 생명·혁신·현장·신뢰 제시",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OOVdJS0QzT3ZUTGNvVDE3VjBsVlFSV0JKeWVZeFhmcnJ1UE00Y0xzZ3pNNW8zS0tlbzdBQmlhRVAzaW5xeGRtay04RzNnc1hQcXpmNEV6V1JRU2lGS0hBRWNLRnVJZXdVLXlsaDJEVlU?oc=5",
-   "source": "안전신문",
-   "published": "2026-11-16T15:12:31+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "불산 누출·화학테러도 가상현실에서…첨단 기술 만난 화학안전 교육 [화학규제 혁신③]",
-   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRlRXOUtpVzZkdG5rcUdDRlZqVkxNbl9sZnRDV21pWHMxQWI1aGtXS2luQ2FhWWhhSmJSZmw1Wk5PZFVGclE2ZEt5Q0p6amZkOXM2X2tKam16bWUyQmo1YzU3WnpQejRJd0tjdmo5bWNEcDZ0TXJ2eXJ3enhva0tFdlpRemxDVUdSWmhMNnBla25CaXJzN1hHYXo4U1BPZFhzck43RlY2MGZaNXlBRG5HTEJ3WWp5SHFBdWQzQnRjQk5oRHgxNVg2YXN0T1dlMERDYkZBODlUa3M0MS13dlRUNDVOQ0JmMHpMcW9pVXFjQ2ZwcVp6SWxUTHJOeFpqajRIcE4ydHV5YXZjVTJ0Wlgxdk9LeWVuRmlocF9nSlVpSl9aWVUtaGtmOU5ucmg?oc=5",
-   "source": "데일리안",
-   "published": "2026-11-16T13:38:00+09:00",
-   "category": "화재·폭발·화학",
-   "tags": [
-    "화재·폭발·화학",
-    "예방·교육"
-   ],
-   "queries": [
-    "화학물질 누출"
-   ]
-  },
-  {
-   "title": "안전보건교육 이수 사업장, 사고재해 발생률 15.9% 낮았다",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4YXBjQ2YwWF9ZSUlzbkdfTGl4bnJzejE1Mk4zTkFOUUd1M0JGdXVBUjBwUG93Z19EZW9aNDBIT2RoM2ZDMnNFeTR3Rm9ZWlByT3BPSUJtZ1RURXlxRTh1ZV9WUm1jRDFzeWw3WXp6MjlNUQ?oc=5",
-   "source": "에너지신문",
-   "published": "2026-11-16T12:02:14+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "한국인증센터, 엘캠퍼스·중대안전보건예방협회와 3자 업무협약 체결",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0RHhlUTMydlFqM0k1blBjX3RlRHZZWVFEV3BEb203UnFfU21KdTVvcXplRndoRm5jNWd0Y2NnUUNRWE5YNWw2bnBXUy0waHpyWll5a1NaaXdhQQ?oc=5",
-   "source": "한국경제",
-   "published": "2026-11-16T11:37:14+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "초광역특구 노동특례 논의 8차까지…11월 17일 9차, 의제는 산업안전·보건으로 이동",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uSnl2dDZGMzZXTnA4RC1kWmhicG92Y1VVT2lJN0Y3S1JKdVNMUlVERjdJNlNSMXNjRHY0YzBxWTNvSUE3WjJuOFloNFcxWjN5eVkxWDVWQmFScXJ4b2M1N3lEU19uYVp5VWY00gFvQVVfeXFMTmpEd1J1X3haeHhBVEg3NHBwLWZqYTc0eVJibkczTXdsSlJJSUxsZWRDd2t2MEJqeW1LNnBGaTRWSmdLMC16XzNwYmhWS2kydVpsZHNtOE5LSVdrcUV0QzBaZVFNZGZSWjFjRmxTZFNj?oc=5",
-   "source": "사례뉴스",
-   "published": "2026-11-16T11:36:29+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "태안소방서, 유해화학물질 누출 가정 민관 합동 대응훈련 실시",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSVlOODNURlczaUZuVGpfeUp4N1l0WDNGMUw1YlNmMWU4dFRlMFFYdFVrX2pIVE1QR2RLS2NwSmRSNURsMm9ZT2pFcHNnVzY2TFlJM3lrSE1hV2I1Ti1LNzNIUDlsbEo5TFBNYTJn?oc=5",
-   "source": "뉴스홈(newshome)",
-   "published": "2026-11-16T11:07:54+09:00",
-   "category": "화재·폭발·화학",
-   "tags": [
-    "화재·폭발·화학",
-    "예방·교육"
-   ],
-   "queries": [
-    "화학물질 누출"
-   ]
-  },
-  {
-   "title": "[목멱칼럼]자화자찬 속 가려진 산재",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORm1OME83Qm1wMlFiWk1KRXBxWWZWWkFjVlp3VkVJQTdXb2F1aUppcFE5TW4zT1hBNUgzZnV4UmhjNGNJcVpNRkRycmdUNllRSmUtX1pNMXZlY1V5RDNZbmpOdFR0N2lvSWdsY0twamg5WThnakwtWWdHYU9PTjVaNA?oc=5",
-   "source": "이데일리",
-   "published": "2026-11-16T05:00:04+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "외국인 산재 사망 줄었지만…제조업은 증가",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kczN5V2s4V2gzUXFVLXFsN2xReXZBbFM1Z2tMaVNXeEJwZWVIdzd6T1R3enljbkZtaHM5eGg2eGxhaEtZRnQxbHRSMTJVX2RvaFpqVEo4QmQ1S1RXTVdBM0FhUQ?oc=5",
-   "source": "쿠키뉴스",
-   "published": "2026-11-15T23:47:04+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "고용노동부, 한파 대비 노동자 건강보호 대책 추진",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TRVI5ekFXSkE4MWd1RVQzYy1IbkVTc0hCLXc0SHUtbmpFLVB5VkNpVFpFTVpJSG5EYWVITU5JSmlkRFRtSFM4eGF2dmRkazVEaEV6NUE2dXZ0UQ?oc=5",
-   "source": "서남투데이",
-   "published": "2026-11-15T22:27:08+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "반복되는 제조업 끼임 사고에 강제수사…노동부, HL만도 2차 압수수색",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQmcybTFKLWFGWW8zMEF0RHBOZmZvUVROejM1MzFvcWZWZ2NucUFsbHAtSVpyanVqWGdaekxqUFBoZWtfNzRKVVVCTFBVZlhGazItVi1iS3FSOWhpN195OHFvdw?oc=5",
-   "source": "쿠키뉴스",
-   "published": "2026-11-15T20:04:31+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "안전보건공단, 하노이·호치민서 안전보건·노무관리 워크숍 개최",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBabzl4UXZ2V2hBb1lfVVRvUGN6MkYxbTNQLW9raUpwanRSdlZfb2RNQXNHYTlYU1QzRk9nWTVVWlRMZzZBVHJkUmZCOXN5bG5zS3gxS2tBWFJoS1ZDVHQ2RVgyZ0NUTjJ6TUhoM0VNRQ?oc=5",
-   "source": "세이프티퍼스트닷뉴스",
-   "published": "2026-11-15T17:00:00+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "한국 노동감독관 사업장 방문, OECD 평균의 6분의 1 수준",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGZlg4QkRWUDRFYXZmMDZvU2lvQi03b0R1OFFqempOTkxjMlk2VHdxUGJNSGI4U0JZd3VPWllxcVEwY0U2Ym94Z1dhUmJib2FUdEswZm1fX3oyZ056ejMzV2pqMGxyekk?oc=5",
-   "source": "안전저널",
-   "published": "2026-11-15T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "근로감독 산업안전"
-   ]
-  },
-  {
-   "title": "구미고용노동지청, 축산시설 추락·질식사고 예방 합동 캠페인 실시",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uclBianpIY2t5YnBncmI3NmNaV09iQU13cW8yaG5DQ1JPTGluRjFmSUw3c09qMndLZDVON2t1Y1NLdy1FRTNiekhzMGptRDc1VDF0a3FtVnVHYlgyQTZRY1ZOYmg?oc=5",
-   "source": "매일일보",
-   "published": "2026-11-15T03:12:56+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육"
-   ],
-   "queries": [
-    "질식 사고 밀폐공간"
-   ]
-  },
-  {
-   "title": "한국도로교통공단, '현장 안전문화' 확산 위한 ‘위험성평가 경진대회’ 개최",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aRVJIZ1hERXk5VHYzX1JJdS1iY1gxYXljVDNkbVh0NGpzNU5xQW1BSnZwTm1zamVPYjRraTYwMlM0aWFkcWxLS0pJZm5NeVNLNUMtT1BhMlJYYXFTaHBkR1UzWldCQzdfRGJJ?oc=5",
-   "source": "비즈월드",
-   "published": "2026-11-14T18:25:00+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "산업안전보건법 개정…건설현장 안전관리 책임 강화",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBa3hkV2xiXzhySlo3dWNCRFhoUGowM3U0dmgxdktEVmRvWUdPbS1PcmhLbFhteU9MSF8tNmdlaGxXc0xycWtwT1FzR3FHWk95aDBj?oc=5",
-   "source": "유스연합",
-   "published": "2026-11-14T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책",
-    "산업보건",
-    "건설안전"
-   ],
-   "queries": [
-    "산업안전보건법"
-   ]
-  },
-  {
-   "title": "'한솔제지 또 사망사고' 대전노동청, 관내 제지업계 긴급 소집회의",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wUzVnd2Y1ZERmSzJBZUN5NWh0VFBBSFllY19yc2NrdlBjODJqdDRndnV3bHZtaEIzaGExblJuazVfNkpVdG5oRC1ZQzYyYS1WbGN5Tl9ETVN1emZFU2dtUWh4cWI?oc=5",
-   "source": "중도일보",
-   "published": "2026-11-14T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "한파 대비 자율점검 17일 시작…노동부, 취약업종 집중점검 3배 확대",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LcVhxVmdRanJ1UkFVdjByQnFYVjNKdGwtbm1IaldyWGsydGx4MEZJNGpLd3Y3TlhrMUkzbV9KT0F2ZTJYSjRwaG9mbDVHUjBkam1wZUl4eUMzaWJDODNVeVByd25valhPQl9nWmFaSQ?oc=5",
-   "source": "세이프티퍼스트닷뉴스",
-   "published": "2026-11-14T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "고려아연 온산제련소 채광창 추락사…안전대 로프도 끊어져",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qVGV3U3I3bDJveVlnSURYZnJTd0EtWWFiSl9PQWVKUHBVTEh6WjNJS0pXMlM1eGhsdUJka0NBSFJaWG1CSkx3SFkxczk1TFNDVlk4a0s2WElCYlVJdEpiN2FLdnRsRFBQQ20zeS1SVQ?oc=5",
-   "source": "세이프티퍼스트닷뉴스",
-   "published": "2026-11-14T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "초광역특구 노동특례 논의 지연…주52시간 예외 쟁점",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wblNZbjZDdldfVS1iZUdfQ09IT2N6ZG9ZeTBRS2JRUG5NZExCclFCME9oZ3JqLUtZd1o3ekJSWUpHVVNQSGpJbmE4aGp3bzdnSTlmVnRaZGwwWVBGUnc4Z0duT0xSU2FWZ2phdA?oc=5",
-   "source": "스페셜경제",
-   "published": "2026-11-14T15:52:07+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "노동법 피하려 '가짜 3.3 계약·사업장 쪼개기'…의심 사업장 140곳 집중감독",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aTmhOd2Faay1aYzZCcXMwRnFLUTAzZmhfN3h4OGVYTFlLWHF5Y0tPcEdUQXNBTUxUZGxVOGRmWktOejZLNzRnYk5EcXBUNHhTbXh5d2xjQWZJZ2puZGxXamxORHdMVWs3UmfSAW5BVV95cUxQOFcyTUltdzVlRkFBQ1pPTmdmdk5NSktIaDdxcEJfVDYzeUV6WHFUSWdhZ0RPY2dOaTc3YWRGZ0NyeW4tdWMwVW9TWnFZSmJNdTNVbWZ6dXhHWjlDN28zbHUyclA4NGFCcWdkc1A1dw?oc=5",
-   "source": "보건환경신문",
-   "published": "2026-11-14T05:14:34+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "근로감독 산업안전"
-   ]
-  },
-  {
-   "title": "‘엉터리 합격’에 검사원 사망 사고까지… 행안부, 승강기안전기술연구원 행정제재 착수",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95SUtVR0tZOWtGcVAwOUxpN2V1U1Q4TUFIakV1RFZraEpMYzA1cF82QmhhX1hCRHhVcGxRejVxdFNneU5kY0xSNFhRM1JWZlFkWkdUeHU3QVBFODNaeE0wZVFrSlNXZw?oc=5",
-   "source": "새한일보",
-   "published": "2026-11-13T23:25:35+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "고용노동부 구미지청, 축산시설 지붕공사 추락·밀폐공간 질식 사고 예방 합동캠페인 실시",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUNDUyOUNjLWVVZDJXNndsYnVHcGM5ckpIX3BtWldlVWU4M3J0Q2Z6ZTF4RzMxck10Z2taQS1GUjVGOWkyek5PZWVOWlhxX1FTdE1NZlEzTmpUbEstU1E?oc=5",
-   "source": "구미일보",
-   "published": "2026-11-13T22:53:19+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육",
-    "건설안전"
-   ],
-   "queries": [
-    "질식 사고 밀폐공간"
-   ]
-  },
-  {
-   "title": "[대전지법 판결]화력발전소 근로자 사망사고에서 건설공사를 도급 준 발전소에 대하여 '도급인'으로서의 산업안전보건법위반에 대해",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xSzRqUDFpT1BDbzFwWld0cG5TTG5sRk16MDlpYnhkekRoY1B1ZlczVzgxZ3VfZlV0ZTlDbnZ1dURwUFFRMzFBUjhYOXNPYWtFVE5XUTdoWmU2cmVucXNJb19SNXVIVGpqd2lnRi1RWUNOSW1wRk9pd3BR?oc=5",
-   "source": "로이슈",
-   "published": "2026-11-13T17:38:36+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책",
-    "산업보건",
-    "건설안전"
-   ],
-   "queries": [
-    "산업안전보건법"
-   ]
-  },
-  {
-   "title": "“산업재해 전문재활프로그램 직장복귀와 연관성 긍정적”",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oZkpmb2VFZTVkS3ctaDhjOVAtZXU5UkdzVXp3NHV3NkFsdHhGWDV3OVNMT1VmR3dSX1pIWDlScEZEVGZQNVlNTDFLZkRjbjFmbDl4eERxVTJrZEtuR2xGNjVadlNmTDJ3RVE?oc=5",
-   "source": "병원신문",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "산업재해"
-   ]
-  },
-  {
-   "title": "[모든 노동자에게 근기법을④] 특고·플랫폼·프리랜서에게 산업안전보건법 적용해야",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BdmNBb05mM2wwMk0zZktVZ2hERTV0LWZSVUp2cjVUWlNYaThTNEE5X1ZGc2x2SE05VTVoREJZV0xlUHkzY0tKczdKTnJvdVY3cllLNnBiRGNSWmNvdWx3TWdCYmdiSWRWUHRRMHhWQ28?oc=5",
-   "source": "매일노동뉴스",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책",
-    "산업보건"
-   ],
-   "queries": [
-    "산업안전보건법"
-   ]
-  },
-  {
-   "title": "사노위·시민연대, 이주노동자 산재 유족 합의 이끌어",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RZHFVeDhub2dSeW5fUkdTMGU5emRMWF8xUzh6UkxrUjdWM0JwSy1yMEZwUTFCOUdid2czVHJmUzZIOWJoOU9kY1JVbVVSSEdOZjZvZ3pRRnlxbzlGOXQtaHRyUFI5VUJLWWRuTEdjOA?oc=5",
-   "source": "현대불교",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "[단독] 쿠팡 산재사망으로 시작된 제주도 실태 조사… 쿠팡 택배기사 참여 ‘0’",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95VVBwZWFyaGpsUmtSYXlfOGd4dng1cHpiaVpra0JVRS1Sd2NqZUNwejZvSUNSNkp3UEg1eU9VbE9FZncwNDE3Vzk5Q2hOdmtCOVktQlZwYmNySmdTVVVLZVRLYWRDNEt4ekE?oc=5",
-   "source": "한겨레",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해"
-   ],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "[아유경제_사회] 노무법인 권리, 산재 사망 유족 대상 유족보상 무료 상담 및 지원 실시",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tcGN1Mm0xOUZmR1FpdWJwVTZSa2prZ3FnZjNreE1VNU5UREJwSDlIbFFLSDNHWkJRcXRKUlNRTUp1c09MZGZENnRQRVk4YTNDMW9BdVgzSGc5dlN3Tm93?oc=5",
-   "source": "아유경제",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "예방·교육",
-    "법령·정책"
-   ],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "아워홈 용인공장 끼임 사고…안전 책임자 6명 송치",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdlM0V00zYXM3WE1ONWFMdUpCSVdBZDZmUTBSTGFNZzJ1Smh3Z3VBS1pzX1lNa3FOaEZ3cEktY0N4dGFEa29HU2o2RkVGeWE5aW5JVDN0Y19RZkNMZ2N3M05MbkF0dFVpVW9EUXZDWEM?oc=5",
-   "source": "인천일보",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "'노동자 끼임 사고' 경기도 용인 아워홈 공장장 등 6명 송치",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ITHg0OXNuREdXZlNUUFRIejZsaHBkUDlPQzdQMFhZZVRjc3JzaTg3LUF4Z1d4MEFydHJ0b0d1MmNuVTM2TUgySkZjVUlBMmdpZEc2ZllpekxLR2NNSTd2RTBMZmRvazlxOHRvNG9tMlo4OUVHbjVz0gF3QVVfeXFMTTk1THhYUDZidS1rWXJPeHNQLTFvVzBGZEpqakp5YWJwSXloWmhFV0g2Z1NkcXo1eE5pOVZnamhmUUQ2cm1waFhkd3hMNHFwWEVCVTBoSDdBUmxWQklGalhIVVNaY3ZseEZxM0dtckRvYXZWWlgxbFk?oc=5",
-   "source": "MBC 뉴스",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "아워홈 용인공장 ‘근로자 끼임 사망사고’… 공장장 등 6명 송치",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOENtajZDTmo5TDIzYmZ4ODA5X3BRSTJfcjRGM1htR3FoSm1pbC1oT3B3OWhWNi00aGJ4Y05OV1JBd0l4RTBXbWtza2FkMmRmX3FiZDdQNTdaVUNkRzNXNDRQWFN6YjluZDdfVzVaWW00TjJtZWRkbWpHbXZxYTROZWMwZE05eVo0a1HSAZ4BQVVfeXFMT2taSlM0OVM0Smo0NUppUXdEckhfVnNkS2tzdmsxTHRlLVJhMkNXNFM0WnRJWExRWV8xRmQwM2NraTdQNTFvME5fYzRjbTVWT01zeF9hLWxrNXF3b0xBRDJmcE1kOFQ1V0tzdkV1eGtBS2wzNFFpVmZoRFZYdHZqYzNJWE1MMXpsUS1OcXV4VjREalVrZ0ZjaHBFa3drZ3c?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "경찰 아워홈 용인2공장 근로자 사망사고 책임자 6명 공소청에 송치, 안전덮개 미설치 방치 혐의",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oanNNQ0FPd0FOZkFiNzVTU3RJVVpULTVSV2NyR2huekVMT2ozRW9FWU1XV2E0OFhVZklHR185cllWMnRaN3BJcGdKc1lPQ3ZHcEtLRHBVQ3p4ZWQ1dXpMTWhiSzF6RjZtdU1GZlVwaUhUa0E?oc=5",
-   "source": "비즈니스포스트",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "경찰, ‘아워홈 용인공장 노동자 사망’ 공장장 등 6명 송치",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBucGZ2cG9QZ0J0VlNQM2pqTkJtbkZvRFBtQUw1UnR1M01kZXRrbzVyVk5XNlAxUDRhTk5BZ2g3SWluNzJ5a01sSTJSUVR1UWlfOU9scTcxVTVyQdIBX0FVX3lxTE55QlFhVy1sVXhLZjZrQml2TkJzb04wcVVQa1drNW01TGtOV3NCM25WOWd2eDZBS3RqNmJHLXhDR2lTX0RFVHB2N1pUSVUwdHhsaFJyMGtxZzJQQzFSM2pN?oc=5",
-   "source": "경향신문",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "아워홈 용인공장 근로자 사망…공장장 등 6명 송치",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcHQtdl8zZGw1SlNxdmlEZFdxOFYycW5ITUFiMV96VTRnQ1I0SHFrS3RkaFRVNTE3WkRQckdMclZRdTFxdmdVbnJrSUZMdmZ6VGF6VS1zUmRFcGvSAWBBVV95cUxNcnFLVFZNeGZuSm9faWJZeTBwU21ReUgxVzFUbmVmb2pxVTd0cEQ3S2JlU2Fia1JhMDBZam01UGZRTHNRd1Z4OEdsN0Z0b3NiZ2YteFROX1drRGY5SkFyRG8?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "아워홈 끼임 사망…'안전조치 소홀' 공장장 등 6명 송치",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zUVpsWFJmdE9jRnJiWVBzUVZMRThyUXVPa0xfd3ZhX213V05qajJ6OVNKZkVkcWpTQ0VuVnMtRGcwRk9pazh1UzdwV3k1dG9Eb2pTRnY0Y2JOWE52cHU5bFB5MWM?oc=5",
-   "source": "포쓰저널",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "아워홈 용인공장 '근로자 기계 끼임사'…공장장 등 책임자 6명 송치",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdC1LZ0liY1pjZWJ2MThUdF9XTE81b3ZRbHVFVkJPQ0dTVGJqLUlEdVlEQ3lFTl92ZV9tcXZnd2J2Q0hqNU1Oajl2a1VfUzFTOWFiY2F3?oc=5",
-   "source": "뉴스1",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "사고·재해",
-   "tags": [
-    "사고·재해",
-    "법령·정책"
-   ],
-   "queries": [
-    "끼임 사고 공장"
-   ]
-  },
-  {
-   "title": "한국방폭협회·안전보건공단, 산업현장 화재·폭발 예방 협력 논의",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11M1VBUG5CdmlPTzcwbU1iUGIweFpBYzZncTRrQjJmWWNoalM2MjR3TjR0VWVYWnBrS3B2c2hpSUlfQVJ0aHNkWURFdTY3aG9yaXFnckFRdWsxcnVEcm1mS1hPdHVGOWhUV19WeEhtMURYUWM?oc=5",
-   "source": "울산종합일보",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "화재·폭발·화학",
-   "tags": [
-    "화재·폭발·화학",
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "폭발 화재 공장"
-   ]
-  },
-  {
-   "title": "안전보건공단 충남지역본부, 직업성 질병 예방 강화",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Bb1N2MTJnYVNXVTFpMGZaY01GZ3B2cG5CNWxWWkZfenZGdmFBdy1ZQ0tyQ0NTLXcxcDI0blV6U192MVFubERwYkVtZWE5ZkhzRnBCQmIxYkJBcjdWQ2ZNTzA1X2EtTWFILUZPUDVveFQ?oc=5",
-   "source": "안전신문",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건",
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "과태료는 생겼지만, 서류로 때우는 위험성평가는 막을 수 있나",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqOEM3YnRvbmhrV01zTGJyd2xDelRlMXA0YVUySkRPaW9TSG82MGpuUmYxbHQycEFBclFLQUJuajYxaURWdlhlUm56eC1YdFZLZDl4dmdRX2lJRFdZNk9LLS1BUEFLaFQx?oc=5",
-   "source": "한국안전신문",
-   "published": "2026-11-13T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "위험성평가"
-   ]
-  },
-  {
-   "title": "안전보건공단, 베트남 진출기업과 함께 안전한 일터 만든다",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrMHFlVnRSd0h6X3N0YUpvRnMtN3BkVlVtQUtHajloZ3lrSnc4MTZyQ1F4N2ZtdF9GNjlxOGVCS0dmQTlELWFwQkg1blU4YmtvMzd1MW1IbER5UV9KUlRkb3VOTmN5aHJO?oc=5",
-   "source": "안전정보",
-   "published": "2026-11-13T16:59:00+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "고용노동부, 11월 15일부터 내년 3월 15일까지 ‘한파 대비 노동자 건강보호 대책’ 추진",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTVZFN0MyT05yOWFCRHNfMmdlQXB2NHd3Q0hJVTkzbk9Gbl93NWJKeTBVX0t4dW1FM1EwUUZXN05nUmtUZEdNMFFsZlJYQzd0amJMQ3dxMUFKZERoeC1fdnctVGxCZi05?oc=5",
-   "source": "안전정보",
-   "published": "2026-11-13T16:45:49+09:00",
-   "category": "산업보건",
-   "tags": [
-    "산업보건"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "안전보건공단, 해외 진출 기업 '안전보건관리' 역량 강화 지원",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNRW9VeDdfS2VFbEhMb0tIeGhCWFg0OFVLczZJeHNMc2tjMnl4ZmlIVm5HVHByZ3VxRmdUQUotTTBoaHBJWlNKeWxSUHNnOWd2SzhET2xuVEU4ZTNlYUgwejBvYUljcWo4SXpUUHJn?oc=5",
-   "source": "투데이에너지",
-   "published": "2026-11-13T15:31:19+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "산업재해 예방과 안전문화 확산 캠페인",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHVjBKVC1KY0drb0cwQ0hLcW16cENYUjVQdENsRWRyVXUyZlJrR3RjeVJhRUZTS3VOMC1kQkI2NmlZM0NIMXpMQW1uVUhjaTNXNnBISkI1TDVuckpwSXRWdmZ0Z19ycFU?oc=5",
-   "source": "영남경제",
-   "published": "2026-11-13T15:26:35+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육"
-   ],
-   "queries": [
-    "산업재해"
-   ]
-  },
-  {
-   "title": "전국산재장애인단체연합회 경북협회, 포항서 산업재해 예방 캠페인 전개",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBcy1xZTYtTGxQQnYzdHNzSnBPVF96bXRpdWxJVHVoYlpaeDlIQV80TzlCVnVvbzhEaXZ5R0FqelB4S29IRF9J?oc=5",
-   "source": "코리아투데이뉴스",
-   "published": "2026-11-13T14:58:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육"
-   ],
-   "queries": [
-    "산업재해"
-   ]
-  },
-  {
-   "title": "안전보건공단, 베트남 진출기업 산업재해 예방 지원 강화",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PQjBRMHdFckt2ODJxeVZXcmdnZ09yaUg1RGRrOTRCUmdReDVfMUVzYXZ1WXUzNUNoUG13ckN2Z1V2RWxRalk4b2JJSGdqS3JWSW03WW1sVlFLYnNKOEN6NWkwVkx5NlhMV01EZ0ptU2I?oc=5",
-   "source": "안전신문",
-   "published": "2026-11-13T13:40:41+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "산업안전보건법",
-    "산업재해",
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "윤선희 서울시의원 “세종문화회관, 뒤에선 로펌에 ‘산재 배제’ 자문… 무대 사고 4건 출연자 탓 둔갑”",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UcmJBaFRpX2hTQmQ3ckgwSVpxc0pHRGx2NEFpbm1hOFVaUmJDVWREaGJFMXQtUkNQMTdBbC1HLTVScXltTG9zTTRhc3VUZWZhRHgxcjg2bVpYQ0NWUTZRMjlmVlVYdWlDbC1LV19PdzdxZ9IBckFVX3lxTE5UcmJBaFRpX2hTQmQ3ckgwSVpxc0pHRGx2NEFpbm1hOFVaUmJDVWREaGJFMXQtUkNQMTdBbC1HLTVScXltTG9zTTRhc3VUZWZhRHgxcjg2bVpYQ0NWUTZRMjlmVlVYdWlDbC1LV19PdzdxZw?oc=5",
-   "source": "메가경제",
-   "published": "2026-11-13T09:10:11+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "산재 사망사고"
-   ]
-  },
-  {
-   "title": "안전보건공단-한국산업인력공단, 외국인근로자 입국 전 VR 체험교육 업무협약 체결",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjTC1qZWpMbUZMLUdhTlZUdk9VMzR6Q3djRFpMcmxCbFp1cmU0RDljQjV3NERoUUxFUVpjMHBIR2ZlOWJmLTBMY1FmcUtoSVB1MkRCVkU2UGhhOWxjaUJ5R2VWWjNqWk9l?oc=5",
-   "source": "안전정보",
-   "published": "2026-11-12T22:54:28+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육",
-    "산업보건"
-   ],
-   "queries": [
-    "안전보건공단"
-   ]
-  },
-  {
-   "title": "공공 발주 건설현장 안전관리 책임 강화…고용노동부 강원지청, 합동점검",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBcUJ3Q0g3X1FpSEVlWEpYVWE5cURPcE1VdGkxTzExQldMSVg1Y2JSaW1WMnFQR0FPR2luX0NEUEVBUGNaNVIxVUZOcHBzUkFPVnZGOWNUUGlWYmJUUi1sblN2aV9zSmZW?oc=5",
-   "source": "강원신문",
-   "published": "2026-11-12T22:13:28+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책",
-    "건설안전"
-   ],
-   "queries": [
-    "고용노동부 안전보건"
-   ]
-  },
-  {
-   "title": "화학업계, 안전 기술 교류",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nNk1Rc3BTcnNkRk5XaVhUWmV2dGNZU1I4QmEtR2tfaTgzQ1M3Z09FeDUtWkdiLVdBZDlKTXNvS3RwNEtFSklyaklJNFVycklTdGg5eWtWcTkyQ2tOTkJqWDJic29TUDVxQU1maU5CODg?oc=5",
-   "source": "안전신문",
-   "published": "2026-11-12T18:29:57+09:00",
-   "category": "일반",
-   "tags": [],
-   "queries": [
-    "산업안전보건법"
-   ]
-  },
-  {
-   "title": "유해화학물질 누출 막는다…남동구, 민·관 합동 방제훈련",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EeDBlekY5U2hOMU1zb1JXcm1JTUVXTlU2UjVGNmVFdEFkYi1JeDA1aEVDRVk0V1hyZFplMV95Sm8xR3dqcmZabU5ESXA2WEdLQnpxWUNR?oc=5",
-   "source": "서남투데이",
-   "published": "2026-11-12T18:21:55+09:00",
-   "category": "화재·폭발·화학",
-   "tags": [
-    "화재·폭발·화학",
-    "예방·교육"
-   ],
-   "queries": [
-    "화학물질 누출"
-   ]
-  },
-  {
-   "title": "[심층분석] 예고 없는 기업·CEO 리스크 ‘중대재해처벌법’…경영책임 넘어 납기·공급망까지 기업 존립에 영향",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzTXo1TnU4UG1HUjlMX1R4V3dzQUdzT08xSXB2YU9UZEZ0Wk1jSkR3bENWWmlWMmR4c3F3Mzc1dmYyZ3loR21QQnlzQVF6OTRGNmczT1ZOQkVCU2dCNWFxVjVfc3FpUnhhM21pYktB?oc=5",
-   "source": "이지경제",
-   "published": "2026-11-12T18:01:35+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해처벌법"
-   ]
-  },
-  {
-   "title": "김영훈 고용노동부 장관, 중대재해 취약 현장 불시 점검",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sYlZ6NlN3bjJfLXB4eE9KVGNFSk9iT3JkY3VPU2hNLVBZS0FJdHVKNEpNMzl0aXAyc3lORmRGTDlxR0dLQWRzblRZeFNsVk9ldlpsOHUyd0o4MUnSAWBBVV95cUxPcHliWF8xNWlEY0VxRlZneXp6TGp4NWozX3A4TW9OSm1LM1BRaUY1dkdieEcybFhYY2pkaXlkclNnSGw1NGEwU2pNY25iSHhwaEk4YkhSQ295VkNreXBVWXE?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-11-12T17:00:00+09:00",
-   "category": "법령·정책",
-   "tags": [
-    "법령·정책"
-   ],
-   "queries": [
-    "중대재해"
-   ]
-  },
-  {
-   "title": "위험성평가, 산업재해 예방의 전환점이 될까?",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mM05DYkYzWnVlaVZfeEs2WndCYkRXRG5mOWtPcmVlYTBDbmJoczFwSVhNVzd1S3BVeUl5ZkJrZjZrdTlmNTNNdXBQMjExeHNVeVQtX3BqdEpERE8wdzVuMWJzejMxTVVJLXVoQw?oc=5",
-   "source": "인천in 시민의 손으로 만드는 인터넷신문",
-   "published": "2026-11-12T17:00:00+09:00",
-   "category": "예방·교육",
-   "tags": [
-    "예방·교육"
-   ],
-   "queries": [
-    "산업재해",
-    "위험성평가"
    ]
   }
  ]
